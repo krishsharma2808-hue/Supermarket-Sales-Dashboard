@@ -1,0 +1,1001 @@
+invoice_id,branch,city,customer_type,gender,product_line,unit_price,quantity,tax,total,cost_of_goods_sold,gross_margin_pct,gross_income,payment,date,time,day_of_week,month,rating,discount_pct,membership_years,customer_age
+INV-237337,A,Mumbai,Normal,Male,Sports,1903.97,8,761.59,15993.35,15231.76,0.05,799.67,Credit Card,2023-07-08,12:38,Saturday,July,3,3.0,10,38
+INV-164820,A,Bangalore,Member,Female,Sports,1701.86,8,680.74,14295.62,13614.88,0.05,714.78,Credit Card,2023-06-01,10:21,Thursday,June,2,21.66,13,52
+INV-521909,A,Mumbai,Member,Female,Clothing,53.85,5,13.46,282.71,269.25,0.05,14.14,Credit Card,2023-06-10,19:57,Saturday,June,9,8.74,10,56
+INV-655839,B,Bangalore,Normal,Female,Sports,281.0,3,42.15,885.15,843.0,0.05,44.26,UPI,2023-12-30,14:51,Saturday,December,9,1.39,2,21
+INV-339931,C,Delhi,Member,Female,Sports,894.09,7,312.93,6571.56,6258.63,0.05,328.58,UPI,2023-10-01,11:24,Sunday,October,2,11.56,9,16
+INV-922352,C,Bangalore,Normal,Female,Electronics,3436.95,7,1202.93,25261.58,24058.649999999998,0.05,1263.08,UPI,2023-09-21,10:13,Thursday,September,4,5.47,3,16
+INV-371836,C,Mumbai,Normal,Male,Sports,2154.52,6,646.36,13573.48,12927.119999999999,0.05,678.67,Cash,2023-04-16,11:53,Sunday,April,2,23.25,1,24
+INV-679879,B,Mumbai,Member,Male,Electronics,4479.4,8,1791.76,37626.96,35835.2,0.05,1881.35,Cash,2023-08-03,19:56,Thursday,August,5,11.66,1,61
+INV-616588,C,Mumbai,Normal,Male,Electronics,4152.25,9,1868.51,39238.76,37370.25,0.05,1961.94,Cash,2023-09-09,19:59,Saturday,September,9,8.89,12,15
+INV-233767,C,Delhi,Member,Male,Electronics,127.4,9,57.33,1203.93,1146.6000000000001,0.05,60.2,Credit Card,2023-12-10,08:43,Sunday,December,8,0.42,2,31
+INV-234633,B,Delhi,Member,Female,Home Appliances,3571.14,3,535.67,11249.09,10713.42,0.05,562.45,UPI,2023-10-16,18:04,Monday,October,7,19.53,11,21
+INV-701661,C,Delhi,Member,Female,Electronics,4257.69,2,425.77,8941.15,8515.38,0.05,447.06,UPI,2023-02-02,14:22,Thursday,February,8,19.98,11,54
+INV-572525,A,Mumbai,Member,Male,Sports,1409.87,3,211.48,4441.09,4229.61,0.05,222.05,UPI,2023-08-15,12:46,Tuesday,August,3,22.82,9,28
+INV-647707,A,Mumbai,Member,Female,Electronics,2494.29,9,1122.43,23571.04,22448.61,0.05,1178.55,UPI,2023-07-26,17:41,Wednesday,July,3,0.94,6,63
+INV-827270,C,Delhi,Normal,Female,Home Appliances,1606.06,4,321.21,6745.45,6424.24,0.05,337.27,Cash,2023-08-10,12:22,Thursday,August,4,28.29,6,36
+INV-867595,C,Mumbai,Normal,Male,Cosmetics,4408.32,9,1983.74,41658.62,39674.88,0.05,2082.93,Credit Card,2023-05-14,19:27,Sunday,May,4,26.78,10,42
+INV-717075,B,Delhi,Member,Male,Clothing,1813.67,1,90.68,1904.35,1813.67,0.05,95.22,Cash,2023-10-10,21:56,Tuesday,October,9,9.14,5,22
+INV-265838,B,Bangalore,Member,Female,Clothing,2693.74,5,673.43,14142.13,13468.699999999999,0.05,707.11,Cash,2023-08-13,10:41,Sunday,August,6,6.56,7,55
+INV-865313,C,Mumbai,Member,Female,Groceries,2048.99,1,102.45,2151.44,2048.99,0.05,107.57,Cash,2023-02-21,19:38,Tuesday,February,3,9.03,0,31
+INV-494070,B,Bangalore,Member,Male,Clothing,1370.57,2,137.06,2878.2,2741.14,0.05,143.91,UPI,2023-05-10,19:53,Wednesday,May,5,10.35,0,33
+INV-781669,B,Delhi,Normal,Female,Electronics,3419.49,5,854.87,17952.32,17097.449999999997,0.05,897.62,UPI,2023-06-21,17:31,Wednesday,June,7,20.16,10,31
+INV-713333,A,Delhi,Member,Female,Sports,3654.67,8,1461.87,30699.23,29237.36,0.05,1534.96,UPI,2023-11-21,11:33,Tuesday,November,1,4.52,10,20
+INV-212547,A,Mumbai,Member,Female,Sports,3494.27,3,524.14,11006.95,10482.81,0.05,550.35,Cash,2023-05-28,19:58,Sunday,May,3,21.33,14,33
+INV-577095,A,Delhi,Member,Male,Groceries,1775.9,7,621.57,13052.87,12431.300000000001,0.05,652.64,Cash,2023-11-04,16:32,Saturday,November,7,28.1,0,25
+INV-654594,B,Delhi,Member,Female,Cosmetics,1738.28,9,782.23,16426.75,15644.52,0.05,821.34,Cash,2023-05-31,21:41,Wednesday,May,7,19.8,9,62
+INV-475037,C,Delhi,Normal,Female,Sports,2798.24,1,139.91,2938.15,2798.24,0.05,146.91,UPI,2023-01-02,08:47,Monday,January,5,27.01,10,23
+INV-630583,C,Mumbai,Normal,Male,Sports,1430.41,3,214.56,4505.79,4291.2300000000005,0.05,225.29,Credit Card,2023-10-31,10:19,Tuesday,October,6,23.4,7,25
+INV-757917,B,Bangalore,Member,Male,Home Appliances,4681.39,4,936.28,19661.84,18725.56,0.05,983.09,Credit Card,2023-04-14,11:34,Friday,April,9,19.91,12,32
+INV-554351,A,Delhi,Normal,Female,Cosmetics,846.0,2,84.6,1776.6,1692.0,0.05,88.83,Credit Card,2023-07-13,13:34,Thursday,July,9,5.28,3,47
+INV-956703,B,Delhi,Normal,Male,Groceries,2494.77,4,498.95,10478.03,9979.08,0.05,523.9,Cash,2023-05-15,10:16,Monday,May,1,16.28,10,36
+INV-962645,C,Bangalore,Normal,Female,Electronics,1362.75,6,408.83,8585.33,8176.5,0.05,429.27,Credit Card,2023-08-18,20:50,Friday,August,8,18.93,1,35
+INV-727234,B,Bangalore,Member,Male,Electronics,2538.05,1,126.9,2664.95,2538.05,0.05,133.25,UPI,2023-11-13,10:03,Monday,November,1,1.31,11,42
+INV-425352,A,Mumbai,Member,Female,Electronics,2376.23,5,594.06,12475.21,11881.15,0.05,623.76,UPI,2023-01-06,10:59,Friday,January,5,27.85,0,60
+INV-165726,A,Bangalore,Member,Female,Sports,4834.94,3,725.24,15230.06,14504.82,0.05,761.5,UPI,2023-07-07,08:51,Friday,July,5,5.73,0,17
+INV-465890,A,Mumbai,Normal,Male,Electronics,888.99,9,400.05,8400.96,8000.91,0.05,420.05,Credit Card,2023-08-11,13:57,Friday,August,8,2.11,1,46
+INV-855073,A,Mumbai,Member,Male,Groceries,3372.16,7,1180.26,24785.38,23605.12,0.05,1239.27,Cash,2023-05-07,18:41,Sunday,May,1,25.46,8,57
+INV-335362,B,Delhi,Normal,Male,Groceries,3559.11,7,1245.69,26159.46,24913.77,0.05,1307.97,Credit Card,2023-06-19,14:25,Monday,June,2,26.01,12,21
+INV-694319,C,Mumbai,Member,Male,Clothing,2532.51,4,506.5,10636.54,10130.04,0.05,531.83,Credit Card,2023-11-17,15:45,Friday,November,3,10.14,11,48
+INV-152921,C,Delhi,Normal,Female,Electronics,515.21,7,180.32,3786.79,3606.4700000000003,0.05,189.34,UPI,2023-12-08,10:24,Friday,December,6,17.72,5,63
+INV-561243,A,Delhi,Member,Female,Clothing,234.87,6,70.46,1479.68,1409.22,0.05,73.98,Cash,2023-09-28,13:42,Thursday,September,5,15.67,4,58
+INV-289407,A,Delhi,Normal,Male,Groceries,4828.0,7,1689.8,35485.8,33796.0,0.05,1774.29,Cash,2023-07-15,13:44,Saturday,July,4,12.34,2,54
+INV-322866,A,Bangalore,Normal,Female,Sports,3644.15,2,364.42,7652.72,7288.3,0.05,382.64,Credit Card,2023-05-04,17:29,Thursday,May,1,11.96,2,42
+INV-494366,C,Mumbai,Normal,Female,Cosmetics,3733.01,5,933.25,19598.3,18665.050000000003,0.05,979.91,UPI,2023-04-27,21:22,Thursday,April,9,20.65,0,15
+INV-287628,B,Bangalore,Member,Male,Cosmetics,2239.64,6,671.89,14109.73,13437.84,0.05,705.49,UPI,2023-02-17,16:39,Friday,February,5,19.15,12,53
+INV-566882,B,Bangalore,Normal,Female,Clothing,3302.7,5,825.68,17339.18,16513.5,0.05,866.96,UPI,2023-10-05,20:54,Thursday,October,3,22.74,8,43
+INV-178781,A,Bangalore,Normal,Female,Home Appliances,624.56,5,156.14,3278.94,3122.7999999999997,0.05,163.95,Credit Card,2023-02-16,08:29,Thursday,February,4,5.26,9,40
+INV-595972,C,Delhi,Member,Male,Sports,2483.5,7,869.23,18253.73,17384.5,0.05,912.69,UPI,2023-04-10,08:29,Monday,April,7,1.44,5,19
+INV-472370,C,Delhi,Member,Male,Sports,4439.07,4,887.81,18644.09,17756.28,0.05,932.2,Credit Card,2023-08-11,17:57,Friday,August,1,16.18,12,18
+INV-453151,B,Delhi,Member,Female,Sports,3098.46,7,1084.46,22773.68,21689.22,0.05,1138.68,Cash,2023-09-15,08:27,Friday,September,4,17.26,1,49
+INV-990123,B,Mumbai,Normal,Male,Electronics,3234.28,1,161.71,3395.99,3234.28,0.05,169.8,UPI,2023-06-28,18:36,Wednesday,June,3,24.61,7,24
+INV-724674,B,Mumbai,Member,Male,Home Appliances,1073.09,2,107.31,2253.49,2146.18,0.05,112.67,Cash,2023-09-10,10:49,Sunday,September,7,2.14,7,43
+INV-103267,C,Mumbai,Member,Female,Home Appliances,4232.13,2,423.21,8887.47,8464.26,0.05,444.37,Credit Card,2023-04-25,16:06,Tuesday,April,5,10.45,10,43
+INV-616771,C,Bangalore,Normal,Male,Clothing,243.97,9,109.79,2305.52,2195.73,0.05,115.28,UPI,2023-10-04,20:56,Wednesday,October,5,22.52,2,63
+INV-500573,A,Bangalore,Member,Male,Cosmetics,3671.66,4,734.33,15420.97,14686.64,0.05,771.05,UPI,2023-04-06,15:22,Thursday,April,5,7.16,6,27
+INV-734736,A,Mumbai,Member,Male,Electronics,3712.55,3,556.88,11694.53,11137.650000000001,0.05,584.73,Cash,2023-12-27,21:16,Wednesday,December,4,24.79,5,27
+INV-825256,C,Delhi,Normal,Female,Electronics,4482.84,1,224.14,4706.98,4482.84,0.05,235.35,Credit Card,2023-04-10,19:40,Monday,April,7,28.7,14,33
+INV-320184,A,Mumbai,Member,Female,Groceries,2490.48,5,622.62,13075.02,12452.4,0.05,653.75,Credit Card,2023-03-10,10:11,Friday,March,4,20.18,3,37
+INV-645977,C,Mumbai,Normal,Female,Sports,3917.42,7,1371.1,28793.04,27421.940000000002,0.05,1439.65,UPI,2023-04-19,12:41,Wednesday,April,7,29.88,9,19
+INV-254697,B,Mumbai,Normal,Female,Electronics,3698.33,2,369.83,7766.49,7396.66,0.05,388.32,Credit Card,2023-08-27,19:08,Sunday,August,1,3.03,6,60
+INV-314532,C,Delhi,Member,Female,Groceries,3519.8,9,1583.91,33262.11,31678.2,0.05,1663.11,UPI,2023-10-10,17:01,Tuesday,October,5,7.0,7,62
+INV-494540,B,Bangalore,Normal,Male,Clothing,4322.54,6,1296.76,27232.0,25935.239999999998,0.05,1361.6,UPI,2023-05-25,14:24,Thursday,May,4,10.51,11,45
+INV-548345,C,Mumbai,Normal,Male,Electronics,2434.25,6,730.28,15335.78,14605.5,0.05,766.79,UPI,2023-06-16,18:09,Friday,June,3,3.34,2,59
+INV-938656,B,Delhi,Normal,Male,Groceries,106.2,4,21.24,446.04,424.8,0.05,22.3,Credit Card,2023-11-13,16:38,Monday,November,3,17.5,13,63
+INV-922827,B,Bangalore,Normal,Female,Cosmetics,460.31,1,23.02,483.33,460.31,0.05,24.17,Credit Card,2023-04-27,13:57,Thursday,April,5,1.3,4,25
+INV-738353,A,Delhi,Normal,Female,Clothing,4599.62,4,919.92,19318.4,18398.48,0.05,965.92,Credit Card,2023-08-15,10:19,Tuesday,August,9,6.5,14,45
+INV-965291,C,Bangalore,Member,Female,Clothing,4979.37,6,1493.81,31370.03,29876.22,0.05,1568.5,UPI,2023-09-16,14:56,Saturday,September,8,11.84,7,42
+INV-730075,C,Delhi,Normal,Female,Groceries,1711.52,4,342.3,7188.38,6846.08,0.05,359.42,Cash,2023-03-31,15:57,Friday,March,2,7.98,4,55
+INV-417428,C,Bangalore,Normal,Female,Cosmetics,1336.75,6,401.03,8421.53,8020.5,0.05,421.08,Cash,2023-05-25,16:32,Thursday,May,4,18.08,12,27
+INV-675278,B,Bangalore,Member,Female,Sports,4559.09,6,1367.73,28722.27,27354.54,0.05,1436.11,Cash,2023-03-23,10:04,Thursday,March,9,12.55,7,44
+INV-161813,B,Delhi,Member,Female,Cosmetics,4337.02,5,1084.26,22769.36,21685.100000000002,0.05,1138.47,Credit Card,2023-04-29,15:32,Saturday,April,1,14.41,14,63
+INV-932972,C,Bangalore,Normal,Female,Electronics,1914.86,9,861.69,18095.43,17233.739999999998,0.05,904.77,Cash,2023-12-08,18:26,Friday,December,1,14.06,2,15
+INV-815460,B,Mumbai,Normal,Female,Sports,117.68,7,41.19,864.95,823.76,0.05,43.25,UPI,2023-01-06,19:16,Friday,January,5,29.9,4,37
+INV-244528,C,Delhi,Normal,Female,Home Appliances,3856.49,5,964.12,20246.57,19282.449999999997,0.05,1012.33,Credit Card,2023-07-21,17:18,Friday,July,5,13.52,13,15
+INV-605950,C,Bangalore,Normal,Female,Home Appliances,4772.55,4,954.51,20044.71,19090.2,0.05,1002.24,Cash,2023-10-15,09:27,Sunday,October,8,0.67,9,48
+INV-740053,B,Bangalore,Normal,Male,Groceries,2407.24,3,361.09,7582.81,7221.719999999999,0.05,379.14,UPI,2023-11-02,19:00,Thursday,November,5,2.65,10,31
+INV-964141,A,Mumbai,Normal,Male,Electronics,713.38,7,249.68,5243.34,4993.66,0.05,262.17,UPI,2023-07-26,12:20,Wednesday,July,2,24.15,6,52
+INV-828913,B,Bangalore,Member,Male,Electronics,3105.46,2,310.55,6521.47,6210.92,0.05,326.07,Cash,2023-10-21,09:33,Saturday,October,3,27.12,3,52
+INV-347940,A,Mumbai,Normal,Male,Groceries,2282.01,7,798.7,16772.77,15974.070000000002,0.05,838.64,UPI,2023-04-16,10:16,Sunday,April,4,13.78,0,24
+INV-900820,A,Bangalore,Normal,Female,Clothing,3856.14,4,771.23,16195.79,15424.56,0.05,809.79,UPI,2023-03-10,09:05,Friday,March,2,9.86,10,57
+INV-598870,C,Bangalore,Member,Female,Electronics,1238.72,3,185.81,3901.97,3716.16,0.05,195.1,Credit Card,2023-04-21,16:22,Friday,April,6,20.93,3,54
+INV-431868,A,Delhi,Member,Male,Groceries,3497.68,9,1573.96,33053.08,31479.12,0.05,1652.65,UPI,2023-07-14,10:26,Friday,July,2,18.06,2,33
+INV-441396,A,Mumbai,Member,Male,Clothing,4117.86,2,411.79,8647.51,8235.72,0.05,432.38,Credit Card,2023-04-02,17:21,Sunday,April,6,3.62,8,26
+INV-312890,C,Delhi,Normal,Female,Sports,1071.35,2,107.13,2249.83,2142.7,0.05,112.49,UPI,2023-03-19,17:44,Sunday,March,9,2.77,14,36
+INV-290471,A,Mumbai,Member,Male,Groceries,454.71,1,22.74,477.45,454.71,0.05,23.87,Cash,2023-01-26,11:00,Thursday,January,1,17.92,3,29
+INV-915131,B,Delhi,Member,Female,Home Appliances,2706.12,8,1082.45,22731.41,21648.96,0.05,1136.57,Cash,2023-08-02,21:25,Wednesday,August,7,15.94,1,59
+INV-969270,C,Bangalore,Member,Female,Home Appliances,358.59,8,143.44,3012.16,2868.72,0.05,150.61,Credit Card,2023-01-07,10:46,Saturday,January,2,13.42,2,29
+INV-347736,B,Delhi,Normal,Female,Electronics,569.1,7,199.19,4182.89,3983.7000000000003,0.05,209.14,Cash,2023-01-28,17:38,Saturday,January,1,6.34,9,58
+INV-567010,A,Bangalore,Member,Female,Groceries,1204.42,4,240.88,5058.56,4817.68,0.05,252.93,Credit Card,2023-01-25,11:09,Wednesday,January,9,14.95,14,50
+INV-181264,A,Bangalore,Normal,Male,Cosmetics,2708.68,2,270.87,5688.23,5417.36,0.05,284.41,UPI,2023-04-21,15:39,Friday,April,3,11.36,4,20
+INV-365956,B,Delhi,Member,Male,Cosmetics,4503.25,2,450.33,9456.83,9006.5,0.05,472.84,Credit Card,2023-11-11,20:05,Saturday,November,9,7.12,5,35
+INV-287210,B,Mumbai,Normal,Female,Cosmetics,806.65,7,282.33,5928.88,5646.55,0.05,296.44,UPI,2023-04-22,11:29,Saturday,April,8,26.9,6,17
+INV-640677,A,Mumbai,Member,Male,Sports,2646.33,8,1058.53,22229.17,21170.64,0.05,1111.46,Credit Card,2023-08-17,11:23,Thursday,August,2,17.28,10,18
+INV-899666,C,Mumbai,Normal,Male,Electronics,76.24,6,22.87,480.31,457.43999999999994,0.05,24.02,Credit Card,2023-04-04,15:37,Tuesday,April,9,21.55,10,22
+INV-164323,C,Mumbai,Normal,Female,Cosmetics,2409.27,5,602.32,12648.67,12046.35,0.05,632.43,Cash,2023-11-22,17:53,Wednesday,November,3,5.99,3,63
+INV-888260,A,Mumbai,Member,Male,Sports,2672.71,1,133.64,2806.35,2672.71,0.05,140.32,Cash,2023-03-31,21:37,Friday,March,4,9.62,2,47
+INV-503081,C,Bangalore,Normal,Male,Groceries,1877.69,8,751.08,15772.6,15021.52,0.05,788.63,UPI,2023-01-10,12:22,Tuesday,January,2,9.67,1,34
+INV-872042,A,Delhi,Member,Female,Home Appliances,1310.47,5,327.62,6879.97,6552.35,0.05,344.0,Cash,2023-11-25,08:08,Saturday,November,8,18.18,2,44
+INV-405073,A,Delhi,Member,Male,Sports,578.16,5,144.54,3035.34,2890.7999999999997,0.05,151.77,Credit Card,2023-11-14,19:43,Tuesday,November,5,21.93,8,48
+INV-237023,B,Bangalore,Normal,Male,Home Appliances,947.1,3,142.07,2983.37,2841.3,0.05,149.17,UPI,2023-01-01,15:21,Sunday,January,8,24.84,4,28
+INV-512498,B,Mumbai,Normal,Male,Cosmetics,4007.71,3,601.16,12624.29,12023.130000000001,0.05,631.21,UPI,2023-08-01,12:04,Tuesday,August,4,9.49,9,39
+INV-139711,B,Bangalore,Normal,Male,Clothing,3430.76,8,1372.3,28818.38,27446.08,0.05,1440.92,UPI,2023-10-22,15:13,Sunday,October,3,18.72,0,37
+INV-635534,C,Delhi,Normal,Female,Groceries,2221.79,1,111.09,2332.88,2221.79,0.05,116.64,UPI,2023-06-02,08:32,Friday,June,7,15.96,4,54
+INV-196646,A,Delhi,Normal,Female,Clothing,1183.68,7,414.29,8700.05,8285.76,0.05,435.0,Credit Card,2023-07-17,13:02,Monday,July,3,10.05,3,29
+INV-675644,B,Delhi,Member,Female,Home Appliances,4399.21,1,219.96,4619.17,4399.21,0.05,230.96,UPI,2023-08-19,18:35,Saturday,August,6,22.57,12,51
+INV-945633,A,Mumbai,Member,Female,Clothing,3903.93,1,195.2,4099.13,3903.93,0.05,204.96,Cash,2023-09-11,11:21,Monday,September,5,26.3,0,52
+INV-402775,C,Bangalore,Member,Female,Groceries,2705.58,4,541.12,11363.44,10822.32,0.05,568.17,Cash,2023-12-31,15:51,Sunday,December,8,4.5,14,18
+INV-437827,A,Delhi,Member,Male,Sports,3625.15,2,362.52,7612.82,7250.3,0.05,380.64,Cash,2023-04-05,10:50,Wednesday,April,4,21.49,10,19
+INV-155318,B,Bangalore,Normal,Male,Groceries,4142.65,8,1657.06,34798.26,33141.2,0.05,1739.91,Cash,2023-02-07,13:07,Tuesday,February,8,15.18,8,47
+INV-415172,C,Mumbai,Normal,Male,Electronics,139.65,4,27.93,586.53,558.6,0.05,29.33,Cash,2023-11-20,12:55,Monday,November,8,19.54,0,42
+INV-275399,A,Mumbai,Member,Female,Electronics,1903.46,9,856.56,17987.7,17131.14,0.05,899.39,Credit Card,2023-02-20,20:13,Monday,February,9,27.77,6,15
+INV-748373,C,Bangalore,Normal,Male,Home Appliances,610.53,5,152.63,3205.28,3052.6499999999996,0.05,160.26,Cash,2023-12-12,21:35,Tuesday,December,7,27.63,14,54
+INV-611411,C,Delhi,Normal,Male,Groceries,3059.08,9,1376.59,28908.31,27531.72,0.05,1445.42,Credit Card,2023-11-05,16:09,Sunday,November,9,0.14,8,49
+INV-763937,A,Mumbai,Member,Female,Home Appliances,2020.94,9,909.42,19097.88,18188.46,0.05,954.89,UPI,2023-03-31,18:37,Friday,March,7,10.41,1,41
+INV-429670,C,Bangalore,Normal,Female,Clothing,2288.48,3,343.27,7208.71,6865.4400000000005,0.05,360.44,Credit Card,2023-07-01,15:24,Saturday,July,4,12.57,7,47
+INV-990324,C,Mumbai,Normal,Female,Cosmetics,1843.85,6,553.15,11616.25,11063.099999999999,0.05,580.81,Credit Card,2023-06-03,19:49,Saturday,June,1,5.34,3,55
+INV-251878,C,Mumbai,Normal,Female,Cosmetics,785.88,6,235.76,4951.04,4715.28,0.05,247.55,UPI,2023-12-08,19:39,Friday,December,1,9.3,13,37
+INV-159676,A,Bangalore,Member,Male,Electronics,2162.61,8,865.04,18165.92,17300.88,0.05,908.3,Credit Card,2023-07-30,21:31,Sunday,July,1,1.1,13,30
+INV-803662,C,Bangalore,Normal,Female,Groceries,2845.96,2,284.6,5976.52,5691.92,0.05,298.83,UPI,2023-09-14,21:50,Thursday,September,2,15.73,11,63
+INV-676775,C,Mumbai,Member,Male,Sports,2033.78,6,610.13,12812.81,12202.68,0.05,640.64,UPI,2023-11-15,11:00,Wednesday,November,7,28.38,9,24
+INV-912831,C,Bangalore,Normal,Female,Clothing,4492.28,2,449.23,9433.79,8984.56,0.05,471.69,Cash,2023-03-28,14:27,Tuesday,March,2,26.01,7,15
+INV-549589,C,Delhi,Member,Female,Sports,2781.03,3,417.15,8760.24,8343.09,0.05,438.01,Cash,2023-09-12,20:07,Tuesday,September,9,24.0,2,47
+INV-830399,A,Mumbai,Normal,Female,Groceries,2805.77,8,1122.31,23568.47,22446.16,0.05,1178.42,UPI,2023-10-18,15:13,Wednesday,October,8,24.21,3,51
+INV-378176,A,Mumbai,Member,Female,Clothing,748.36,7,261.93,5500.45,5238.52,0.05,275.02,UPI,2023-01-07,17:06,Saturday,January,7,25.44,12,33
+INV-123236,A,Mumbai,Normal,Female,Sports,2936.06,2,293.61,6165.73,5872.12,0.05,308.29,Credit Card,2023-01-02,08:46,Monday,January,4,10.08,14,16
+INV-756639,C,Bangalore,Normal,Female,Clothing,1847.14,7,646.5,13576.48,12929.980000000001,0.05,678.82,Credit Card,2023-01-20,12:36,Friday,January,9,13.08,11,49
+INV-356713,A,Mumbai,Normal,Male,Clothing,4744.84,6,1423.45,29892.49,28469.04,0.05,1494.62,Cash,2023-12-30,15:16,Saturday,December,8,29.56,6,46
+INV-659655,A,Delhi,Member,Male,Cosmetics,2154.81,3,323.22,6787.65,6464.43,0.05,339.38,Cash,2023-07-28,21:08,Friday,July,2,19.0,6,23
+INV-307980,A,Mumbai,Normal,Male,Home Appliances,739.81,4,147.96,3107.2,2959.24,0.05,155.36,Credit Card,2023-06-03,17:28,Saturday,June,2,8.17,10,20
+INV-655941,C,Delhi,Member,Female,Home Appliances,4575.78,5,1143.94,24022.84,22878.899999999998,0.05,1201.14,Cash,2023-02-11,11:40,Saturday,February,2,16.63,8,52
+INV-816756,B,Bangalore,Member,Male,Home Appliances,4157.22,7,1455.03,30555.57,29100.54,0.05,1527.78,UPI,2023-04-27,17:21,Thursday,April,9,7.99,10,54
+INV-552268,C,Bangalore,Normal,Female,Clothing,1291.12,9,581.0,12201.08,11620.079999999998,0.05,610.05,Credit Card,2023-11-05,14:09,Sunday,November,1,12.56,11,60
+INV-121172,B,Delhi,Normal,Female,Sports,282.48,6,84.74,1779.62,1694.88,0.05,88.98,Cash,2023-12-29,08:50,Friday,December,4,23.13,12,35
+INV-328071,B,Mumbai,Normal,Female,Sports,4193.54,4,838.71,17612.87,16774.16,0.05,880.64,Credit Card,2023-04-23,18:38,Sunday,April,3,28.48,6,61
+INV-683417,B,Bangalore,Member,Female,Cosmetics,4772.73,6,1431.82,30068.2,28636.379999999997,0.05,1503.41,Cash,2023-03-10,15:32,Friday,March,4,16.2,2,49
+INV-278376,C,Mumbai,Member,Male,Home Appliances,4215.57,1,210.78,4426.35,4215.57,0.05,221.32,UPI,2023-12-31,18:33,Sunday,December,2,3.2,8,54
+INV-155337,C,Delhi,Member,Male,Electronics,3654.53,9,1644.54,34535.31,32890.770000000004,0.05,1726.77,Credit Card,2023-03-02,18:39,Thursday,March,9,7.39,2,64
+INV-675762,C,Delhi,Normal,Male,Cosmetics,4007.11,3,601.07,12622.4,12021.33,0.05,631.12,Credit Card,2023-04-12,09:11,Wednesday,April,5,2.75,10,63
+INV-251563,A,Delhi,Member,Male,Cosmetics,727.25,9,327.26,6872.51,6545.25,0.05,343.63,Cash,2023-11-07,08:46,Tuesday,November,8,22.75,14,35
+INV-286833,A,Bangalore,Member,Male,Electronics,3807.23,5,951.81,19987.96,19036.15,0.05,999.4,UPI,2023-07-17,15:24,Monday,July,9,19.4,10,40
+INV-980889,C,Mumbai,Member,Female,Home Appliances,305.4,7,106.89,2244.69,2137.7999999999997,0.05,112.23,Cash,2023-10-09,12:21,Monday,October,7,1.02,4,21
+INV-499953,C,Delhi,Member,Male,Groceries,1521.88,8,608.75,12783.79,12175.04,0.05,639.19,UPI,2023-11-11,14:28,Saturday,November,4,25.34,1,56
+INV-310017,C,Delhi,Member,Female,Home Appliances,3240.51,8,1296.2,27220.28,25924.08,0.05,1361.01,Cash,2023-04-18,19:44,Tuesday,April,3,20.89,7,40
+INV-406691,C,Delhi,Normal,Male,Electronics,3637.6,7,1273.16,26736.36,25463.2,0.05,1336.82,UPI,2023-01-15,15:48,Sunday,January,6,9.56,1,47
+INV-559297,A,Delhi,Normal,Male,Electronics,4435.59,2,443.56,9314.74,8871.18,0.05,465.74,Cash,2023-11-07,10:41,Tuesday,November,7,5.56,1,46
+INV-522845,A,Mumbai,Normal,Female,Groceries,4666.32,7,1633.21,34297.45,32664.239999999998,0.05,1714.87,Credit Card,2023-10-29,11:28,Sunday,October,1,12.06,4,58
+INV-729661,C,Delhi,Member,Female,Clothing,3156.15,8,1262.46,26511.66,25249.2,0.05,1325.58,UPI,2023-08-24,16:09,Thursday,August,9,10.09,3,19
+INV-649239,A,Delhi,Normal,Female,Electronics,3674.75,1,183.74,3858.49,3674.75,0.05,192.92,Cash,2023-01-03,20:13,Tuesday,January,2,8.89,13,51
+INV-975863,A,Mumbai,Normal,Male,Sports,258.36,1,12.92,271.28,258.36,0.05,13.56,Credit Card,2023-03-14,08:56,Tuesday,March,4,6.55,9,51
+INV-599722,C,Delhi,Normal,Female,Groceries,3942.41,6,1182.72,24837.18,23654.46,0.05,1241.86,UPI,2023-10-22,15:45,Sunday,October,2,5.01,3,18
+INV-426898,A,Delhi,Member,Female,Clothing,1196.77,4,239.35,5026.43,4787.08,0.05,251.32,Credit Card,2023-12-15,13:52,Friday,December,2,11.52,8,63
+INV-698069,C,Mumbai,Normal,Female,Sports,4788.49,8,1915.4,40223.32,38307.92,0.05,2011.17,Credit Card,2023-09-19,12:04,Tuesday,September,7,26.51,2,34
+INV-474999,A,Delhi,Member,Male,Sports,4974.79,3,746.22,15670.59,14924.369999999999,0.05,783.53,Credit Card,2023-06-27,09:16,Tuesday,June,3,24.47,5,27
+INV-183300,B,Mumbai,Member,Male,Cosmetics,1157.9,9,521.06,10942.16,10421.1,0.05,547.11,Credit Card,2023-11-25,11:13,Saturday,November,2,13.72,7,17
+INV-388075,C,Delhi,Normal,Male,Clothing,1401.15,9,630.52,13240.87,12610.35,0.05,662.04,Cash,2023-07-14,16:33,Friday,July,9,9.87,8,19
+INV-777114,C,Bangalore,Normal,Female,Electronics,3689.3,2,368.93,7747.53,7378.6,0.05,387.38,Cash,2023-05-04,13:07,Thursday,May,5,1.46,1,20
+INV-502732,B,Bangalore,Member,Female,Cosmetics,4812.5,5,1203.12,25265.62,24062.5,0.05,1263.28,UPI,2023-03-22,09:39,Wednesday,March,3,24.74,7,54
+INV-119623,C,Bangalore,Member,Male,Clothing,3406.18,1,170.31,3576.49,3406.18,0.05,178.82,Cash,2023-09-19,15:18,Tuesday,September,1,4.72,8,27
+INV-972638,C,Bangalore,Member,Female,Home Appliances,4193.22,9,1886.95,39625.93,37738.98,0.05,1981.3,UPI,2023-06-30,17:35,Friday,June,6,5.68,4,57
+INV-992297,C,Delhi,Normal,Male,Groceries,4808.51,9,2163.83,45440.42,43276.590000000004,0.05,2272.02,UPI,2023-01-31,14:41,Tuesday,January,5,22.31,14,32
+INV-175418,A,Delhi,Member,Male,Cosmetics,4098.94,7,1434.63,30127.21,28692.579999999998,0.05,1506.36,Cash,2023-08-12,20:45,Saturday,August,1,16.8,7,45
+INV-302053,C,Bangalore,Normal,Male,Electronics,1914.64,8,765.86,16082.98,15317.12,0.05,804.15,UPI,2023-12-31,10:47,Sunday,December,3,22.83,9,55
+INV-708095,B,Mumbai,Member,Female,Groceries,4816.81,5,1204.2,25288.25,24084.050000000003,0.05,1264.41,Cash,2023-10-05,11:19,Thursday,October,4,2.04,10,31
+INV-476826,C,Mumbai,Member,Female,Groceries,3866.37,1,193.32,4059.69,3866.37,0.05,202.98,UPI,2023-07-12,13:25,Wednesday,July,2,26.15,14,43
+INV-632101,C,Mumbai,Normal,Female,Groceries,2257.49,3,338.62,7111.09,6772.469999999999,0.05,355.55,UPI,2023-01-07,20:10,Saturday,January,3,7.58,6,40
+INV-713474,C,Mumbai,Member,Female,Cosmetics,836.74,2,83.67,1757.15,1673.48,0.05,87.86,UPI,2023-10-12,11:16,Thursday,October,9,4.91,6,43
+INV-440941,A,Bangalore,Member,Female,Cosmetics,3483.73,4,696.75,14631.67,13934.92,0.05,731.58,Credit Card,2023-10-15,09:46,Sunday,October,4,19.64,10,17
+INV-532430,B,Delhi,Member,Male,Groceries,4756.77,8,1902.71,39956.87,38054.16,0.05,1997.84,UPI,2023-04-02,20:20,Sunday,April,5,19.16,5,33
+INV-346693,A,Mumbai,Member,Male,Electronics,1407.37,3,211.11,4433.22,4222.11,0.05,221.66,Cash,2023-09-14,17:59,Thursday,September,2,6.39,0,39
+INV-185530,C,Bangalore,Member,Female,Groceries,3588.87,2,358.89,7536.63,7177.74,0.05,376.83,Cash,2023-09-28,19:15,Thursday,September,8,4.78,8,31
+INV-447697,B,Mumbai,Normal,Male,Cosmetics,501.26,8,200.5,4210.58,4010.08,0.05,210.53,Cash,2023-03-20,18:45,Monday,March,4,0.54,12,58
+INV-618349,A,Bangalore,Member,Female,Cosmetics,211.0,3,31.65,664.65,633.0,0.05,33.23,UPI,2023-02-15,16:29,Wednesday,February,7,3.76,11,34
+INV-935700,C,Delhi,Member,Male,Cosmetics,2180.01,6,654.0,13734.06,13080.060000000001,0.05,686.7,Cash,2023-11-15,13:53,Wednesday,November,2,23.93,10,27
+INV-969741,B,Bangalore,Normal,Female,Cosmetics,790.42,5,197.61,4149.71,3952.1,0.05,207.49,Credit Card,2023-10-01,21:17,Sunday,October,6,8.75,12,39
+INV-932599,B,Mumbai,Member,Female,Cosmetics,4307.61,6,1292.28,27137.94,25845.659999999996,0.05,1356.9,UPI,2023-09-24,13:50,Sunday,September,9,7.26,8,60
+INV-397632,C,Bangalore,Member,Male,Clothing,755.35,6,226.61,4758.71,4532.1,0.05,237.94,Cash,2023-03-27,19:19,Monday,March,8,0.29,11,47
+INV-319724,B,Mumbai,Member,Male,Electronics,2612.67,1,130.63,2743.3,2612.67,0.05,137.17,Credit Card,2023-08-21,20:29,Monday,August,4,10.73,6,16
+INV-109078,A,Delhi,Member,Female,Clothing,4888.46,2,488.85,10265.77,9776.92,0.05,513.29,Credit Card,2023-05-23,09:41,Tuesday,May,1,28.55,12,17
+INV-749438,C,Bangalore,Member,Female,Home Appliances,4486.3,9,2018.84,42395.54,40376.700000000004,0.05,2119.78,Credit Card,2023-09-19,16:38,Tuesday,September,9,21.27,7,22
+INV-854122,B,Bangalore,Member,Male,Groceries,3584.73,4,716.95,15055.87,14338.92,0.05,752.79,UPI,2023-11-14,18:06,Tuesday,November,4,16.59,5,36
+INV-719369,B,Bangalore,Member,Male,Sports,2288.98,3,343.35,7210.29,6866.9400000000005,0.05,360.51,UPI,2023-05-07,16:59,Sunday,May,2,1.81,6,26
+INV-694604,B,Bangalore,Member,Male,Clothing,839.75,3,125.96,2645.21,2519.25,0.05,132.26,UPI,2023-05-02,10:54,Tuesday,May,8,26.15,4,46
+INV-889352,C,Delhi,Normal,Male,Clothing,2516.07,2,251.61,5283.75,5032.14,0.05,264.19,Cash,2023-07-30,13:36,Sunday,July,3,2.45,2,49
+INV-619984,A,Delhi,Member,Female,Groceries,1141.78,6,342.53,7193.21,6850.68,0.05,359.66,UPI,2023-07-26,08:06,Wednesday,July,5,21.82,12,38
+INV-985691,C,Delhi,Normal,Male,Sports,2156.19,4,431.24,9056.0,8624.76,0.05,452.8,Credit Card,2023-08-08,19:19,Tuesday,August,8,16.3,2,46
+INV-389102,A,Mumbai,Normal,Male,Electronics,2960.89,5,740.22,15544.67,14804.449999999999,0.05,777.23,UPI,2023-12-20,11:01,Wednesday,December,2,23.79,6,56
+INV-803724,A,Delhi,Normal,Female,Clothing,4961.06,6,1488.32,31254.68,29766.36,0.05,1562.73,Cash,2023-05-05,19:02,Friday,May,2,18.95,14,47
+INV-297133,A,Mumbai,Normal,Male,Clothing,701.26,8,280.5,5890.58,5610.08,0.05,294.53,UPI,2023-04-10,21:22,Monday,April,2,5.43,4,52
+INV-722605,B,Delhi,Normal,Female,Home Appliances,2486.78,6,746.03,15666.71,14920.68,0.05,783.34,Credit Card,2023-11-12,20:46,Sunday,November,8,17.38,3,16
+INV-429793,B,Mumbai,Member,Male,Groceries,521.54,1,26.08,547.62,521.54,0.05,27.38,Cash,2023-12-11,16:27,Monday,December,3,19.7,14,15
+INV-857038,A,Mumbai,Normal,Female,Sports,3878.69,8,1551.48,32581.0,31029.52,0.05,1629.05,Credit Card,2023-06-13,20:22,Tuesday,June,3,13.26,9,43
+INV-965962,B,Bangalore,Normal,Female,Groceries,1718.17,9,773.18,16236.71,15463.53,0.05,811.84,UPI,2023-09-14,12:19,Thursday,September,1,7.58,5,34
+INV-192324,B,Delhi,Member,Female,Home Appliances,1927.83,5,481.96,10121.11,9639.15,0.05,506.06,Cash,2023-06-24,12:11,Saturday,June,1,25.33,11,42
+INV-618477,B,Delhi,Normal,Male,Home Appliances,4327.87,6,1298.36,27265.58,25967.22,0.05,1363.28,Credit Card,2023-04-18,18:19,Tuesday,April,2,3.69,4,34
+INV-438404,A,Mumbai,Member,Female,Home Appliances,305.9,1,15.29,321.19,305.9,0.05,16.06,UPI,2023-04-29,10:05,Saturday,April,5,2.66,0,63
+INV-859034,A,Bangalore,Member,Female,Home Appliances,2944.12,4,588.82,12365.3,11776.48,0.05,618.26,Cash,2023-06-30,09:23,Friday,June,2,9.69,12,53
+INV-909343,A,Bangalore,Member,Male,Cosmetics,2300.96,2,230.1,4832.02,4601.92,0.05,241.6,Credit Card,2023-10-21,11:22,Saturday,October,4,21.14,9,22
+INV-900101,B,Delhi,Normal,Female,Cosmetics,4851.06,1,242.55,5093.61,4851.06,0.05,254.68,UPI,2023-09-21,20:31,Thursday,September,5,28.9,14,48
+INV-881725,B,Mumbai,Member,Female,Cosmetics,3325.08,7,1163.78,24439.34,23275.559999999998,0.05,1221.97,Cash,2023-08-06,18:09,Sunday,August,2,7.32,9,22
+INV-530424,A,Delhi,Normal,Male,Groceries,4329.81,1,216.49,4546.3,4329.81,0.05,227.32,UPI,2023-03-17,18:07,Friday,March,4,20.3,2,45
+INV-734457,A,Mumbai,Member,Male,Electronics,3311.48,5,827.87,17385.27,16557.4,0.05,869.26,Credit Card,2023-10-31,12:40,Tuesday,October,2,29.98,5,23
+INV-742804,C,Mumbai,Normal,Female,Home Appliances,4338.87,9,1952.49,41002.32,39049.83,0.05,2050.12,Cash,2023-06-25,20:08,Sunday,June,9,3.27,1,52
+INV-435441,A,Mumbai,Normal,Male,Clothing,1668.81,6,500.64,10513.5,10012.86,0.05,525.68,Cash,2023-01-19,13:33,Thursday,January,9,9.52,12,25
+INV-451296,B,Delhi,Member,Male,Electronics,1909.58,6,572.87,12030.35,11457.48,0.05,601.52,Cash,2023-03-30,12:14,Thursday,March,7,16.9,2,43
+INV-179973,B,Bangalore,Member,Male,Electronics,2271.03,1,113.55,2384.58,2271.03,0.05,119.23,UPI,2023-08-12,08:34,Saturday,August,3,5.05,13,24
+INV-368615,C,Delhi,Member,Female,Electronics,3808.75,9,1713.94,35992.69,34278.75,0.05,1799.63,Cash,2023-01-03,12:25,Tuesday,January,2,14.38,4,43
+INV-766923,A,Bangalore,Normal,Male,Clothing,1739.18,5,434.8,9130.7,8695.9,0.05,456.54,Credit Card,2023-10-31,12:14,Tuesday,October,4,18.24,6,20
+INV-159182,B,Bangalore,Member,Female,Groceries,3747.03,5,936.76,19671.91,18735.15,0.05,983.6,Cash,2023-04-17,14:15,Monday,April,5,26.94,8,50
+INV-540097,C,Bangalore,Normal,Female,Sports,4638.82,4,927.76,19483.04,18555.28,0.05,974.15,Credit Card,2023-10-04,20:21,Wednesday,October,4,7.7,3,60
+INV-557373,A,Mumbai,Member,Male,Cosmetics,1571.09,3,235.66,4948.93,4713.2699999999995,0.05,247.45,UPI,2023-05-16,17:35,Tuesday,May,2,12.0,12,18
+INV-172588,A,Delhi,Member,Female,Clothing,4124.71,7,1443.65,30316.62,28872.97,0.05,1515.83,Credit Card,2023-12-17,19:09,Sunday,December,7,8.86,0,56
+INV-636437,A,Delhi,Normal,Male,Groceries,966.88,8,386.75,8121.79,7735.04,0.05,406.09,UPI,2023-02-05,11:03,Sunday,February,7,24.47,11,59
+INV-240507,A,Mumbai,Normal,Male,Sports,3184.1,7,1114.44,23403.14,22288.7,0.05,1170.16,Credit Card,2023-04-28,12:21,Friday,April,9,23.81,14,24
+INV-827191,B,Delhi,Member,Male,Cosmetics,915.13,9,411.81,8647.98,8236.17,0.05,432.4,UPI,2023-05-05,17:07,Friday,May,1,7.11,4,18
+INV-398185,B,Bangalore,Member,Male,Clothing,1410.29,3,211.54,4442.41,4230.87,0.05,222.12,UPI,2023-04-10,19:38,Monday,April,9,2.87,3,24
+INV-611083,C,Mumbai,Member,Female,Clothing,2286.25,2,228.62,4801.12,4572.5,0.05,240.06,Credit Card,2023-03-10,08:34,Friday,March,2,14.19,4,31
+INV-664678,B,Delhi,Member,Female,Electronics,933.31,5,233.33,4899.88,4666.549999999999,0.05,244.99,Cash,2023-05-23,10:27,Tuesday,May,9,11.73,12,39
+INV-194018,B,Bangalore,Normal,Female,Cosmetics,4939.54,3,740.93,15559.55,14818.619999999999,0.05,777.98,UPI,2023-09-20,12:17,Wednesday,September,6,13.37,8,63
+INV-924899,A,Delhi,Member,Male,Sports,128.31,8,51.32,1077.8,1026.48,0.05,53.89,Cash,2023-07-07,21:18,Friday,July,6,17.35,6,59
+INV-378600,A,Delhi,Member,Female,Electronics,443.13,8,177.25,3722.29,3545.04,0.05,186.11,Credit Card,2023-08-17,08:35,Thursday,August,8,11.01,5,55
+INV-372900,A,Mumbai,Member,Female,Clothing,3104.92,1,155.25,3260.17,3104.92,0.05,163.01,UPI,2023-11-12,09:59,Sunday,November,5,8.13,7,64
+INV-351051,C,Delhi,Normal,Female,Home Appliances,3416.65,3,512.5,10762.45,10249.95,0.05,538.12,UPI,2023-12-08,13:01,Friday,December,2,10.89,2,48
+INV-719961,C,Mumbai,Member,Male,Cosmetics,2259.44,4,451.89,9489.65,9037.76,0.05,474.48,UPI,2023-09-21,13:43,Thursday,September,4,28.85,12,45
+INV-854296,A,Bangalore,Normal,Male,Sports,3786.45,7,1325.26,27830.41,26505.149999999998,0.05,1391.52,UPI,2023-07-27,17:29,Thursday,July,7,22.68,0,30
+INV-959414,A,Bangalore,Normal,Female,Electronics,3341.31,4,668.26,14033.5,13365.24,0.05,701.68,Cash,2023-01-03,21:44,Tuesday,January,3,4.57,4,34
+INV-768755,A,Mumbai,Normal,Male,Groceries,4638.65,1,231.93,4870.58,4638.65,0.05,243.53,Credit Card,2023-05-01,21:20,Monday,May,6,7.71,7,53
+INV-634003,C,Mumbai,Normal,Female,Clothing,4330.2,5,1082.55,22733.55,21651.0,0.05,1136.68,UPI,2023-09-29,19:37,Friday,September,2,1.89,3,47
+INV-917114,B,Mumbai,Normal,Female,Clothing,1175.42,2,117.54,2468.38,2350.84,0.05,123.42,Credit Card,2023-12-27,12:01,Wednesday,December,9,16.61,10,17
+INV-333782,B,Bangalore,Normal,Female,Cosmetics,2015.06,7,705.27,14810.69,14105.42,0.05,740.53,Cash,2023-06-03,11:17,Saturday,June,6,27.58,10,29
+INV-852878,C,Bangalore,Member,Male,Clothing,4961.18,5,1240.3,26046.2,24805.9,0.05,1302.31,Credit Card,2023-09-01,17:11,Friday,September,1,3.49,1,59
+INV-807650,C,Delhi,Normal,Female,Cosmetics,1934.09,8,773.64,16246.36,15472.72,0.05,812.32,Credit Card,2023-06-07,21:05,Wednesday,June,7,9.14,8,29
+INV-754801,A,Mumbai,Normal,Female,Sports,2044.75,2,204.48,4293.98,4089.5,0.05,214.7,Cash,2023-12-13,09:34,Wednesday,December,4,17.19,9,39
+INV-105901,A,Bangalore,Member,Male,Clothing,2897.06,6,869.12,18251.48,17382.36,0.05,912.57,Cash,2023-10-16,11:30,Monday,October,1,18.19,5,60
+INV-872577,B,Bangalore,Normal,Male,Groceries,915.45,3,137.32,2883.67,2746.3500000000004,0.05,144.18,UPI,2023-01-25,20:52,Wednesday,January,8,14.35,3,39
+INV-659550,C,Delhi,Normal,Female,Electronics,1201.13,4,240.23,5044.75,4804.52,0.05,252.24,Cash,2023-05-26,20:59,Friday,May,6,0.01,10,16
+INV-667201,B,Delhi,Normal,Female,Sports,3268.5,3,490.28,10295.78,9805.5,0.05,514.79,Cash,2023-10-14,10:04,Saturday,October,9,1.74,10,64
+INV-816948,C,Delhi,Member,Male,Home Appliances,336.01,8,134.4,2822.48,2688.08,0.05,141.12,Cash,2023-03-24,16:34,Friday,March,9,23.48,13,21
+INV-679111,A,Delhi,Member,Male,Cosmetics,3476.2,1,173.81,3650.01,3476.2,0.05,182.5,UPI,2023-09-17,11:38,Sunday,September,1,6.98,11,43
+INV-656659,B,Bangalore,Normal,Female,Home Appliances,3138.28,6,941.48,19771.16,18829.68,0.05,988.56,Credit Card,2023-08-19,09:36,Saturday,August,3,11.03,11,36
+INV-694305,C,Bangalore,Normal,Male,Electronics,4146.31,5,1036.58,21768.13,20731.550000000003,0.05,1088.41,Credit Card,2023-03-27,12:54,Monday,March,5,0.58,14,35
+INV-421497,C,Mumbai,Normal,Female,Clothing,3813.43,8,1525.37,32032.81,30507.44,0.05,1601.64,Cash,2023-03-06,20:20,Monday,March,2,18.88,4,32
+INV-610259,A,Bangalore,Member,Female,Sports,369.85,4,73.97,1553.37,1479.4,0.05,77.67,Cash,2023-07-07,18:20,Friday,July,7,4.48,13,18
+INV-390524,A,Delhi,Member,Female,Groceries,4330.07,2,433.01,9093.15,8660.14,0.05,454.66,UPI,2023-08-20,10:40,Sunday,August,4,25.79,9,35
+INV-976968,A,Mumbai,Normal,Male,Home Appliances,4783.3,1,239.17,5022.47,4783.3,0.05,251.12,UPI,2023-04-15,08:55,Saturday,April,1,24.27,12,47
+INV-489878,C,Mumbai,Normal,Male,Electronics,4212.31,8,1684.92,35383.4,33698.48,0.05,1769.17,UPI,2023-10-04,19:10,Wednesday,October,2,11.59,5,22
+INV-196722,B,Bangalore,Normal,Female,Electronics,1173.48,1,58.67,1232.15,1173.48,0.05,61.61,Cash,2023-12-09,15:44,Saturday,December,5,22.12,0,37
+INV-369932,A,Mumbai,Normal,Female,Groceries,3417.13,8,1366.85,28703.89,27337.04,0.05,1435.19,Cash,2023-03-28,18:00,Tuesday,March,3,2.14,7,31
+INV-739341,C,Bangalore,Member,Male,Home Appliances,4784.68,5,1196.17,25119.57,23923.4,0.05,1255.98,Cash,2023-08-20,17:30,Sunday,August,4,10.49,14,33
+INV-569511,A,Mumbai,Member,Female,Cosmetics,3323.78,3,498.57,10469.91,9971.34,0.05,523.5,UPI,2023-09-18,12:29,Monday,September,6,2.48,11,31
+INV-619089,C,Mumbai,Normal,Male,Groceries,1512.45,8,604.98,12704.58,12099.6,0.05,635.23,Credit Card,2023-11-25,09:14,Saturday,November,3,3.64,13,18
+INV-972637,A,Bangalore,Member,Male,Clothing,3884.44,9,1748.0,36707.96,34959.96,0.05,1835.4,Credit Card,2023-08-05,17:54,Saturday,August,2,9.67,3,26
+INV-212990,C,Bangalore,Normal,Female,Electronics,2397.96,2,239.8,5035.72,4795.92,0.05,251.79,Cash,2023-09-26,12:31,Tuesday,September,2,3.84,14,31
+INV-285165,B,Delhi,Member,Male,Groceries,4644.01,7,1625.4,34133.47,32508.07,0.05,1706.67,UPI,2023-06-02,15:58,Friday,June,9,4.91,3,44
+INV-177794,A,Bangalore,Normal,Female,Electronics,4645.17,3,696.78,14632.29,13935.51,0.05,731.61,Cash,2023-06-23,08:55,Friday,June,7,26.38,11,55
+INV-722893,B,Delhi,Member,Female,Electronics,2742.88,5,685.72,14400.12,13714.400000000001,0.05,720.01,Credit Card,2023-05-29,21:07,Monday,May,8,16.73,6,58
+INV-667829,A,Bangalore,Member,Female,Clothing,316.6,6,94.98,1994.58,1899.6000000000001,0.05,99.73,Credit Card,2023-05-30,18:24,Tuesday,May,2,3.24,4,29
+INV-644855,B,Delhi,Normal,Female,Cosmetics,504.76,2,50.48,1060.0,1009.52,0.05,53.0,Cash,2023-04-05,10:22,Wednesday,April,6,16.27,12,47
+INV-129725,C,Bangalore,Normal,Male,Groceries,2566.38,6,769.91,16168.19,15398.28,0.05,808.41,Credit Card,2023-01-19,14:28,Thursday,January,7,17.32,8,51
+INV-542882,C,Bangalore,Member,Male,Groceries,842.35,8,336.94,7075.74,6738.8,0.05,353.79,Credit Card,2023-05-09,19:04,Tuesday,May,1,8.34,2,46
+INV-180102,C,Mumbai,Normal,Female,Electronics,4405.09,2,440.51,9250.69,8810.18,0.05,462.53,Cash,2023-01-10,12:45,Tuesday,January,2,10.66,12,23
+INV-766165,A,Mumbai,Member,Male,Groceries,2793.42,6,838.03,17598.55,16760.52,0.05,879.93,Credit Card,2023-08-22,17:57,Tuesday,August,1,0.33,8,48
+INV-891542,B,Delhi,Normal,Female,Groceries,3805.45,4,761.09,15982.89,15221.8,0.05,799.14,UPI,2023-03-16,10:30,Thursday,March,6,26.3,4,18
+INV-821909,B,Bangalore,Normal,Male,Cosmetics,1957.61,4,391.52,8221.96,7830.44,0.05,411.1,Cash,2023-01-20,17:23,Friday,January,3,4.13,5,35
+INV-204195,A,Delhi,Member,Male,Groceries,59.31,7,20.76,435.93,415.17,0.05,21.8,UPI,2023-07-21,13:45,Friday,July,9,11.63,0,21
+INV-516441,C,Delhi,Normal,Female,Sports,2430.82,3,364.62,7657.08,7292.460000000001,0.05,382.85,UPI,2023-08-04,12:15,Friday,August,7,21.09,7,38
+INV-471602,B,Mumbai,Member,Female,Electronics,3398.52,2,339.85,7136.89,6797.04,0.05,356.84,Cash,2023-06-08,19:59,Thursday,June,1,19.09,2,36
+INV-157775,A,Delhi,Normal,Female,Groceries,3492.31,6,1047.69,22001.55,20953.86,0.05,1100.08,UPI,2023-04-27,11:18,Thursday,April,4,3.67,0,47
+INV-389530,A,Delhi,Member,Male,Cosmetics,488.57,4,97.71,2051.99,1954.28,0.05,102.6,Cash,2023-04-23,18:27,Sunday,April,9,27.99,12,47
+INV-785614,C,Delhi,Member,Female,Home Appliances,2135.18,4,427.04,8967.76,8540.72,0.05,448.39,UPI,2023-05-28,18:14,Sunday,May,7,17.16,4,24
+INV-622220,C,Delhi,Normal,Female,Electronics,1705.83,1,85.29,1791.12,1705.83,0.05,89.56,Credit Card,2023-12-16,21:53,Saturday,December,6,15.54,12,33
+INV-929395,C,Delhi,Member,Male,Groceries,1333.52,3,200.03,4200.59,4000.56,0.05,210.03,Credit Card,2023-03-10,20:36,Friday,March,1,13.06,4,50
+INV-629393,C,Delhi,Member,Female,Sports,710.73,4,142.15,2985.07,2842.92,0.05,149.25,UPI,2023-05-06,14:38,Saturday,May,3,13.11,8,50
+INV-530267,A,Delhi,Normal,Female,Electronics,3839.29,6,1151.79,24187.53,23035.739999999998,0.05,1209.38,Credit Card,2023-06-23,19:43,Friday,June,9,22.54,7,39
+INV-764917,B,Bangalore,Normal,Female,Home Appliances,4785.24,8,1914.1,40196.02,38281.92,0.05,2009.8,Cash,2023-12-30,17:29,Saturday,December,7,7.41,11,28
+INV-411877,A,Bangalore,Normal,Male,Cosmetics,1285.25,6,385.58,8097.08,7711.5,0.05,404.85,UPI,2023-04-16,16:12,Sunday,April,9,14.63,7,57
+INV-988736,C,Bangalore,Member,Female,Sports,360.13,9,162.06,3403.23,3241.17,0.05,170.16,Credit Card,2023-01-21,11:49,Saturday,January,7,2.59,14,32
+INV-150601,C,Bangalore,Normal,Female,Groceries,3675.62,4,735.12,15437.6,14702.48,0.05,771.88,Credit Card,2023-05-23,14:20,Tuesday,May,8,7.8,8,51
+INV-527737,B,Bangalore,Normal,Female,Groceries,4907.42,2,490.74,10305.58,9814.84,0.05,515.28,UPI,2023-03-10,10:22,Friday,March,5,16.96,2,39
+INV-191006,C,Delhi,Normal,Male,Cosmetics,4737.83,9,2132.02,44772.49,42640.47,0.05,2238.62,Credit Card,2023-06-10,09:52,Saturday,June,9,25.52,6,47
+INV-277832,A,Delhi,Normal,Male,Groceries,2640.79,2,264.08,5545.66,5281.58,0.05,277.28,Cash,2023-01-28,17:42,Saturday,January,7,21.24,0,48
+INV-113140,C,Delhi,Normal,Female,Sports,454.54,6,136.36,2863.6,2727.2400000000002,0.05,143.18,Credit Card,2023-04-08,08:09,Saturday,April,5,28.37,8,16
+INV-358635,C,Bangalore,Normal,Female,Home Appliances,532.93,3,79.94,1678.73,1598.79,0.05,83.94,Cash,2023-05-05,14:21,Friday,May,8,23.61,5,24
+INV-426022,A,Bangalore,Member,Female,Cosmetics,4891.41,3,733.71,15407.94,14674.23,0.05,770.4,Cash,2023-11-15,08:31,Wednesday,November,5,4.94,14,18
+INV-720756,C,Delhi,Normal,Male,Home Appliances,3795.92,6,1138.78,23914.3,22775.52,0.05,1195.71,Credit Card,2023-05-23,15:39,Tuesday,May,6,4.85,13,41
+INV-612880,C,Bangalore,Normal,Female,Home Appliances,4735.86,8,1894.34,39781.22,37886.88,0.05,1989.06,Credit Card,2023-02-27,19:25,Monday,February,2,1.96,13,17
+INV-121253,A,Mumbai,Member,Female,Groceries,4550.64,1,227.53,4778.17,4550.64,0.05,238.91,UPI,2023-02-11,11:34,Saturday,February,7,19.7,8,64
+INV-958379,A,Mumbai,Member,Male,Clothing,512.37,5,128.09,2689.94,2561.85,0.05,134.5,UPI,2023-11-03,18:55,Friday,November,8,8.61,11,55
+INV-271918,A,Mumbai,Normal,Male,Home Appliances,2909.09,5,727.27,15272.72,14545.45,0.05,763.64,Cash,2023-03-13,14:08,Monday,March,8,15.61,11,34
+INV-690082,A,Bangalore,Member,Female,Electronics,2811.21,2,281.12,5903.54,5622.42,0.05,295.18,Cash,2023-09-20,10:44,Wednesday,September,2,5.07,5,47
+INV-379215,A,Bangalore,Member,Female,Home Appliances,3010.66,7,1053.73,22128.35,21074.62,0.05,1106.42,UPI,2023-01-08,12:31,Sunday,January,5,13.21,5,60
+INV-472598,C,Mumbai,Normal,Female,Clothing,463.15,9,208.42,4376.77,4168.349999999999,0.05,218.84,Credit Card,2023-01-12,18:45,Thursday,January,1,12.53,6,35
+INV-298137,B,Delhi,Normal,Male,Sports,3639.67,2,363.97,7643.31,7279.34,0.05,382.17,Credit Card,2023-09-17,19:37,Sunday,September,7,3.89,4,39
+INV-255289,B,Mumbai,Normal,Female,Groceries,510.5,4,102.1,2144.1,2042.0,0.05,107.2,Credit Card,2023-10-08,11:33,Sunday,October,5,29.2,11,43
+INV-706123,A,Bangalore,Member,Male,Electronics,1517.62,6,455.29,9561.01,9105.72,0.05,478.05,UPI,2023-05-14,10:59,Sunday,May,9,14.14,14,58
+INV-633634,A,Mumbai,Normal,Female,Electronics,2323.36,5,580.84,12197.64,11616.800000000001,0.05,609.88,Cash,2023-08-04,09:21,Friday,August,5,3.39,9,47
+INV-768590,B,Mumbai,Member,Female,Clothing,1237.38,4,247.48,5197.0,4949.52,0.05,259.85,UPI,2023-02-03,16:50,Friday,February,2,22.46,8,37
+INV-511274,B,Bangalore,Normal,Female,Sports,3123.6,6,937.08,19678.68,18741.6,0.05,983.93,UPI,2023-09-30,12:43,Saturday,September,3,0.93,12,30
+INV-429638,A,Delhi,Normal,Male,Clothing,576.4,3,86.46,1815.66,1729.1999999999998,0.05,90.78,Credit Card,2023-09-05,19:46,Tuesday,September,6,25.67,11,15
+INV-854105,B,Bangalore,Normal,Female,Clothing,4193.35,7,1467.67,30821.12,29353.450000000004,0.05,1541.06,Credit Card,2023-05-08,10:03,Monday,May,9,6.47,14,35
+INV-286339,B,Bangalore,Normal,Male,Home Appliances,214.29,5,53.57,1125.02,1071.45,0.05,56.25,Credit Card,2023-10-29,11:13,Sunday,October,1,22.98,2,27
+INV-909178,A,Delhi,Normal,Male,Home Appliances,4499.29,3,674.89,14172.76,13497.869999999999,0.05,708.64,UPI,2023-08-13,13:58,Sunday,August,7,5.07,1,60
+INV-802098,A,Bangalore,Normal,Female,Cosmetics,2328.77,4,465.75,9780.83,9315.08,0.05,489.04,Cash,2023-11-24,21:34,Friday,November,4,0.54,7,38
+INV-824984,A,Delhi,Member,Male,Electronics,184.52,6,55.36,1162.48,1107.1200000000001,0.05,58.12,Cash,2023-08-03,13:47,Thursday,August,3,29.18,2,56
+INV-565982,B,Mumbai,Member,Female,Cosmetics,3511.61,4,702.32,14748.76,14046.44,0.05,737.44,Credit Card,2023-06-22,14:13,Thursday,June,9,9.14,6,33
+INV-667760,A,Bangalore,Normal,Male,Home Appliances,4370.13,8,1748.05,36709.09,34961.04,0.05,1835.45,Credit Card,2023-11-13,11:39,Monday,November,9,0.37,7,39
+INV-192493,B,Delhi,Normal,Male,Electronics,4131.45,5,1032.86,21690.11,20657.25,0.05,1084.51,Credit Card,2023-08-15,16:58,Tuesday,August,9,1.44,3,42
+INV-163095,B,Delhi,Member,Male,Cosmetics,4268.71,9,1920.92,40339.31,38418.39,0.05,2016.97,Credit Card,2023-05-05,21:21,Friday,May,7,15.94,13,63
+INV-560244,C,Mumbai,Normal,Male,Groceries,1462.19,3,219.33,4605.9,4386.57,0.05,230.29,UPI,2023-09-24,21:49,Sunday,September,5,1.91,3,51
+INV-146403,B,Delhi,Member,Male,Home Appliances,3014.94,1,150.75,3165.69,3014.94,0.05,158.28,Cash,2023-07-20,20:08,Thursday,July,3,24.88,7,46
+INV-433997,B,Delhi,Member,Female,Sports,2880.27,7,1008.09,21169.98,20161.89,0.05,1058.5,Cash,2023-11-28,13:11,Tuesday,November,9,10.22,3,43
+INV-964434,B,Bangalore,Normal,Female,Home Appliances,894.38,5,223.59,4695.49,4471.9,0.05,234.77,Credit Card,2023-11-03,13:19,Friday,November,4,20.29,11,42
+INV-462455,C,Mumbai,Member,Female,Home Appliances,1209.21,3,181.38,3809.01,3627.63,0.05,190.45,Cash,2023-12-08,19:01,Friday,December,2,14.19,8,15
+INV-257584,A,Delhi,Normal,Male,Cosmetics,1381.35,6,414.4,8702.5,8288.099999999999,0.05,435.12,UPI,2023-09-19,13:24,Tuesday,September,6,1.37,7,33
+INV-981506,B,Delhi,Member,Male,Groceries,1420.23,1,71.01,1491.24,1420.23,0.05,74.56,Credit Card,2023-04-03,20:48,Monday,April,8,14.09,12,34
+INV-420701,C,Bangalore,Member,Male,Electronics,1074.61,6,322.38,6770.04,6447.66,0.05,338.5,UPI,2023-02-18,21:48,Saturday,February,8,1.1,11,47
+INV-236554,B,Mumbai,Member,Female,Clothing,1727.36,5,431.84,9068.64,8636.8,0.05,453.43,Cash,2023-09-02,08:41,Saturday,September,6,27.95,8,38
+INV-135634,C,Bangalore,Normal,Male,Clothing,481.11,9,216.5,4546.49,4329.99,0.05,227.32,UPI,2023-01-17,15:20,Tuesday,January,7,17.24,6,27
+INV-292512,A,Mumbai,Normal,Female,Clothing,3393.33,3,509.0,10688.99,10179.99,0.05,534.45,Credit Card,2023-11-29,21:44,Wednesday,November,8,12.65,11,22
+INV-515648,C,Mumbai,Member,Female,Electronics,4542.67,5,1135.67,23849.02,22713.35,0.05,1192.45,UPI,2023-04-19,19:47,Wednesday,April,7,28.62,4,22
+INV-952694,C,Bangalore,Member,Female,Clothing,4321.26,7,1512.44,31761.26,30248.82,0.05,1588.06,Cash,2023-06-07,20:46,Wednesday,June,1,18.11,1,32
+INV-853298,A,Bangalore,Normal,Female,Home Appliances,616.71,1,30.84,647.55,616.71,0.05,32.38,Credit Card,2023-05-07,11:17,Sunday,May,8,22.54,0,26
+INV-544865,B,Mumbai,Normal,Female,Cosmetics,446.89,9,201.1,4223.11,4022.0099999999998,0.05,211.16,UPI,2023-09-15,20:40,Friday,September,3,17.81,9,28
+INV-801979,B,Delhi,Normal,Female,Cosmetics,3198.68,6,959.6,20151.68,19192.079999999998,0.05,1007.58,Credit Card,2023-07-20,16:38,Thursday,July,3,21.72,10,16
+INV-349768,A,Mumbai,Member,Male,Sports,2673.46,3,401.02,8421.4,8020.38,0.05,421.07,Cash,2023-12-16,15:01,Saturday,December,3,13.47,6,59
+INV-743294,B,Mumbai,Member,Female,Cosmetics,2026.88,5,506.72,10641.12,10134.400000000001,0.05,532.06,UPI,2023-08-01,21:48,Tuesday,August,9,21.88,8,52
+INV-594178,B,Bangalore,Normal,Female,Clothing,4235.74,6,1270.72,26685.16,25414.44,0.05,1334.26,Cash,2023-04-17,09:35,Monday,April,7,16.28,5,44
+INV-703291,C,Mumbai,Normal,Male,Home Appliances,2259.78,2,225.98,4745.54,4519.56,0.05,237.28,Cash,2023-10-15,10:02,Sunday,October,9,12.93,7,25
+INV-841280,B,Delhi,Normal,Female,Sports,2931.88,9,1319.35,27706.27,26386.920000000002,0.05,1385.31,Credit Card,2023-04-28,11:59,Friday,April,8,11.24,7,42
+INV-577742,B,Delhi,Member,Male,Electronics,2181.12,4,436.22,9160.7,8724.48,0.05,458.04,Credit Card,2023-02-25,08:00,Saturday,February,4,10.19,9,32
+INV-494145,B,Delhi,Member,Male,Clothing,3202.67,1,160.13,3362.8,3202.67,0.05,168.14,UPI,2023-10-21,12:07,Saturday,October,4,17.41,5,15
+INV-928791,B,Delhi,Normal,Male,Home Appliances,571.03,1,28.55,599.58,571.03,0.05,29.98,UPI,2023-12-31,09:04,Sunday,December,8,15.16,10,59
+INV-832722,C,Bangalore,Normal,Female,Clothing,1951.82,6,585.55,12296.47,11710.92,0.05,614.82,Cash,2023-12-29,18:41,Friday,December,2,9.4,12,29
+INV-565065,C,Bangalore,Member,Female,Home Appliances,2464.86,5,616.22,12940.52,12324.300000000001,0.05,647.03,UPI,2023-05-02,20:36,Tuesday,May,5,14.22,5,18
+INV-950350,C,Bangalore,Normal,Male,Electronics,4974.55,9,2238.55,47009.5,44770.950000000004,0.05,2350.47,Credit Card,2023-10-12,20:58,Thursday,October,4,0.93,5,18
+INV-632844,B,Delhi,Normal,Male,Cosmetics,4901.54,9,2205.69,46319.55,44113.86,0.05,2315.98,UPI,2023-11-01,20:33,Wednesday,November,6,7.41,6,17
+INV-799309,B,Delhi,Member,Female,Sports,1546.55,3,231.98,4871.63,4639.65,0.05,243.58,Cash,2023-09-07,08:20,Thursday,September,5,28.99,6,18
+INV-158478,C,Mumbai,Normal,Male,Cosmetics,1769.02,8,707.61,14859.77,14152.16,0.05,742.99,UPI,2023-05-05,10:12,Friday,May,2,14.67,2,31
+INV-275767,C,Delhi,Member,Female,Clothing,3686.16,2,368.62,7740.94,7372.32,0.05,387.05,Credit Card,2023-04-14,13:56,Friday,April,3,6.04,4,22
+INV-306846,B,Bangalore,Member,Male,Groceries,245.32,1,12.27,257.59,245.32,0.05,12.88,UPI,2023-04-11,11:53,Tuesday,April,5,17.97,5,59
+INV-126086,A,Bangalore,Normal,Male,Electronics,2319.41,6,695.82,14612.28,13916.46,0.05,730.61,Cash,2023-05-29,13:10,Monday,May,5,23.83,3,55
+INV-989497,B,Mumbai,Normal,Female,Sports,4391.6,6,1317.48,27667.08,26349.600000000002,0.05,1383.35,Cash,2023-01-17,10:18,Tuesday,January,4,25.91,14,50
+INV-282170,B,Bangalore,Normal,Male,Cosmetics,1464.63,1,73.23,1537.86,1464.63,0.05,76.89,Credit Card,2023-08-04,14:14,Friday,August,9,10.87,0,28
+INV-808770,A,Bangalore,Normal,Male,Clothing,2307.1,3,346.06,7267.36,6921.299999999999,0.05,363.37,Credit Card,2023-06-24,11:06,Saturday,June,9,1.78,12,31
+INV-664798,B,Bangalore,Normal,Female,Clothing,3218.98,1,160.95,3379.93,3218.98,0.05,169.0,Cash,2023-12-18,15:18,Monday,December,6,7.68,4,27
+INV-349877,B,Bangalore,Member,Male,Electronics,4859.09,7,1700.68,35714.31,34013.630000000005,0.05,1785.72,Cash,2023-07-27,09:31,Thursday,July,6,21.68,5,24
+INV-939319,A,Delhi,Normal,Female,Home Appliances,715.45,5,178.86,3756.11,3577.25,0.05,187.81,UPI,2023-07-23,09:40,Sunday,July,3,6.32,8,44
+INV-898022,C,Delhi,Normal,Male,Groceries,93.87,3,14.08,295.69,281.61,0.05,14.78,Cash,2023-09-21,17:48,Thursday,September,7,1.32,3,39
+INV-632356,C,Delhi,Normal,Female,Electronics,3182.89,5,795.72,16710.17,15914.449999999999,0.05,835.51,Cash,2023-05-21,15:07,Sunday,May,9,22.98,3,49
+INV-154189,A,Bangalore,Normal,Male,Electronics,3087.34,8,1234.94,25933.66,24698.72,0.05,1296.68,Credit Card,2023-01-23,16:33,Monday,January,4,12.21,5,25
+INV-110207,B,Mumbai,Normal,Male,Electronics,1776.66,3,266.5,5596.48,5329.9800000000005,0.05,279.82,Cash,2023-07-07,20:44,Friday,July,2,0.18,2,52
+INV-451977,A,Mumbai,Member,Male,Home Appliances,1532.85,8,613.14,12875.94,12262.8,0.05,643.8,UPI,2023-05-25,14:33,Thursday,May,6,1.51,1,40
+INV-248694,B,Delhi,Normal,Female,Cosmetics,2044.22,2,204.42,4292.86,4088.44,0.05,214.64,UPI,2023-10-22,10:07,Sunday,October,8,12.15,10,43
+INV-253245,B,Mumbai,Member,Male,Cosmetics,2937.12,7,1027.99,21587.83,20559.84,0.05,1079.39,Cash,2023-11-17,08:40,Friday,November,5,1.01,2,33
+INV-762550,C,Bangalore,Member,Male,Clothing,3256.7,6,977.01,20517.21,19540.199999999997,0.05,1025.86,Credit Card,2023-01-31,08:54,Tuesday,January,4,18.74,3,34
+INV-146101,A,Mumbai,Normal,Male,Electronics,3428.96,2,342.9,7200.82,6857.92,0.05,360.04,Credit Card,2023-02-22,15:14,Wednesday,February,4,4.29,6,22
+INV-800769,B,Delhi,Normal,Male,Cosmetics,1393.48,7,487.72,10242.08,9754.36,0.05,512.1,Cash,2023-10-17,09:55,Tuesday,October,9,22.46,14,45
+INV-914422,B,Bangalore,Normal,Male,Sports,985.75,2,98.58,2070.08,1971.5,0.05,103.5,Cash,2023-04-06,13:37,Thursday,April,8,25.18,8,20
+INV-468266,B,Bangalore,Member,Female,Home Appliances,1271.78,9,572.3,12018.32,11446.02,0.05,600.92,Cash,2023-11-16,20:27,Thursday,November,9,10.81,2,23
+INV-584146,C,Bangalore,Member,Female,Electronics,4221.42,4,844.28,17729.96,16885.68,0.05,886.5,UPI,2023-04-10,09:14,Monday,April,3,27.3,7,26
+INV-855612,C,Delhi,Normal,Male,Cosmetics,3391.94,1,169.6,3561.54,3391.94,0.05,178.08,UPI,2023-07-05,14:25,Wednesday,July,1,27.91,8,24
+INV-611511,A,Delhi,Normal,Female,Sports,738.62,5,184.66,3877.76,3693.1,0.05,193.89,UPI,2023-08-23,20:36,Wednesday,August,1,20.28,8,44
+INV-487881,A,Bangalore,Member,Male,Groceries,1381.39,4,276.28,5801.84,5525.56,0.05,290.09,Cash,2023-07-30,19:36,Sunday,July,1,10.8,6,42
+INV-223106,A,Delhi,Member,Female,Groceries,4335.81,3,650.37,13657.8,13007.43,0.05,682.89,Credit Card,2023-10-30,09:13,Monday,October,9,1.57,8,27
+INV-391464,A,Mumbai,Member,Female,Clothing,2111.7,4,422.34,8869.14,8446.8,0.05,443.46,UPI,2023-01-31,09:15,Tuesday,January,9,26.09,5,36
+INV-972328,C,Delhi,Member,Female,Electronics,1117.92,7,391.27,8216.71,7825.4400000000005,0.05,410.84,Credit Card,2023-06-22,20:33,Thursday,June,8,27.92,3,32
+INV-686549,B,Delhi,Normal,Female,Groceries,3698.63,6,1109.59,23301.37,22191.78,0.05,1165.07,Credit Card,2023-05-29,19:39,Monday,May,6,17.38,4,57
+INV-549076,A,Delhi,Member,Female,Electronics,1870.54,9,841.74,17676.6,16834.86,0.05,883.83,UPI,2023-02-18,13:53,Saturday,February,5,20.64,12,51
+INV-394025,B,Delhi,Normal,Female,Home Appliances,4559.79,2,455.98,9575.56,9119.58,0.05,478.78,Credit Card,2023-12-03,11:13,Sunday,December,3,14.79,14,52
+INV-983096,A,Mumbai,Member,Male,Home Appliances,2678.14,6,803.44,16872.28,16068.84,0.05,843.61,Credit Card,2023-01-24,20:42,Tuesday,January,4,1.25,9,52
+INV-832763,C,Bangalore,Normal,Female,Home Appliances,3823.43,7,1338.2,28102.21,26764.01,0.05,1405.11,Cash,2023-06-05,08:39,Monday,June,6,0.51,10,61
+INV-392575,A,Mumbai,Normal,Female,Clothing,4045.42,2,404.54,8495.38,8090.84,0.05,424.77,Cash,2023-05-14,14:31,Sunday,May,5,10.25,6,21
+INV-284626,A,Mumbai,Normal,Male,Groceries,1773.07,5,443.27,9308.62,8865.35,0.05,465.43,UPI,2023-05-15,11:46,Monday,May,9,16.41,7,47
+INV-878883,B,Delhi,Member,Female,Groceries,3050.43,8,1220.17,25623.61,24403.44,0.05,1281.18,UPI,2023-02-14,13:58,Tuesday,February,8,1.97,8,43
+INV-518184,C,Mumbai,Normal,Male,Sports,1270.69,7,444.74,9339.57,8894.83,0.05,466.98,UPI,2023-08-06,11:25,Sunday,August,7,23.56,3,64
+INV-277241,B,Delhi,Normal,Female,Clothing,3240.73,6,972.22,20416.6,19444.38,0.05,1020.83,Cash,2023-08-21,08:58,Monday,August,7,4.22,9,39
+INV-811111,A,Bangalore,Normal,Male,Electronics,3917.54,3,587.63,12340.25,11752.619999999999,0.05,617.01,Credit Card,2023-09-24,20:52,Sunday,September,8,27.19,14,42
+INV-648277,A,Delhi,Member,Female,Electronics,3231.95,1,161.6,3393.55,3231.95,0.05,169.68,UPI,2023-02-18,11:37,Saturday,February,9,26.7,8,60
+INV-213000,B,Delhi,Normal,Female,Clothing,357.91,1,17.9,375.81,357.91,0.05,18.79,Credit Card,2023-01-05,11:51,Thursday,January,8,4.03,1,52
+INV-295877,A,Delhi,Normal,Male,Electronics,2671.82,5,667.96,14027.06,13359.1,0.05,701.35,UPI,2023-02-15,12:05,Wednesday,February,6,22.83,13,24
+INV-963659,A,Delhi,Normal,Female,Electronics,942.52,3,141.38,2968.94,2827.56,0.05,148.45,UPI,2023-01-06,20:07,Friday,January,1,4.11,10,27
+INV-912283,C,Mumbai,Member,Male,Electronics,2659.8,6,797.94,16756.74,15958.800000000001,0.05,837.84,Credit Card,2023-06-18,11:34,Sunday,June,8,21.35,9,26
+INV-458710,B,Bangalore,Normal,Male,Cosmetics,1334.73,9,600.63,12613.2,12012.57,0.05,630.66,Credit Card,2023-10-01,10:22,Sunday,October,6,18.67,9,20
+INV-396208,C,Mumbai,Normal,Male,Cosmetics,991.03,3,148.65,3121.74,2973.09,0.05,156.09,UPI,2023-10-12,18:33,Thursday,October,5,28.59,1,22
+INV-556285,C,Mumbai,Member,Female,Groceries,850.27,8,340.11,7142.27,6802.16,0.05,357.11,UPI,2023-12-18,11:46,Monday,December,1,13.75,0,34
+INV-702248,B,Mumbai,Member,Female,Clothing,2847.17,6,854.15,17937.17,17083.02,0.05,896.86,UPI,2023-04-03,13:43,Monday,April,5,0.27,4,42
+INV-760327,A,Mumbai,Normal,Female,Cosmetics,4634.66,5,1158.66,24331.96,23173.3,0.05,1216.6,Cash,2023-08-04,17:59,Friday,August,2,15.44,10,36
+INV-445740,B,Mumbai,Member,Male,Electronics,2172.08,9,977.44,20526.16,19548.72,0.05,1026.31,Cash,2023-12-15,10:43,Friday,December,4,8.67,7,41
+INV-546790,B,Mumbai,Normal,Male,Clothing,4776.49,1,238.82,5015.31,4776.49,0.05,250.77,Credit Card,2023-06-09,16:28,Friday,June,1,19.06,3,44
+INV-905581,A,Delhi,Normal,Female,Electronics,4596.21,1,229.81,4826.02,4596.21,0.05,241.3,UPI,2023-12-25,18:25,Monday,December,1,23.63,3,43
+INV-687520,A,Delhi,Normal,Female,Groceries,2842.17,2,284.22,5968.56,5684.34,0.05,298.43,Credit Card,2023-11-20,08:49,Monday,November,4,3.05,9,25
+INV-405505,B,Bangalore,Normal,Female,Groceries,3771.27,5,942.82,19799.17,18856.35,0.05,989.96,Credit Card,2023-07-12,08:21,Wednesday,July,8,8.47,12,18
+INV-357906,A,Mumbai,Normal,Male,Electronics,2929.03,8,1171.61,24603.85,23432.24,0.05,1230.19,Credit Card,2023-05-29,10:11,Monday,May,3,4.31,6,61
+INV-495395,C,Delhi,Member,Female,Groceries,4523.6,8,1809.44,37998.24,36188.8,0.05,1899.91,Credit Card,2023-05-13,12:13,Saturday,May,7,14.29,14,64
+INV-313606,A,Mumbai,Normal,Female,Electronics,1063.17,8,425.27,8930.63,8505.36,0.05,446.53,Cash,2023-02-10,10:47,Friday,February,9,10.93,9,29
+INV-669383,B,Bangalore,Member,Male,Sports,4403.51,1,220.18,4623.69,4403.51,0.05,231.18,Cash,2023-07-14,15:26,Friday,July,4,20.81,7,38
+INV-237686,B,Delhi,Member,Male,Sports,3290.52,3,493.58,10365.14,9871.56,0.05,518.26,Cash,2023-10-17,16:48,Tuesday,October,5,8.47,6,59
+INV-525468,C,Mumbai,Member,Male,Home Appliances,235.98,5,58.99,1238.89,1179.8999999999999,0.05,61.94,Credit Card,2023-11-14,16:56,Tuesday,November,9,1.84,5,51
+INV-924834,C,Mumbai,Normal,Female,Sports,3629.48,8,1451.79,30487.63,29035.84,0.05,1524.38,Credit Card,2023-04-13,13:20,Thursday,April,3,1.56,3,42
+INV-253484,C,Delhi,Member,Female,Groceries,1584.92,3,237.74,4992.5,4754.76,0.05,249.62,UPI,2023-08-27,16:04,Sunday,August,7,18.29,13,51
+INV-463898,A,Bangalore,Member,Female,Groceries,3577.48,3,536.62,11269.06,10732.44,0.05,563.45,Credit Card,2023-07-25,16:47,Tuesday,July,6,12.17,7,36
+INV-372158,C,Mumbai,Normal,Female,Electronics,1996.32,5,499.08,10480.68,9981.6,0.05,524.03,Cash,2023-08-29,18:54,Tuesday,August,2,23.42,8,31
+INV-843859,A,Delhi,Member,Female,Clothing,4763.5,6,1429.05,30010.05,28581.0,0.05,1500.5,Credit Card,2023-09-30,11:47,Saturday,September,9,3.9,4,52
+INV-372872,A,Delhi,Normal,Female,Clothing,3914.62,9,1761.58,36993.16,35231.58,0.05,1849.66,UPI,2023-02-20,11:16,Monday,February,8,4.77,14,46
+INV-657564,B,Bangalore,Normal,Female,Clothing,536.26,6,160.88,3378.44,3217.56,0.05,168.92,Cash,2023-01-01,14:57,Sunday,January,9,8.22,10,55
+INV-528276,C,Mumbai,Member,Female,Electronics,1016.44,6,304.93,6403.57,6098.64,0.05,320.18,Credit Card,2023-09-19,11:51,Tuesday,September,3,3.57,0,26
+INV-729698,A,Delhi,Normal,Male,Groceries,3371.72,7,1180.1,24782.14,23602.039999999997,0.05,1239.11,Cash,2023-07-11,08:16,Tuesday,July,4,23.59,3,32
+INV-281517,B,Mumbai,Member,Female,Cosmetics,129.51,4,25.9,543.94,518.04,0.05,27.2,Cash,2023-03-19,17:32,Sunday,March,2,13.13,3,38
+INV-773984,A,Bangalore,Normal,Female,Clothing,3539.11,3,530.87,11148.2,10617.33,0.05,557.41,UPI,2023-06-17,10:52,Saturday,June,5,21.55,5,54
+INV-629274,B,Delhi,Member,Male,Home Appliances,937.32,3,140.6,2952.56,2811.96,0.05,147.63,Credit Card,2023-05-27,19:15,Saturday,May,9,4.72,3,58
+INV-317060,C,Delhi,Normal,Female,Electronics,1485.73,8,594.29,12480.13,11885.84,0.05,624.01,Credit Card,2023-01-22,10:56,Sunday,January,8,7.51,7,17
+INV-940179,C,Mumbai,Normal,Male,Home Appliances,4260.87,7,1491.3,31317.39,29826.09,0.05,1565.87,Credit Card,2023-03-24,10:17,Friday,March,8,1.56,0,26
+INV-872997,B,Mumbai,Normal,Female,Clothing,1473.78,5,368.44,7737.34,7368.9,0.05,386.87,Credit Card,2023-10-10,19:16,Tuesday,October,1,12.92,11,28
+INV-742927,C,Bangalore,Member,Male,Home Appliances,3047.25,8,1218.9,25596.9,24378.0,0.05,1279.85,UPI,2023-02-28,08:49,Tuesday,February,9,20.56,4,16
+INV-496981,A,Bangalore,Normal,Male,Sports,1066.74,7,373.36,7840.54,7467.18,0.05,392.03,UPI,2023-10-16,20:19,Monday,October,7,18.97,13,37
+INV-351671,C,Delhi,Member,Female,Sports,2120.75,6,636.23,13360.73,12724.5,0.05,668.04,UPI,2023-09-05,11:28,Tuesday,September,2,28.24,8,22
+INV-195556,A,Bangalore,Normal,Male,Home Appliances,384.14,1,19.21,403.35,384.14,0.05,20.17,Credit Card,2023-11-18,13:57,Saturday,November,9,22.14,9,34
+INV-159778,A,Bangalore,Normal,Female,Groceries,2142.51,1,107.13,2249.64,2142.51,0.05,112.48,Cash,2023-07-23,14:58,Sunday,July,2,14.49,1,38
+INV-422854,A,Mumbai,Normal,Female,Sports,3300.94,6,990.28,20795.92,19805.64,0.05,1039.8,Cash,2023-06-03,18:54,Saturday,June,6,2.05,8,34
+INV-868917,A,Delhi,Member,Male,Home Appliances,3015.27,4,603.05,12664.13,12061.08,0.05,633.21,Credit Card,2023-11-18,21:52,Saturday,November,3,11.2,10,24
+INV-154330,C,Mumbai,Member,Male,Electronics,2280.9,6,684.27,14369.67,13685.400000000001,0.05,718.48,Cash,2023-08-21,18:35,Monday,August,2,25.98,0,33
+INV-496210,C,Mumbai,Normal,Male,Sports,574.23,5,143.56,3014.71,2871.15,0.05,150.74,Credit Card,2023-03-20,18:21,Monday,March,5,6.08,5,50
+INV-595916,A,Delhi,Normal,Male,Cosmetics,3520.64,9,1584.29,33270.05,31685.76,0.05,1663.5,Cash,2023-10-11,08:48,Wednesday,October,4,28.09,8,50
+INV-375049,A,Delhi,Normal,Male,Electronics,4701.27,4,940.25,19745.33,18805.08,0.05,987.27,UPI,2023-03-14,20:45,Tuesday,March,6,29.31,0,24
+INV-500890,B,Bangalore,Member,Male,Groceries,91.18,6,27.35,574.43,547.08,0.05,28.72,UPI,2023-06-27,10:51,Tuesday,June,5,27.44,11,61
+INV-104138,B,Mumbai,Member,Male,Cosmetics,1330.62,9,598.78,12574.36,11975.579999999998,0.05,628.72,Cash,2023-09-05,19:16,Tuesday,September,9,20.12,1,34
+INV-949375,B,Bangalore,Member,Female,Sports,1059.92,7,370.97,7790.41,7419.4400000000005,0.05,389.52,Credit Card,2023-09-02,14:46,Saturday,September,4,0.41,14,47
+INV-634730,A,Mumbai,Member,Female,Home Appliances,1111.31,5,277.83,5834.38,5556.549999999999,0.05,291.72,UPI,2023-10-26,09:39,Thursday,October,2,21.98,9,47
+INV-953329,A,Mumbai,Normal,Female,Clothing,3380.71,2,338.07,7099.49,6761.42,0.05,354.97,UPI,2023-04-04,14:09,Tuesday,April,6,11.5,3,27
+INV-634391,B,Delhi,Member,Male,Home Appliances,3944.51,3,591.68,12425.21,11833.53,0.05,621.26,Credit Card,2023-12-24,08:54,Sunday,December,8,2.05,9,31
+INV-334864,C,Bangalore,Member,Male,Cosmetics,4607.79,6,1382.34,29029.08,27646.739999999998,0.05,1451.45,Cash,2023-04-17,16:38,Monday,April,1,26.86,8,32
+INV-497674,A,Bangalore,Member,Male,Home Appliances,3947.57,5,986.89,20724.74,19737.850000000002,0.05,1036.24,Cash,2023-09-15,20:57,Friday,September,6,12.83,3,64
+INV-255489,B,Delhi,Member,Male,Home Appliances,3264.15,5,816.04,17136.79,16320.75,0.05,856.84,Cash,2023-12-01,19:17,Friday,December,6,23.55,9,27
+INV-566755,B,Mumbai,Member,Female,Home Appliances,1540.18,7,539.06,11320.32,10781.26,0.05,566.02,Cash,2023-03-02,18:53,Thursday,March,1,22.93,13,52
+INV-367247,A,Mumbai,Normal,Female,Home Appliances,3293.11,1,164.66,3457.77,3293.11,0.05,172.89,Cash,2023-04-12,13:20,Wednesday,April,5,23.6,11,35
+INV-444866,A,Delhi,Member,Male,Cosmetics,3746.54,3,561.98,11801.6,11239.619999999999,0.05,590.08,Credit Card,2023-04-19,11:18,Wednesday,April,4,8.68,3,26
+INV-944052,B,Bangalore,Normal,Male,Cosmetics,1287.29,8,514.92,10813.24,10298.32,0.05,540.66,UPI,2023-08-22,14:24,Tuesday,August,4,26.18,12,60
+INV-181257,C,Bangalore,Member,Female,Sports,4573.25,5,1143.31,24009.56,22866.25,0.05,1200.48,Cash,2023-02-05,21:41,Sunday,February,7,6.95,0,35
+INV-166197,A,Delhi,Normal,Female,Groceries,4522.61,6,1356.78,28492.44,27135.659999999996,0.05,1424.62,Cash,2023-04-19,10:38,Wednesday,April,9,25.76,9,37
+INV-998332,A,Delhi,Normal,Female,Groceries,4197.65,7,1469.18,30852.73,29383.549999999996,0.05,1542.64,UPI,2023-11-09,13:08,Thursday,November,5,12.33,13,61
+INV-747652,B,Mumbai,Member,Female,Clothing,2472.41,1,123.62,2596.03,2472.41,0.05,129.8,UPI,2023-09-04,15:20,Monday,September,6,23.68,13,36
+INV-403602,C,Mumbai,Normal,Female,Clothing,2729.78,1,136.49,2866.27,2729.78,0.05,143.31,Cash,2023-05-06,18:31,Saturday,May,3,6.67,8,56
+INV-407086,C,Delhi,Member,Male,Sports,3058.38,7,1070.43,22479.09,21408.66,0.05,1123.95,Credit Card,2023-09-04,13:18,Monday,September,8,18.49,12,23
+INV-858761,A,Bangalore,Member,Male,Clothing,2108.09,1,105.4,2213.49,2108.09,0.05,110.67,UPI,2023-01-19,10:09,Thursday,January,1,6.11,1,27
+INV-826448,C,Bangalore,Normal,Male,Groceries,4359.11,2,435.91,9154.13,8718.22,0.05,457.71,UPI,2023-04-03,20:47,Monday,April,5,3.52,12,53
+INV-755129,B,Delhi,Normal,Male,Home Appliances,757.07,1,37.85,794.92,757.07,0.05,39.75,UPI,2023-03-12,20:04,Sunday,March,1,20.37,9,63
+INV-663370,A,Delhi,Normal,Female,Cosmetics,4759.64,1,237.98,4997.62,4759.64,0.05,249.88,Cash,2023-08-29,21:16,Tuesday,August,9,20.2,2,29
+INV-151831,A,Delhi,Normal,Male,Groceries,4433.82,9,1995.22,41899.6,39904.38,0.05,2094.98,UPI,2023-11-06,19:08,Monday,November,8,25.08,8,36
+INV-333192,A,Mumbai,Member,Male,Home Appliances,4224.46,3,633.67,13307.05,12673.380000000001,0.05,665.35,UPI,2023-12-30,10:53,Saturday,December,7,13.54,2,33
+INV-661693,A,Mumbai,Member,Female,Cosmetics,4282.12,3,642.32,13488.68,12846.36,0.05,674.43,Credit Card,2023-05-19,12:45,Friday,May,9,24.11,2,62
+INV-455054,A,Bangalore,Member,Female,Groceries,1079.38,8,431.75,9066.79,8635.04,0.05,453.34,Credit Card,2023-01-22,13:11,Sunday,January,9,22.29,14,42
+INV-892908,A,Bangalore,Normal,Male,Electronics,2750.65,1,137.53,2888.18,2750.65,0.05,144.41,UPI,2023-06-22,09:01,Thursday,June,6,13.0,12,56
+INV-145095,C,Bangalore,Normal,Female,Sports,1639.75,3,245.96,5165.21,4919.25,0.05,258.26,Credit Card,2023-01-03,13:13,Tuesday,January,7,11.09,10,25
+INV-901115,A,Bangalore,Member,Male,Clothing,3300.81,2,330.08,6931.7,6601.62,0.05,346.59,Credit Card,2023-03-03,08:08,Friday,March,2,23.18,14,62
+INV-431119,A,Bangalore,Normal,Female,Home Appliances,378.99,8,151.6,3183.52,3031.92,0.05,159.18,Cash,2023-07-20,17:57,Thursday,July,7,20.32,3,31
+INV-725210,B,Bangalore,Member,Male,Electronics,122.41,3,18.36,385.59,367.23,0.05,19.28,Cash,2023-07-11,19:28,Tuesday,July,7,19.87,14,42
+INV-443615,B,Bangalore,Member,Male,Electronics,1984.24,1,99.21,2083.45,1984.24,0.05,104.17,UPI,2023-08-03,10:20,Thursday,August,4,25.58,4,36
+INV-555738,B,Delhi,Member,Female,Electronics,3803.42,6,1141.03,23961.55,22820.52,0.05,1198.08,UPI,2023-01-16,15:39,Monday,January,9,7.25,10,16
+INV-149522,A,Mumbai,Normal,Female,Clothing,2153.01,1,107.65,2260.66,2153.01,0.05,113.03,UPI,2023-08-06,09:49,Sunday,August,7,19.79,0,52
+INV-909020,A,Bangalore,Normal,Male,Electronics,2689.59,3,403.44,8472.21,8068.77,0.05,423.61,UPI,2023-06-15,10:29,Thursday,June,1,15.86,11,35
+INV-869460,A,Mumbai,Normal,Female,Clothing,3488.47,4,697.69,14651.57,13953.88,0.05,732.58,UPI,2023-10-05,17:38,Thursday,October,4,13.85,6,20
+INV-915495,B,Bangalore,Member,Female,Clothing,3944.21,5,986.05,20707.1,19721.05,0.05,1035.36,UPI,2023-12-06,19:32,Wednesday,December,1,13.92,5,20
+INV-791319,B,Bangalore,Member,Female,Groceries,2105.44,3,315.82,6632.14,6316.32,0.05,331.61,Cash,2023-03-20,12:59,Monday,March,2,23.51,8,60
+INV-374535,A,Mumbai,Normal,Male,Groceries,4446.19,8,1778.48,37348.0,35569.52,0.05,1867.4,Cash,2023-09-12,20:06,Tuesday,September,6,2.83,7,25
+INV-175403,B,Delhi,Member,Male,Home Appliances,4072.93,6,1221.88,25659.46,24437.579999999998,0.05,1282.97,Cash,2023-06-25,18:19,Sunday,June,3,29.93,2,45
+INV-423258,A,Delhi,Normal,Female,Cosmetics,249.74,1,12.49,262.23,249.74,0.05,13.11,Cash,2023-10-18,11:10,Wednesday,October,5,23.51,10,44
+INV-357438,B,Bangalore,Normal,Female,Sports,1598.25,5,399.56,8390.81,7991.25,0.05,419.54,Credit Card,2023-10-18,13:37,Wednesday,October,8,18.71,3,46
+INV-196393,C,Delhi,Normal,Female,Groceries,706.59,3,105.99,2225.76,2119.77,0.05,111.29,UPI,2023-01-03,12:20,Tuesday,January,3,17.43,12,43
+INV-596915,A,Bangalore,Normal,Male,Sports,3795.81,2,379.58,7971.2,7591.62,0.05,398.56,UPI,2023-03-15,20:42,Wednesday,March,3,26.05,10,60
+INV-210130,B,Mumbai,Normal,Male,Groceries,1888.86,5,472.21,9916.51,9444.3,0.05,495.83,Cash,2023-07-10,18:04,Monday,July,5,29.43,3,63
+INV-849450,C,Bangalore,Member,Female,Home Appliances,2332.78,6,699.83,14696.51,13996.68,0.05,734.83,Cash,2023-01-14,18:31,Saturday,January,2,10.87,5,32
+INV-591006,A,Mumbai,Normal,Female,Electronics,594.81,5,148.7,3122.75,2974.0499999999997,0.05,156.14,Credit Card,2023-05-13,14:40,Saturday,May,9,19.46,9,36
+INV-379143,A,Bangalore,Normal,Female,Sports,823.22,7,288.13,6050.67,5762.54,0.05,302.53,Credit Card,2023-09-17,08:14,Sunday,September,6,13.66,14,31
+INV-303834,A,Mumbai,Member,Female,Home Appliances,4194.97,2,419.5,8809.44,8389.94,0.05,440.47,Cash,2023-04-22,08:54,Saturday,April,8,24.08,13,52
+INV-643692,C,Delhi,Member,Female,Cosmetics,2702.88,8,1081.15,22704.19,21623.04,0.05,1135.21,Credit Card,2023-03-31,21:12,Friday,March,2,17.18,5,16
+INV-114995,B,Delhi,Normal,Female,Electronics,4610.47,8,1844.19,38727.95,36883.76,0.05,1936.4,Cash,2023-12-30,15:42,Saturday,December,8,2.0,9,44
+INV-125517,C,Mumbai,Normal,Female,Clothing,4582.58,4,916.52,19246.84,18330.32,0.05,962.34,Credit Card,2023-04-26,14:15,Wednesday,April,7,15.05,10,61
+INV-819778,C,Mumbai,Member,Male,Home Appliances,3433.1,5,858.28,18023.78,17165.5,0.05,901.19,UPI,2023-08-03,15:08,Thursday,August,3,0.9,9,31
+INV-240148,C,Bangalore,Member,Male,Electronics,3132.02,7,1096.21,23020.35,21924.14,0.05,1151.02,Credit Card,2023-11-09,15:14,Thursday,November,4,10.43,4,26
+INV-969446,B,Bangalore,Normal,Male,Sports,4094.02,3,614.1,12896.16,12282.06,0.05,644.81,UPI,2023-01-11,09:49,Wednesday,January,2,14.25,1,52
+INV-857634,C,Delhi,Normal,Female,Sports,4714.8,4,942.96,19802.16,18859.2,0.05,990.11,Cash,2023-09-28,12:19,Thursday,September,5,22.78,7,22
+INV-387623,B,Delhi,Normal,Male,Cosmetics,2226.72,8,890.69,18704.45,17813.76,0.05,935.22,UPI,2023-12-26,18:45,Tuesday,December,8,3.89,6,42
+INV-292003,C,Bangalore,Normal,Female,Sports,1808.83,4,361.77,7597.09,7235.32,0.05,379.85,Credit Card,2023-04-11,17:21,Tuesday,April,2,10.28,14,38
+INV-844822,A,Bangalore,Normal,Female,Groceries,816.88,7,285.91,6004.07,5718.16,0.05,300.2,UPI,2023-10-05,09:30,Thursday,October,5,14.35,9,54
+INV-835035,A,Mumbai,Member,Female,Electronics,1552.94,8,621.18,13044.7,12423.52,0.05,652.24,UPI,2023-12-21,19:47,Thursday,December,7,2.47,6,45
+INV-272257,B,Delhi,Member,Male,Home Appliances,1566.99,9,705.15,14808.06,14102.91,0.05,740.4,Credit Card,2023-04-16,12:55,Sunday,April,9,5.72,8,62
+INV-337068,B,Mumbai,Member,Male,Cosmetics,2758.83,8,1103.53,23174.17,22070.64,0.05,1158.71,Credit Card,2023-04-16,14:38,Sunday,April,1,22.95,7,34
+INV-311144,A,Mumbai,Member,Male,Electronics,128.32,5,32.08,673.68,641.5999999999999,0.05,33.68,UPI,2023-03-23,20:15,Thursday,March,6,25.15,6,49
+INV-868223,B,Bangalore,Member,Male,Cosmetics,4008.6,7,1403.01,29463.21,28060.2,0.05,1473.16,Cash,2023-10-22,11:58,Sunday,October,8,5.89,0,63
+INV-626169,A,Delhi,Member,Male,Sports,918.68,3,137.8,2893.84,2756.04,0.05,144.69,Credit Card,2023-03-18,16:59,Saturday,March,6,6.89,6,22
+INV-181972,B,Mumbai,Member,Male,Electronics,1892.26,6,567.68,11921.24,11353.56,0.05,596.06,Cash,2023-07-10,13:55,Monday,July,3,6.56,12,48
+INV-425437,A,Mumbai,Normal,Female,Sports,4520.79,6,1356.24,28480.98,27124.739999999998,0.05,1424.05,UPI,2023-07-19,14:07,Wednesday,July,9,23.57,2,24
+INV-419165,B,Mumbai,Member,Male,Groceries,1868.58,1,93.43,1962.01,1868.58,0.05,98.1,Cash,2023-11-11,20:04,Saturday,November,4,20.18,8,45
+INV-591121,A,Bangalore,Member,Male,Groceries,1130.13,4,226.03,4746.55,4520.52,0.05,237.33,UPI,2023-01-13,20:41,Friday,January,1,18.82,12,31
+INV-203751,C,Delhi,Normal,Female,Clothing,802.64,1,40.13,842.77,802.64,0.05,42.14,Cash,2023-09-30,15:57,Saturday,September,2,28.46,6,60
+INV-433272,B,Delhi,Normal,Female,Home Appliances,3069.21,7,1074.22,22558.69,21484.47,0.05,1127.93,UPI,2023-08-17,08:27,Thursday,August,7,14.62,1,31
+INV-537585,B,Mumbai,Normal,Male,Electronics,3535.21,2,353.52,7423.94,7070.42,0.05,371.2,Credit Card,2023-08-09,21:29,Wednesday,August,5,22.89,6,31
+INV-479593,B,Delhi,Normal,Female,Electronics,2577.37,4,515.47,10824.95,10309.48,0.05,541.25,Cash,2023-05-23,16:51,Tuesday,May,5,1.51,3,44
+INV-250528,A,Bangalore,Member,Female,Sports,2778.24,4,555.65,11668.61,11112.96,0.05,583.43,Cash,2023-05-17,13:46,Wednesday,May,3,22.61,8,46
+INV-809560,C,Delhi,Member,Male,Electronics,295.59,1,14.78,310.37,295.59,0.05,15.52,UPI,2023-08-25,21:56,Friday,August,8,8.43,13,26
+INV-259882,A,Mumbai,Normal,Female,Home Appliances,1929.77,8,771.91,16210.07,15438.16,0.05,810.5,Cash,2023-02-11,21:50,Saturday,February,7,3.76,0,47
+INV-568535,A,Delhi,Member,Female,Home Appliances,1222.82,5,305.7,6419.8,6114.099999999999,0.05,320.99,Cash,2023-12-07,15:22,Thursday,December,6,10.98,5,51
+INV-470608,B,Mumbai,Normal,Female,Electronics,3759.66,3,563.95,11842.93,11278.98,0.05,592.15,Cash,2023-11-06,15:40,Monday,November,3,12.56,7,63
+INV-666118,C,Bangalore,Normal,Male,Groceries,1694.42,2,169.44,3558.28,3388.84,0.05,177.91,UPI,2023-03-04,15:18,Saturday,March,1,19.6,7,52
+INV-328931,B,Bangalore,Member,Female,Cosmetics,1513.49,6,454.05,9534.99,9080.94,0.05,476.75,Credit Card,2023-04-29,12:50,Saturday,April,6,8.32,10,50
+INV-985987,B,Delhi,Member,Male,Clothing,4818.63,4,963.73,20238.25,19274.52,0.05,1011.91,Cash,2023-02-27,08:40,Monday,February,7,13.07,2,49
+INV-636785,C,Delhi,Member,Male,Clothing,754.16,8,301.66,6334.94,6033.28,0.05,316.75,Credit Card,2023-10-11,08:41,Wednesday,October,8,16.23,11,22
+INV-103358,A,Bangalore,Member,Female,Clothing,4698.03,2,469.8,9865.86,9396.06,0.05,493.29,Cash,2023-05-17,15:11,Wednesday,May,8,10.24,12,39
+INV-307849,A,Bangalore,Normal,Male,Sports,4570.5,3,685.58,14397.08,13711.5,0.05,719.85,Credit Card,2023-09-07,15:53,Thursday,September,9,22.54,7,24
+INV-644026,B,Delhi,Normal,Female,Clothing,927.1,8,370.84,7787.64,7416.8,0.05,389.38,Cash,2023-01-05,10:57,Thursday,January,1,0.21,11,55
+INV-702251,A,Bangalore,Normal,Female,Clothing,3334.44,2,333.44,7002.32,6668.88,0.05,350.12,UPI,2023-12-17,09:19,Sunday,December,7,8.85,6,62
+INV-386073,A,Bangalore,Normal,Male,Electronics,1394.58,9,627.56,13178.78,12551.22,0.05,658.94,Cash,2023-03-07,21:02,Tuesday,March,5,12.9,0,36
+INV-927385,B,Mumbai,Normal,Male,Clothing,908.05,1,45.4,953.45,908.05,0.05,47.67,Credit Card,2023-10-21,20:14,Saturday,October,4,22.02,8,35
+INV-992015,B,Bangalore,Member,Female,Groceries,2938.84,5,734.71,15428.91,14694.2,0.05,771.45,UPI,2023-03-11,08:42,Saturday,March,7,19.76,1,35
+INV-549777,A,Delhi,Member,Female,Groceries,4113.86,6,1234.16,25917.32,24683.159999999996,0.05,1295.87,UPI,2023-12-26,14:02,Tuesday,December,9,28.28,7,25
+INV-343767,A,Bangalore,Normal,Male,Groceries,4014.85,5,1003.71,21077.96,20074.25,0.05,1053.9,Cash,2023-08-25,12:54,Friday,August,6,6.44,8,62
+INV-892330,A,Bangalore,Normal,Male,Groceries,3928.33,8,1571.33,32997.97,31426.64,0.05,1649.9,Cash,2023-07-07,10:29,Friday,July,7,5.18,10,22
+INV-741480,C,Delhi,Member,Male,Home Appliances,1516.97,6,455.09,9556.91,9101.82,0.05,477.85,UPI,2023-08-08,17:29,Tuesday,August,7,29.09,4,61
+INV-810070,B,Mumbai,Normal,Female,Groceries,764.33,4,152.87,3210.19,3057.32,0.05,160.51,UPI,2023-12-11,19:00,Monday,December,6,6.8,14,15
+INV-338245,C,Mumbai,Normal,Male,Cosmetics,1301.65,6,390.5,8200.4,7809.900000000001,0.05,410.02,Cash,2023-12-01,08:21,Friday,December,3,10.52,7,61
+INV-608069,A,Bangalore,Normal,Female,Sports,306.34,6,91.9,1929.94,1838.04,0.05,96.5,UPI,2023-03-31,20:16,Friday,March,1,10.75,12,20
+INV-149420,C,Delhi,Member,Female,Cosmetics,2850.16,8,1140.06,23941.34,22801.28,0.05,1197.07,Cash,2023-05-23,13:26,Tuesday,May,1,8.27,7,49
+INV-435064,A,Mumbai,Normal,Male,Clothing,132.94,5,33.24,697.94,664.7,0.05,34.9,UPI,2023-02-27,08:22,Monday,February,2,0.98,4,40
+INV-437283,A,Mumbai,Member,Female,Cosmetics,2068.35,6,620.5,13030.6,12410.099999999999,0.05,651.53,Credit Card,2023-02-28,09:17,Tuesday,February,1,27.84,13,27
+INV-772747,A,Delhi,Member,Female,Clothing,1158.71,7,405.55,8516.52,8110.97,0.05,425.83,Credit Card,2023-01-19,18:46,Thursday,January,3,2.3,2,34
+INV-488422,A,Mumbai,Normal,Male,Clothing,2775.78,8,1110.31,23316.55,22206.24,0.05,1165.83,Cash,2023-11-13,20:16,Monday,November,2,3.18,3,27
+INV-854471,B,Mumbai,Member,Male,Electronics,2681.72,5,670.43,14079.03,13408.599999999999,0.05,703.95,Cash,2023-08-27,21:03,Sunday,August,4,12.58,11,46
+INV-824750,A,Mumbai,Normal,Female,Electronics,4402.68,3,660.4,13868.44,13208.04,0.05,693.42,Credit Card,2023-09-03,15:23,Sunday,September,9,9.39,1,22
+INV-336495,B,Bangalore,Member,Female,Sports,298.56,3,44.78,940.46,895.6800000000001,0.05,47.02,Credit Card,2023-04-13,17:56,Thursday,April,3,2.74,5,32
+INV-341249,B,Mumbai,Normal,Female,Cosmetics,263.11,5,65.78,1381.33,1315.5500000000002,0.05,69.07,Cash,2023-08-09,14:59,Wednesday,August,7,24.99,5,60
+INV-674887,B,Bangalore,Normal,Female,Groceries,582.69,7,203.94,4282.77,4078.8300000000004,0.05,214.14,Credit Card,2023-01-06,17:17,Friday,January,9,9.25,3,20
+INV-457776,C,Delhi,Normal,Male,Clothing,1659.8,3,248.97,5228.37,4979.4,0.05,261.42,Credit Card,2023-04-16,18:42,Sunday,April,4,9.73,0,55
+INV-382579,C,Mumbai,Normal,Female,Cosmetics,1093.89,6,328.17,6891.51,6563.34,0.05,344.58,UPI,2023-10-18,13:00,Wednesday,October,6,23.5,10,27
+INV-865197,C,Bangalore,Member,Male,Clothing,4952.14,3,742.82,15599.24,14856.420000000002,0.05,779.96,Credit Card,2023-11-12,19:22,Sunday,November,1,12.93,10,55
+INV-397843,B,Delhi,Member,Male,Clothing,1030.57,3,154.59,3246.3,3091.71,0.05,162.32,Cash,2023-05-05,12:46,Friday,May,7,12.52,11,48
+INV-715416,A,Bangalore,Normal,Female,Groceries,896.14,9,403.26,8468.52,8065.26,0.05,423.43,UPI,2023-03-15,21:41,Wednesday,March,7,24.15,8,28
+INV-212138,C,Delhi,Member,Female,Electronics,840.14,2,84.01,1764.29,1680.28,0.05,88.21,Cash,2023-09-23,10:10,Saturday,September,5,25.05,12,21
+INV-780913,A,Mumbai,Member,Female,Sports,720.52,2,72.05,1513.09,1441.04,0.05,75.65,Credit Card,2023-11-28,16:41,Tuesday,November,6,6.41,0,32
+INV-403342,B,Bangalore,Member,Female,Electronics,4296.88,6,1289.06,27070.34,25781.28,0.05,1353.52,UPI,2023-12-30,18:46,Saturday,December,4,29.21,1,40
+INV-579806,A,Mumbai,Normal,Female,Groceries,1412.43,8,564.97,11864.41,11299.44,0.05,593.22,Cash,2023-09-20,14:45,Wednesday,September,8,2.8,12,57
+INV-411385,C,Bangalore,Member,Female,Clothing,4037.96,1,201.9,4239.86,4037.96,0.05,211.99,Cash,2023-10-19,12:07,Thursday,October,4,13.5,12,61
+INV-204428,B,Mumbai,Member,Female,Electronics,4359.91,7,1525.97,32045.34,30519.37,0.05,1602.27,UPI,2023-09-27,17:06,Wednesday,September,4,14.78,4,43
+INV-496308,B,Mumbai,Member,Male,Groceries,1705.29,4,341.06,7162.22,6821.16,0.05,358.11,Cash,2023-10-02,20:41,Monday,October,5,22.8,3,43
+INV-135733,B,Mumbai,Member,Female,Groceries,788.78,6,236.63,4969.31,4732.68,0.05,248.47,UPI,2023-11-15,11:01,Wednesday,November,2,1.7,3,44
+INV-731613,C,Delhi,Normal,Female,Electronics,1989.96,7,696.49,14626.21,13929.720000000001,0.05,731.31,Credit Card,2023-02-03,20:42,Friday,February,6,7.79,5,61
+INV-188302,A,Delhi,Member,Female,Electronics,1521.57,7,532.55,11183.54,10650.99,0.05,559.18,Cash,2023-02-07,13:51,Tuesday,February,9,4.23,3,64
+INV-628036,C,Mumbai,Member,Male,Clothing,2015.11,4,403.02,8463.46,8060.44,0.05,423.17,UPI,2023-12-09,21:10,Saturday,December,6,20.14,12,58
+INV-600201,B,Bangalore,Member,Male,Sports,452.09,9,203.44,4272.25,4068.81,0.05,213.61,UPI,2023-04-16,14:03,Sunday,April,3,17.33,12,45
+INV-347667,C,Mumbai,Member,Female,Clothing,1482.73,5,370.68,7784.33,7413.65,0.05,389.22,UPI,2023-10-15,09:58,Sunday,October,2,18.56,7,31
+INV-233248,B,Mumbai,Normal,Male,Electronics,2528.52,7,884.98,18584.62,17699.64,0.05,929.23,Credit Card,2023-09-02,18:23,Saturday,September,7,2.99,6,40
+INV-893567,C,Mumbai,Normal,Male,Electronics,2641.82,1,132.09,2773.91,2641.82,0.05,138.7,Cash,2023-08-13,18:27,Sunday,August,1,19.56,4,56
+INV-734151,B,Bangalore,Normal,Female,Home Appliances,3967.74,8,1587.1,33329.02,31741.92,0.05,1666.45,UPI,2023-09-17,19:18,Sunday,September,2,20.22,12,17
+INV-784687,B,Mumbai,Normal,Male,Electronics,1655.43,1,82.77,1738.2,1655.43,0.05,86.91,UPI,2023-07-01,09:48,Saturday,July,2,17.26,13,34
+INV-919497,C,Mumbai,Member,Male,Home Appliances,1415.82,9,637.12,13379.5,12742.38,0.05,668.98,UPI,2023-04-06,20:09,Thursday,April,8,9.71,7,55
+INV-878424,C,Bangalore,Normal,Male,Sports,3278.56,5,819.64,17212.44,16392.8,0.05,860.62,Credit Card,2023-09-03,20:21,Sunday,September,4,21.04,10,55
+INV-811752,C,Delhi,Member,Female,Cosmetics,4984.7,9,2243.11,47105.41,44862.299999999996,0.05,2355.27,Credit Card,2023-11-18,19:39,Saturday,November,9,18.68,8,48
+INV-312603,A,Bangalore,Member,Male,Electronics,4217.98,7,1476.29,31002.15,29525.859999999997,0.05,1550.11,Credit Card,2023-03-01,09:00,Wednesday,March,4,5.24,10,16
+INV-656371,A,Delhi,Normal,Female,Sports,3335.93,2,333.59,7005.45,6671.86,0.05,350.27,UPI,2023-10-12,19:36,Thursday,October,7,15.01,9,60
+INV-236319,B,Mumbai,Member,Female,Clothing,494.89,2,49.49,1039.27,989.78,0.05,51.96,Credit Card,2023-08-04,21:33,Friday,August,6,4.3,3,59
+INV-915267,C,Delhi,Normal,Female,Groceries,1502.1,4,300.42,6308.82,6008.4,0.05,315.44,UPI,2023-08-05,08:44,Saturday,August,4,28.38,2,37
+INV-957549,A,Bangalore,Member,Female,Clothing,55.5,5,13.88,291.38,277.5,0.05,14.57,Credit Card,2023-05-29,15:50,Monday,May,7,0.49,5,26
+INV-316621,A,Delhi,Member,Male,Cosmetics,1651.48,7,578.02,12138.38,11560.36,0.05,606.92,Credit Card,2023-05-22,20:06,Monday,May,1,24.95,14,58
+INV-954221,B,Bangalore,Normal,Female,Clothing,3266.45,4,653.29,13719.09,13065.8,0.05,685.95,Cash,2023-12-09,15:58,Saturday,December,1,0.41,2,31
+INV-428615,A,Bangalore,Normal,Female,Cosmetics,2794.07,6,838.22,17602.64,16764.420000000002,0.05,880.13,Credit Card,2023-07-09,14:31,Sunday,July,4,16.97,8,43
+INV-966220,A,Delhi,Normal,Male,Clothing,471.03,9,211.96,4451.23,4239.2699999999995,0.05,222.56,Cash,2023-04-05,13:01,Wednesday,April,5,11.66,8,22
+INV-235150,B,Mumbai,Normal,Male,Cosmetics,520.08,4,104.02,2184.34,2080.32,0.05,109.22,Credit Card,2023-12-09,18:38,Saturday,December,6,13.32,12,40
+INV-972318,A,Bangalore,Normal,Male,Clothing,375.77,4,75.15,1578.23,1503.08,0.05,78.91,UPI,2023-02-15,10:00,Wednesday,February,5,9.17,0,16
+INV-758354,B,Delhi,Member,Female,Groceries,3378.91,6,1013.67,21287.13,20273.46,0.05,1064.36,Credit Card,2023-01-08,20:47,Sunday,January,1,18.97,2,19
+INV-703814,C,Bangalore,Member,Female,Electronics,2913.54,4,582.71,12236.87,11654.16,0.05,611.84,UPI,2023-04-19,11:08,Wednesday,April,4,12.78,2,52
+INV-577294,B,Bangalore,Normal,Male,Sports,507.88,9,228.55,4799.47,4570.92,0.05,239.97,UPI,2023-03-27,19:51,Monday,March,5,23.9,10,33
+INV-254226,B,Mumbai,Normal,Female,Groceries,1168.86,8,467.54,9818.42,9350.88,0.05,490.92,Cash,2023-10-25,17:47,Wednesday,October,7,17.57,11,23
+INV-694699,C,Mumbai,Member,Male,Home Appliances,475.86,3,71.38,1498.96,1427.58,0.05,74.95,UPI,2023-08-28,14:50,Monday,August,7,7.01,9,56
+INV-535647,A,Bangalore,Member,Female,Clothing,4109.33,6,1232.8,25888.78,24655.98,0.05,1294.44,Cash,2023-04-08,18:18,Saturday,April,6,7.57,5,63
+INV-625754,A,Mumbai,Member,Male,Home Appliances,3087.51,1,154.38,3241.89,3087.51,0.05,162.09,Credit Card,2023-12-21,15:07,Thursday,December,4,21.91,7,21
+INV-721195,C,Bangalore,Normal,Male,Groceries,3222.78,4,644.56,13535.68,12891.12,0.05,676.78,UPI,2023-06-03,13:45,Saturday,June,3,27.34,13,38
+INV-640277,C,Bangalore,Normal,Female,Cosmetics,4624.33,9,2080.95,43699.92,41618.97,0.05,2185.0,Cash,2023-04-28,13:56,Friday,April,4,11.88,0,21
+INV-578705,B,Bangalore,Normal,Female,Sports,2298.21,6,689.46,14478.72,13789.26,0.05,723.94,UPI,2023-08-03,20:22,Thursday,August,9,11.34,5,43
+INV-715197,B,Mumbai,Member,Female,Home Appliances,1729.56,4,345.91,7264.15,6918.24,0.05,363.21,UPI,2023-09-27,21:34,Wednesday,September,1,3.19,13,44
+INV-389385,A,Delhi,Member,Female,Electronics,4708.19,8,1883.28,39548.8,37665.52,0.05,1977.44,Credit Card,2023-08-05,10:37,Saturday,August,5,13.26,3,52
+INV-656016,B,Mumbai,Normal,Female,Electronics,2304.15,9,1036.87,21774.22,20737.350000000002,0.05,1088.71,Credit Card,2023-01-07,13:16,Saturday,January,9,5.42,8,21
+INV-594080,B,Bangalore,Normal,Female,Groceries,2650.03,2,265.0,5565.06,5300.06,0.05,278.25,Cash,2023-08-18,18:51,Friday,August,5,20.27,3,31
+INV-163965,B,Mumbai,Normal,Male,Cosmetics,3118.84,6,935.65,19648.69,18713.04,0.05,982.43,UPI,2023-08-06,11:00,Sunday,August,2,26.16,2,22
+INV-867610,B,Mumbai,Normal,Female,Cosmetics,1760.13,3,264.02,5544.41,5280.39,0.05,277.22,UPI,2023-10-19,09:51,Thursday,October,9,11.89,11,43
+INV-236109,A,Mumbai,Member,Male,Electronics,760.17,4,152.03,3192.71,3040.68,0.05,159.64,UPI,2023-01-17,14:47,Tuesday,January,7,15.07,13,44
+INV-851395,B,Mumbai,Member,Female,Home Appliances,1609.3,2,160.93,3379.53,3218.6,0.05,168.98,UPI,2023-04-18,19:29,Tuesday,April,2,9.21,14,21
+INV-710885,B,Bangalore,Normal,Female,Groceries,3408.53,7,1192.99,25052.7,23859.710000000003,0.05,1252.64,Cash,2023-03-31,20:05,Friday,March,8,24.05,2,51
+INV-429760,B,Mumbai,Normal,Male,Groceries,2142.15,5,535.54,11246.29,10710.75,0.05,562.31,UPI,2023-01-30,16:41,Monday,January,5,23.58,13,41
+INV-363328,B,Mumbai,Normal,Male,Home Appliances,1742.14,6,522.64,10975.48,10452.84,0.05,548.77,UPI,2023-11-28,14:28,Tuesday,November,5,13.2,3,53
+INV-355658,C,Bangalore,Normal,Female,Clothing,1935.71,6,580.71,12194.97,11614.26,0.05,609.75,Credit Card,2023-10-01,10:06,Sunday,October,2,11.5,4,47
+INV-654081,C,Mumbai,Normal,Male,Home Appliances,4185.09,4,837.02,17577.38,16740.36,0.05,878.87,Credit Card,2023-07-29,11:48,Saturday,July,8,16.64,11,20
+INV-466330,C,Bangalore,Member,Male,Clothing,2357.28,7,825.05,17326.01,16500.960000000003,0.05,866.3,UPI,2023-07-04,12:54,Tuesday,July,7,18.15,11,63
+INV-791252,B,Bangalore,Normal,Male,Groceries,2879.46,6,863.84,18140.6,17276.760000000002,0.05,907.03,Credit Card,2023-08-03,12:41,Thursday,August,7,11.21,6,43
+INV-190140,B,Bangalore,Normal,Male,Electronics,111.09,3,16.66,349.93,333.27,0.05,17.5,Credit Card,2023-12-05,17:27,Tuesday,December,3,1.53,14,52
+INV-251542,B,Mumbai,Normal,Male,Sports,2582.95,3,387.44,8136.29,7748.849999999999,0.05,406.81,Credit Card,2023-03-08,15:07,Wednesday,March,4,14.23,2,35
+INV-545935,B,Mumbai,Normal,Female,Clothing,177.76,8,71.1,1493.18,1422.08,0.05,74.66,Credit Card,2023-12-09,20:02,Saturday,December,9,16.74,12,21
+INV-144439,A,Delhi,Member,Male,Groceries,535.14,6,160.54,3371.38,3210.84,0.05,168.57,Cash,2023-08-14,16:21,Monday,August,1,19.37,0,24
+INV-519515,B,Mumbai,Member,Female,Sports,4732.56,8,1893.02,39753.5,37860.48,0.05,1987.68,Cash,2023-11-02,19:24,Thursday,November,9,4.98,6,57
+INV-427210,B,Mumbai,Member,Female,Electronics,3469.1,5,867.28,18212.78,17345.5,0.05,910.64,UPI,2023-01-25,09:12,Wednesday,January,2,20.17,14,42
+INV-815232,B,Bangalore,Member,Male,Cosmetics,3227.01,9,1452.15,30495.24,29043.090000000004,0.05,1524.76,Cash,2023-08-20,11:27,Sunday,August,4,5.31,1,62
+INV-132230,A,Delhi,Member,Male,Sports,4785.77,8,1914.31,40200.47,38286.16,0.05,2010.02,Credit Card,2023-01-06,15:47,Friday,January,5,2.91,5,32
+INV-404958,B,Mumbai,Normal,Male,Groceries,3997.69,2,399.77,8395.15,7995.38,0.05,419.76,UPI,2023-10-28,09:46,Saturday,October,2,18.83,6,25
+INV-916141,A,Mumbai,Normal,Female,Home Appliances,4226.59,7,1479.31,31065.44,29586.13,0.05,1553.27,Cash,2023-11-05,17:45,Sunday,November,6,21.91,7,55
+INV-468117,B,Delhi,Normal,Female,Cosmetics,3172.05,7,1110.22,23314.57,22204.350000000002,0.05,1165.73,Cash,2023-08-02,14:55,Wednesday,August,3,10.03,6,42
+INV-414493,B,Mumbai,Normal,Male,Sports,2129.05,1,106.45,2235.5,2129.05,0.05,111.78,Cash,2023-01-28,18:51,Saturday,January,1,28.72,2,48
+INV-967965,A,Delhi,Normal,Male,Groceries,3278.76,8,1311.5,27541.58,26230.08,0.05,1377.08,Credit Card,2023-03-21,13:12,Tuesday,March,7,17.06,5,30
+INV-294795,B,Mumbai,Member,Female,Groceries,3182.37,3,477.36,10024.47,9547.11,0.05,501.22,UPI,2023-06-22,21:07,Thursday,June,7,28.48,4,40
+INV-510226,B,Bangalore,Normal,Male,Sports,4539.86,9,2042.94,42901.68,40858.74,0.05,2145.08,Cash,2023-03-06,13:22,Monday,March,7,14.51,6,46
+INV-358360,C,Mumbai,Normal,Female,Home Appliances,1821.17,2,182.12,3824.46,3642.34,0.05,191.22,Cash,2023-12-09,08:20,Saturday,December,7,16.6,12,58
+INV-510281,C,Bangalore,Member,Male,Groceries,1090.03,3,163.5,3433.59,3270.09,0.05,171.68,UPI,2023-10-30,15:50,Monday,October,7,23.41,3,41
+INV-533950,B,Delhi,Normal,Female,Clothing,1342.75,9,604.24,12688.99,12084.75,0.05,634.45,Cash,2023-09-02,20:56,Saturday,September,5,22.05,12,27
+INV-691451,C,Delhi,Normal,Female,Sports,2230.67,4,446.13,9368.81,8922.68,0.05,468.44,UPI,2023-04-11,13:52,Tuesday,April,1,20.82,1,39
+INV-729756,A,Bangalore,Normal,Female,Cosmetics,1629.27,9,733.17,15396.6,14663.43,0.05,769.83,Cash,2023-05-14,18:56,Sunday,May,6,2.74,10,28
+INV-826546,A,Mumbai,Member,Female,Electronics,568.15,3,85.22,1789.67,1704.4499999999998,0.05,89.48,Cash,2023-12-21,08:23,Thursday,December,2,21.43,3,38
+INV-497819,B,Delhi,Member,Male,Clothing,2630.82,1,131.54,2762.36,2630.82,0.05,138.12,Cash,2023-06-02,20:48,Friday,June,2,26.72,1,43
+INV-651752,C,Mumbai,Member,Male,Clothing,4060.3,3,609.05,12789.95,12180.900000000001,0.05,639.5,Credit Card,2023-01-25,13:50,Wednesday,January,1,9.82,0,48
+INV-533797,B,Mumbai,Normal,Male,Groceries,946.8,8,378.72,7953.12,7574.4,0.05,397.66,UPI,2023-02-03,16:44,Friday,February,5,12.79,8,62
+INV-979191,C,Delhi,Normal,Female,Home Appliances,927.77,9,417.5,8767.43,8349.93,0.05,438.37,UPI,2023-09-01,09:59,Friday,September,4,10.81,14,29
+INV-433977,B,Delhi,Normal,Male,Electronics,1967.88,8,787.15,16530.19,15743.04,0.05,826.51,Credit Card,2023-01-09,20:08,Monday,January,4,7.98,14,49
+INV-532206,B,Delhi,Normal,Male,Clothing,2809.15,5,702.29,14748.04,14045.75,0.05,737.4,Credit Card,2023-09-04,12:19,Monday,September,2,26.58,12,27
+INV-800606,B,Mumbai,Normal,Female,Home Appliances,143.78,9,64.7,1358.72,1294.02,0.05,67.94,UPI,2023-01-08,10:47,Sunday,January,9,4.13,10,49
+INV-326377,C,Bangalore,Member,Female,Electronics,4520.96,4,904.19,18988.03,18083.84,0.05,949.4,UPI,2023-05-21,19:36,Sunday,May,8,1.21,6,16
+INV-947516,B,Delhi,Member,Female,Electronics,3418.37,7,1196.43,25125.02,23928.59,0.05,1256.25,Credit Card,2023-04-13,15:38,Thursday,April,3,26.59,14,39
+INV-465036,C,Bangalore,Normal,Male,Home Appliances,801.84,4,160.37,3367.73,3207.36,0.05,168.39,Credit Card,2023-08-24,14:16,Thursday,August,2,28.96,9,53
+INV-144130,B,Bangalore,Normal,Female,Groceries,3178.5,7,1112.48,23361.98,22249.5,0.05,1168.1,Credit Card,2023-03-11,10:57,Saturday,March,2,6.2,3,19
+INV-593891,A,Mumbai,Normal,Male,Electronics,1199.51,3,179.93,3778.46,3598.5299999999997,0.05,188.92,Cash,2023-11-14,15:40,Tuesday,November,9,9.71,2,28
+INV-655474,B,Mumbai,Normal,Male,Sports,954.93,6,286.48,6016.06,5729.58,0.05,300.8,Credit Card,2023-04-10,14:29,Monday,April,1,1.87,14,54
+INV-101577,B,Delhi,Member,Male,Groceries,4071.33,2,407.13,8549.79,8142.66,0.05,427.49,Credit Card,2023-08-08,11:18,Tuesday,August,1,9.07,12,21
+INV-689719,A,Mumbai,Normal,Male,Electronics,4293.29,2,429.33,9015.91,8586.58,0.05,450.8,Credit Card,2023-02-05,16:05,Sunday,February,2,28.35,12,39
+INV-696861,A,Mumbai,Member,Male,Clothing,316.17,8,126.47,2655.83,2529.36,0.05,132.79,UPI,2023-11-27,17:50,Monday,November,2,1.91,10,52
+INV-977751,B,Mumbai,Normal,Male,Sports,75.44,3,11.32,237.64,226.32,0.05,11.88,Cash,2023-03-31,12:53,Friday,March,7,22.55,7,34
+INV-988704,B,Delhi,Member,Female,Cosmetics,1482.73,6,444.82,9341.2,8896.380000000001,0.05,467.06,Credit Card,2023-02-28,14:08,Tuesday,February,8,20.33,3,49
+INV-872378,C,Bangalore,Normal,Male,Sports,4371.56,6,1311.47,27540.83,26229.36,0.05,1377.04,Cash,2023-08-25,15:06,Friday,August,1,14.26,5,21
+INV-450068,B,Mumbai,Member,Female,Sports,1947.82,9,876.52,18406.9,17530.38,0.05,920.35,UPI,2023-05-03,18:41,Wednesday,May,1,5.68,3,51
+INV-597666,B,Bangalore,Member,Female,Cosmetics,2580.01,1,129.0,2709.01,2580.01,0.05,135.45,Cash,2023-08-15,12:47,Tuesday,August,4,28.02,2,28
+INV-925169,A,Delhi,Normal,Female,Groceries,3371.51,1,168.58,3540.09,3371.51,0.05,177.0,Cash,2023-01-24,11:22,Tuesday,January,2,9.19,1,29
+INV-611566,B,Bangalore,Normal,Male,Home Appliances,401.03,2,40.1,842.16,802.06,0.05,42.11,UPI,2023-10-19,14:07,Thursday,October,3,18.89,12,55
+INV-584607,B,Bangalore,Normal,Male,Groceries,704.83,8,281.93,5920.57,5638.64,0.05,296.03,UPI,2023-12-18,20:31,Monday,December,4,16.33,0,48
+INV-921190,A,Bangalore,Member,Male,Groceries,1877.22,9,844.75,17739.73,16894.98,0.05,886.99,UPI,2023-12-15,09:17,Friday,December,7,15.17,12,39
+INV-623472,B,Delhi,Normal,Male,Electronics,734.94,8,293.98,6173.5,5879.52,0.05,308.68,Credit Card,2023-12-13,13:01,Wednesday,December,5,19.89,7,44
+INV-259204,C,Mumbai,Member,Female,Electronics,2104.97,5,526.24,11051.09,10524.849999999999,0.05,552.55,Cash,2023-09-02,13:34,Saturday,September,2,19.46,0,57
+INV-761414,B,Bangalore,Normal,Male,Sports,2317.24,7,811.03,17031.71,16220.679999999998,0.05,851.59,UPI,2023-05-10,11:20,Wednesday,May,2,22.39,0,53
+INV-979780,A,Mumbai,Member,Male,Clothing,4235.98,5,1058.99,22238.89,21179.899999999998,0.05,1111.94,UPI,2023-05-28,10:40,Sunday,May,8,14.36,9,16
+INV-987457,A,Mumbai,Normal,Male,Sports,51.12,4,10.22,214.7,204.48,0.05,10.73,UPI,2023-12-08,13:21,Friday,December,7,22.59,10,60
+INV-467747,B,Bangalore,Normal,Male,Clothing,4387.15,7,1535.5,32245.55,30710.049999999996,0.05,1612.28,UPI,2023-04-07,08:23,Friday,April,4,7.27,10,57
+INV-578646,B,Delhi,Member,Male,Cosmetics,3732.94,1,186.65,3919.59,3732.94,0.05,195.98,Credit Card,2023-10-11,17:40,Wednesday,October,4,27.54,13,30
+INV-753936,A,Mumbai,Normal,Female,Clothing,1201.55,2,120.16,2523.26,2403.1,0.05,126.16,Cash,2023-12-28,15:55,Thursday,December,8,24.07,12,63
+INV-604910,B,Mumbai,Member,Female,Cosmetics,2248.71,7,787.05,16528.02,15740.970000000001,0.05,826.4,UPI,2023-07-08,17:16,Saturday,July,2,25.98,2,44
+INV-821041,C,Mumbai,Member,Male,Groceries,3901.33,4,780.27,16385.59,15605.32,0.05,819.28,Credit Card,2023-11-19,14:55,Sunday,November,7,22.64,5,15
+INV-414260,C,Bangalore,Normal,Male,Cosmetics,4438.19,1,221.91,4660.1,4438.19,0.05,233.01,Credit Card,2023-02-21,09:42,Tuesday,February,9,0.21,11,56
+INV-293946,C,Mumbai,Normal,Female,Electronics,1212.03,3,181.8,3817.89,3636.09,0.05,190.89,Credit Card,2023-07-17,11:23,Monday,July,6,29.76,5,63
+INV-535126,A,Bangalore,Member,Female,Cosmetics,728.25,7,254.89,5352.64,5097.75,0.05,267.63,Cash,2023-03-24,13:56,Friday,March,3,10.9,12,36
+INV-244926,A,Bangalore,Normal,Female,Sports,4888.61,3,733.29,15399.12,14665.829999999998,0.05,769.96,UPI,2023-02-11,09:00,Saturday,February,2,8.93,0,52
+INV-887733,C,Bangalore,Normal,Female,Groceries,1635.99,9,736.2,15460.11,14723.91,0.05,773.01,Cash,2023-07-26,21:55,Wednesday,July,3,19.05,2,58
+INV-135525,B,Mumbai,Member,Female,Cosmetics,152.75,2,15.28,320.78,305.5,0.05,16.04,UPI,2023-11-04,12:28,Saturday,November,5,5.16,0,41
+INV-443003,A,Delhi,Member,Male,Groceries,3702.51,6,1110.75,23325.81,22215.06,0.05,1166.29,Credit Card,2023-06-17,17:15,Saturday,June,1,25.09,10,31
+INV-744942,B,Bangalore,Member,Male,Cosmetics,4107.14,7,1437.5,30187.48,28749.980000000003,0.05,1509.37,Cash,2023-06-30,14:43,Friday,June,2,11.31,3,28
+INV-469673,A,Mumbai,Normal,Female,Home Appliances,2745.55,7,960.94,20179.79,19218.850000000002,0.05,1008.99,Cash,2023-04-06,10:01,Thursday,April,2,9.31,4,26
+INV-350606,A,Mumbai,Normal,Male,Electronics,3992.38,9,1796.57,37727.99,35931.42,0.05,1886.4,Cash,2023-12-06,08:53,Wednesday,December,5,12.04,2,32
+INV-876652,A,Delhi,Member,Female,Electronics,1141.52,1,57.08,1198.6,1141.52,0.05,59.93,Cash,2023-10-06,14:25,Friday,October,7,7.83,10,40
+INV-210776,A,Delhi,Member,Male,Clothing,3686.81,4,737.36,15484.6,14747.24,0.05,774.23,Cash,2023-04-19,14:26,Wednesday,April,5,4.24,6,47
+INV-365369,A,Mumbai,Member,Female,Clothing,2565.3,6,769.59,16161.39,15391.800000000001,0.05,808.07,Credit Card,2023-04-29,21:28,Saturday,April,3,18.83,6,43
+INV-176290,C,Bangalore,Member,Female,Electronics,772.8,9,347.76,7302.96,6955.2,0.05,365.15,Cash,2023-06-18,14:06,Sunday,June,2,27.72,8,15
+INV-217769,B,Mumbai,Member,Female,Groceries,2831.23,4,566.25,11891.17,11324.92,0.05,594.56,Cash,2023-08-12,13:38,Saturday,August,7,24.74,13,50
+INV-867166,B,Delhi,Normal,Male,Sports,2782.08,1,139.1,2921.18,2782.08,0.05,146.06,Credit Card,2023-04-07,17:50,Friday,April,3,19.28,7,30
+INV-776337,A,Mumbai,Member,Male,Cosmetics,3495.6,1,174.78,3670.38,3495.6,0.05,183.52,Cash,2023-11-16,21:58,Thursday,November,2,11.35,1,21
+INV-148639,C,Bangalore,Member,Male,Clothing,2094.88,9,942.7,19796.62,18853.920000000002,0.05,989.83,Cash,2023-08-03,19:21,Thursday,August,1,25.61,8,51
+INV-444407,A,Mumbai,Member,Female,Cosmetics,1833.95,5,458.49,9628.24,9169.75,0.05,481.41,UPI,2023-06-15,16:44,Thursday,June,8,6.21,0,31
+INV-961501,C,Bangalore,Normal,Male,Electronics,1196.42,9,538.39,11306.17,10767.78,0.05,565.31,UPI,2023-05-10,16:59,Wednesday,May,8,9.23,0,31
+INV-820785,C,Mumbai,Member,Male,Clothing,850.39,8,340.16,7143.28,6803.12,0.05,357.16,Cash,2023-07-22,12:20,Saturday,July,7,8.47,9,59
+INV-494768,C,Delhi,Normal,Male,Clothing,4389.24,4,877.85,18434.81,17556.96,0.05,921.74,UPI,2023-04-11,20:17,Tuesday,April,9,26.71,12,45
+INV-294824,C,Bangalore,Member,Male,Electronics,68.99,4,13.8,289.76,275.96,0.05,14.49,Cash,2023-02-16,18:43,Thursday,February,5,26.18,9,40
+INV-475233,A,Delhi,Normal,Male,Electronics,2147.66,1,107.38,2255.04,2147.66,0.05,112.75,Credit Card,2023-12-04,12:02,Monday,December,1,27.29,0,58
+INV-778960,B,Delhi,Normal,Male,Electronics,3822.76,1,191.14,4013.9,3822.76,0.05,200.7,UPI,2023-07-03,10:42,Monday,July,7,24.99,7,50
+INV-811567,A,Delhi,Normal,Female,Home Appliances,4707.91,7,1647.77,34603.14,32955.369999999995,0.05,1730.16,UPI,2023-02-15,21:35,Wednesday,February,8,25.35,13,15
+INV-889660,A,Mumbai,Normal,Male,Sports,303.75,6,91.12,1913.62,1822.5,0.05,95.68,Credit Card,2023-05-24,17:07,Wednesday,May,7,10.71,3,30
+INV-870348,A,Delhi,Member,Female,Electronics,3325.43,7,1163.9,24441.91,23278.01,0.05,1222.1,Credit Card,2023-06-10,17:56,Saturday,June,4,6.48,3,18
+INV-125739,B,Mumbai,Normal,Male,Home Appliances,3589.87,2,358.99,7538.73,7179.74,0.05,376.94,Cash,2023-04-18,21:48,Tuesday,April,1,21.22,7,48
+INV-969953,C,Delhi,Normal,Male,Home Appliances,3350.32,5,837.58,17589.18,16751.600000000002,0.05,879.46,UPI,2023-10-31,11:39,Tuesday,October,9,10.74,12,37
+INV-760354,A,Bangalore,Member,Female,Clothing,1969.09,2,196.91,4135.09,3938.18,0.05,206.75,Credit Card,2023-03-25,11:58,Saturday,March,7,21.94,1,50
+INV-449317,B,Delhi,Normal,Male,Clothing,2120.54,3,318.08,6679.7,6361.62,0.05,333.99,Cash,2023-06-11,19:45,Sunday,June,4,3.58,11,44
+INV-986867,B,Mumbai,Member,Male,Clothing,1662.83,8,665.13,13967.77,13302.64,0.05,698.39,Credit Card,2023-03-12,10:05,Sunday,March,5,2.64,6,19
+INV-922564,B,Delhi,Member,Male,Clothing,950.0,3,142.5,2992.5,2850.0,0.05,149.62,UPI,2023-03-10,14:52,Friday,March,9,19.06,12,20
+INV-848810,C,Delhi,Member,Female,Home Appliances,1098.14,5,274.54,5765.24,5490.700000000001,0.05,288.26,UPI,2023-11-24,12:56,Friday,November,6,25.74,7,49
+INV-100363,C,Bangalore,Normal,Female,Electronics,1566.03,7,548.11,11510.32,10962.21,0.05,575.52,Cash,2023-01-14,17:11,Saturday,January,7,7.77,8,24
+INV-991659,A,Mumbai,Member,Male,Electronics,3644.12,1,182.21,3826.33,3644.12,0.05,191.32,UPI,2023-08-11,10:00,Friday,August,7,18.02,12,48
+INV-495460,A,Bangalore,Normal,Male,Cosmetics,1929.7,6,578.91,12157.11,11578.2,0.05,607.86,UPI,2023-05-01,11:17,Monday,May,3,27.68,0,24
+INV-480350,C,Bangalore,Normal,Male,Electronics,2979.0,8,1191.6,25023.6,23832.0,0.05,1251.18,Credit Card,2023-05-05,10:10,Friday,May,9,18.07,8,16
+INV-764687,B,Delhi,Normal,Male,Home Appliances,2666.85,5,666.71,14000.96,13334.25,0.05,700.05,Cash,2023-08-16,17:20,Wednesday,August,8,23.23,9,26
+INV-382260,C,Delhi,Member,Male,Electronics,2558.09,6,767.43,16115.97,15348.54,0.05,805.8,UPI,2023-08-30,12:21,Wednesday,August,2,2.09,3,38
+INV-494485,C,Delhi,Normal,Female,Home Appliances,1969.78,9,886.4,18614.42,17728.02,0.05,930.72,Credit Card,2023-05-09,17:37,Tuesday,May,6,10.09,6,20
+INV-950185,B,Delhi,Member,Female,Electronics,2786.43,2,278.64,5851.5,5572.86,0.05,292.57,Credit Card,2023-10-21,15:50,Saturday,October,8,29.17,7,20
+INV-910935,C,Delhi,Normal,Female,Clothing,3090.22,7,1081.58,22713.12,21631.539999999997,0.05,1135.66,Credit Card,2023-10-16,18:17,Monday,October,9,13.7,11,62
+INV-734649,C,Delhi,Member,Female,Cosmetics,615.47,9,276.96,5816.19,5539.2300000000005,0.05,290.81,UPI,2023-06-29,17:31,Thursday,June,9,3.58,1,54
+INV-778145,C,Mumbai,Normal,Male,Sports,4179.11,7,1462.69,30716.46,29253.769999999997,0.05,1535.82,UPI,2023-08-20,08:20,Sunday,August,2,3.02,4,48
+INV-533917,C,Bangalore,Normal,Female,Clothing,3102.73,3,465.41,9773.6,9308.19,0.05,488.68,UPI,2023-09-03,09:45,Sunday,September,8,18.52,13,58
+INV-545625,C,Mumbai,Normal,Male,Home Appliances,1195.22,7,418.33,8784.87,8366.54,0.05,439.24,Credit Card,2023-06-26,18:01,Monday,June,4,15.5,12,54
+INV-459698,B,Delhi,Member,Female,Sports,2610.19,3,391.53,8222.1,7830.57,0.05,411.11,UPI,2023-07-29,12:29,Saturday,July,7,7.96,0,26
+INV-149156,C,Delhi,Normal,Male,Cosmetics,4626.98,5,1156.74,24291.64,23134.899999999998,0.05,1214.58,Credit Card,2023-01-18,16:47,Wednesday,January,6,7.49,12,17
+INV-241900,A,Delhi,Member,Female,Home Appliances,4267.64,2,426.76,8962.04,8535.28,0.05,448.1,Cash,2023-04-18,19:17,Tuesday,April,5,18.1,1,51
+INV-468893,B,Bangalore,Member,Female,Electronics,2000.75,8,800.3,16806.3,16006.0,0.05,840.32,Cash,2023-07-23,14:39,Sunday,July,9,12.19,4,27
+INV-327693,C,Delhi,Normal,Female,Home Appliances,3260.98,4,652.2,13696.12,13043.92,0.05,684.81,Cash,2023-11-29,16:52,Wednesday,November,2,25.35,7,21
+INV-946533,B,Bangalore,Normal,Female,Sports,3813.98,3,572.1,12014.04,11441.94,0.05,600.7,UPI,2023-09-12,11:20,Tuesday,September,1,6.27,11,40
+INV-482188,C,Delhi,Member,Female,Home Appliances,4723.83,7,1653.34,34720.15,33066.81,0.05,1736.01,Credit Card,2023-08-09,12:47,Wednesday,August,1,29.54,7,27
+INV-132152,C,Bangalore,Member,Male,Clothing,695.25,4,139.05,2920.05,2781.0,0.05,146.0,Cash,2023-04-14,12:41,Friday,April,5,9.05,0,42
+INV-706306,B,Mumbai,Member,Female,Home Appliances,2551.56,5,637.89,13395.69,12757.8,0.05,669.78,UPI,2023-09-01,13:27,Friday,September,5,29.31,1,27
+INV-390886,C,Delhi,Member,Female,Groceries,2254.11,6,676.23,14200.89,13524.66,0.05,710.04,UPI,2023-11-20,12:32,Monday,November,8,18.82,4,24
+INV-399189,A,Bangalore,Normal,Male,Clothing,210.63,6,63.19,1326.97,1263.78,0.05,66.35,UPI,2023-09-18,20:18,Monday,September,3,6.1,5,18
+INV-119403,C,Bangalore,Normal,Male,Sports,4596.68,8,1838.67,38612.11,36773.44,0.05,1930.61,Cash,2023-10-19,16:22,Thursday,October,2,24.06,2,23
+INV-370561,B,Delhi,Normal,Male,Clothing,4354.19,2,435.42,9143.8,8708.38,0.05,457.19,UPI,2023-03-04,16:54,Saturday,March,9,17.79,12,55
+INV-565483,B,Delhi,Member,Male,Home Appliances,710.06,2,71.01,1491.13,1420.12,0.05,74.56,Cash,2023-07-26,19:41,Wednesday,July,4,9.0,9,15
+INV-337474,B,Delhi,Normal,Female,Electronics,881.7,1,44.09,925.79,881.7,0.05,46.29,Cash,2023-09-08,18:23,Friday,September,6,4.55,0,52
+INV-380790,A,Bangalore,Member,Female,Clothing,3988.52,4,797.7,16751.78,15954.08,0.05,837.59,Cash,2023-02-28,16:03,Tuesday,February,2,28.02,7,45
+INV-726614,A,Bangalore,Normal,Male,Sports,2564.35,8,1025.74,21540.54,20514.8,0.05,1077.03,Cash,2023-02-17,10:42,Friday,February,8,14.01,9,30
+INV-596753,A,Delhi,Normal,Male,Groceries,2703.97,4,540.79,11356.67,10815.88,0.05,567.83,Credit Card,2023-07-14,13:48,Friday,July,9,29.9,11,63
+INV-689214,A,Bangalore,Normal,Female,Groceries,600.2,5,150.05,3151.05,3001.0,0.05,157.55,Cash,2023-11-08,11:30,Wednesday,November,7,4.75,3,29
+INV-923628,A,Delhi,Normal,Female,Electronics,4122.38,5,1030.6,21642.5,20611.9,0.05,1082.12,Credit Card,2023-05-25,09:36,Thursday,May,3,9.15,1,28
+INV-901798,C,Bangalore,Member,Female,Groceries,688.9,4,137.78,2893.38,2755.6,0.05,144.67,Credit Card,2023-11-04,10:44,Saturday,November,9,4.99,3,48
+INV-996972,C,Delhi,Member,Female,Groceries,4111.7,7,1439.1,30221.0,28781.899999999998,0.05,1511.05,Credit Card,2023-09-23,17:40,Saturday,September,7,26.73,9,24
+INV-472454,A,Bangalore,Member,Female,Sports,3562.87,3,534.43,11223.04,10688.61,0.05,561.15,Credit Card,2023-07-12,19:48,Wednesday,July,5,22.98,0,23
+INV-654661,B,Mumbai,Normal,Male,Sports,282.94,9,127.32,2673.78,2546.46,0.05,133.69,Credit Card,2023-03-03,11:39,Friday,March,3,23.51,0,27
+INV-595395,C,Mumbai,Member,Male,Groceries,3821.35,1,191.07,4012.42,3821.35,0.05,200.62,Cash,2023-08-09,18:48,Wednesday,August,6,27.27,6,41
+INV-907827,A,Bangalore,Normal,Male,Cosmetics,3094.6,8,1237.84,25994.64,24756.8,0.05,1299.73,Credit Card,2023-08-26,14:51,Saturday,August,6,8.36,11,19
+INV-784050,C,Delhi,Normal,Male,Sports,756.93,2,75.69,1589.55,1513.86,0.05,79.48,Cash,2023-07-17,16:28,Monday,July,1,29.96,2,56
+INV-571678,C,Delhi,Normal,Female,Electronics,2913.78,9,1311.2,27535.22,26224.02,0.05,1376.76,UPI,2023-02-09,10:24,Thursday,February,6,1.92,3,58
+INV-646774,B,Delhi,Normal,Male,Cosmetics,480.49,5,120.12,2522.57,2402.45,0.05,126.13,Credit Card,2023-07-03,14:47,Monday,July,6,10.05,12,63
+INV-174231,C,Bangalore,Member,Male,Clothing,4552.5,1,227.62,4780.12,4552.5,0.05,239.01,Credit Card,2023-11-18,10:18,Saturday,November,7,17.11,9,56
+INV-976801,C,Mumbai,Member,Female,Groceries,4714.74,9,2121.63,44554.29,42432.659999999996,0.05,2227.71,Credit Card,2023-01-17,18:46,Tuesday,January,4,22.46,4,53
+INV-302278,A,Mumbai,Member,Female,Cosmetics,4342.53,6,1302.76,27357.94,26055.18,0.05,1367.9,Credit Card,2023-09-08,14:16,Friday,September,4,2.91,3,52
+INV-872291,C,Mumbai,Normal,Male,Electronics,689.66,4,137.93,2896.57,2758.64,0.05,144.83,Credit Card,2023-08-04,20:08,Friday,August,3,3.11,4,32
+INV-268733,C,Bangalore,Normal,Male,Clothing,498.27,3,74.74,1569.55,1494.81,0.05,78.48,Credit Card,2023-09-25,09:16,Monday,September,8,24.52,6,31
+INV-744795,A,Bangalore,Member,Female,Groceries,4483.85,9,2017.73,42372.38,40354.65,0.05,2118.62,Cash,2023-09-28,19:23,Thursday,September,3,17.29,2,59
+INV-565536,C,Mumbai,Member,Female,Electronics,4059.39,1,202.97,4262.36,4059.39,0.05,213.12,UPI,2023-08-01,08:44,Tuesday,August,7,15.33,1,62
+INV-129777,A,Bangalore,Member,Male,Groceries,4836.49,2,483.65,10156.63,9672.98,0.05,507.83,Cash,2023-06-16,08:28,Friday,June,8,17.49,13,48
+INV-601754,B,Bangalore,Normal,Male,Groceries,1891.62,2,189.16,3972.4,3783.24,0.05,198.62,Credit Card,2023-02-07,18:08,Tuesday,February,9,7.32,14,49
+INV-513083,A,Mumbai,Normal,Female,Home Appliances,2774.24,4,554.85,11651.81,11096.96,0.05,582.59,Credit Card,2023-06-16,11:24,Friday,June,2,15.78,5,45
+INV-345847,B,Delhi,Member,Male,Clothing,1403.7,4,280.74,5895.54,5614.8,0.05,294.78,Credit Card,2023-06-15,14:03,Thursday,June,9,10.6,8,45
+INV-715781,B,Mumbai,Normal,Female,Electronics,2480.55,5,620.14,13022.89,12402.75,0.05,651.14,Cash,2023-04-18,09:41,Tuesday,April,7,12.33,9,29
+INV-806014,A,Mumbai,Normal,Male,Cosmetics,2903.9,1,145.2,3049.1,2903.9,0.05,152.46,UPI,2023-07-15,14:40,Saturday,July,3,18.22,6,53
+INV-239133,B,Delhi,Normal,Male,Sports,3400.52,6,1020.16,21423.28,20403.12,0.05,1071.16,Credit Card,2023-02-14,17:50,Tuesday,February,2,25.25,13,20
+INV-882409,A,Delhi,Normal,Female,Cosmetics,4226.87,2,422.69,8876.43,8453.74,0.05,443.82,Cash,2023-01-03,13:21,Tuesday,January,3,2.18,11,43
+INV-766627,B,Bangalore,Member,Male,Home Appliances,1771.72,7,620.1,13022.14,12402.04,0.05,651.11,Cash,2023-09-26,15:01,Tuesday,September,7,21.46,3,20
+INV-784308,A,Delhi,Member,Male,Sports,3813.62,9,1716.13,36038.71,34322.58,0.05,1801.94,Credit Card,2023-08-07,20:18,Monday,August,8,25.99,7,49
+INV-141269,B,Delhi,Member,Female,Home Appliances,4010.68,9,1804.81,37900.93,36096.119999999995,0.05,1895.05,Credit Card,2023-12-23,15:47,Saturday,December,3,8.0,11,39
+INV-342330,C,Mumbai,Normal,Male,Home Appliances,3899.75,4,779.95,16378.95,15599.0,0.05,818.95,Credit Card,2023-10-29,21:12,Sunday,October,6,20.62,7,63
+INV-112467,A,Mumbai,Normal,Male,Clothing,351.48,9,158.17,3321.49,3163.32,0.05,166.07,Cash,2023-09-15,16:12,Friday,September,2,9.88,10,40
+INV-260185,A,Mumbai,Normal,Male,Electronics,2248.71,7,787.05,16528.02,15740.970000000001,0.05,826.4,Credit Card,2023-11-19,10:59,Sunday,November,8,27.29,6,53
+INV-355095,A,Bangalore,Member,Female,Groceries,310.24,9,139.61,2931.77,2792.16,0.05,146.59,Cash,2023-06-30,20:11,Friday,June,1,11.9,5,30
+INV-306717,A,Delhi,Member,Female,Clothing,2868.02,3,430.2,9034.26,8604.06,0.05,451.71,UPI,2023-09-16,15:04,Saturday,September,7,5.22,9,56
+INV-350694,B,Mumbai,Member,Female,Electronics,3586.58,3,537.99,11297.73,10759.74,0.05,564.89,Cash,2023-07-19,18:44,Wednesday,July,2,27.89,14,46
+INV-213034,B,Bangalore,Member,Female,Sports,3279.76,2,327.98,6887.5,6559.52,0.05,344.38,Credit Card,2023-07-18,14:16,Tuesday,July,6,21.23,10,60
+INV-840686,A,Mumbai,Member,Male,Home Appliances,3890.59,2,389.06,8170.24,7781.18,0.05,408.51,UPI,2023-08-02,11:24,Wednesday,August,1,25.03,4,63
+INV-168369,B,Delhi,Member,Female,Cosmetics,3249.72,6,974.92,20473.24,19498.32,0.05,1023.66,Cash,2023-04-24,12:38,Monday,April,6,2.56,4,44
+INV-379349,A,Bangalore,Member,Male,Clothing,2520.97,2,252.1,5294.04,5041.94,0.05,264.7,Cash,2023-03-28,08:15,Tuesday,March,6,4.37,11,16
+INV-637691,C,Mumbai,Normal,Female,Clothing,2664.54,9,1199.04,25179.9,23980.86,0.05,1259.0,Credit Card,2023-11-11,12:54,Saturday,November,5,3.87,3,38
+INV-307397,C,Delhi,Member,Male,Groceries,3233.37,7,1131.68,23765.27,22633.59,0.05,1188.26,Credit Card,2023-02-16,12:58,Thursday,February,5,28.29,1,29
+INV-923932,C,Mumbai,Normal,Female,Clothing,2296.93,3,344.54,7235.33,6890.789999999999,0.05,361.77,Cash,2023-03-05,20:53,Sunday,March,3,13.1,13,17
+INV-769113,C,Delhi,Member,Female,Sports,3956.03,4,791.21,16615.33,15824.12,0.05,830.77,UPI,2023-01-11,08:37,Wednesday,January,1,25.09,14,52
+INV-638304,B,Mumbai,Normal,Male,Cosmetics,4879.23,4,975.85,20492.77,19516.92,0.05,1024.64,Cash,2023-04-21,09:58,Friday,April,3,16.18,11,53
+INV-505377,A,Mumbai,Normal,Male,Groceries,3850.99,6,1155.3,24261.24,23105.94,0.05,1213.06,Credit Card,2023-03-25,10:50,Saturday,March,2,1.93,12,24
+INV-201489,A,Mumbai,Member,Female,Sports,322.75,2,32.27,677.77,645.5,0.05,33.89,UPI,2023-07-07,13:30,Friday,July,4,15.76,0,61
+INV-627340,C,Delhi,Member,Female,Groceries,4864.21,1,243.21,5107.42,4864.21,0.05,255.37,Credit Card,2023-08-06,20:20,Sunday,August,6,9.21,9,22
+INV-387667,A,Bangalore,Normal,Male,Sports,1748.11,1,87.41,1835.52,1748.11,0.05,91.78,Cash,2023-05-24,12:02,Wednesday,May,8,29.49,10,35
+INV-186373,A,Mumbai,Normal,Male,Electronics,4353.29,6,1305.99,27425.73,26119.739999999998,0.05,1371.29,Credit Card,2023-03-31,17:58,Friday,March,9,26.31,7,47
+INV-916117,B,Delhi,Normal,Male,Sports,2775.32,6,832.6,17484.52,16651.920000000002,0.05,874.23,Credit Card,2023-01-21,15:50,Saturday,January,5,22.8,3,22
+INV-161192,C,Bangalore,Member,Male,Home Appliances,4226.46,2,422.65,8875.57,8452.92,0.05,443.78,Cash,2023-09-06,20:47,Wednesday,September,6,5.6,3,59
+INV-169351,C,Mumbai,Member,Male,Sports,962.03,6,288.61,6060.79,5772.18,0.05,303.04,Credit Card,2023-11-23,14:40,Thursday,November,6,1.47,5,45
+INV-284535,C,Bangalore,Member,Male,Electronics,4106.5,1,205.33,4311.83,4106.5,0.05,215.59,Cash,2023-03-14,16:26,Tuesday,March,3,7.81,11,42
+INV-899395,A,Mumbai,Member,Female,Sports,3592.32,5,898.08,18859.68,17961.600000000002,0.05,942.98,UPI,2023-02-11,14:41,Saturday,February,9,3.78,13,16
+INV-701513,B,Mumbai,Member,Male,Sports,3397.17,5,849.29,17835.14,16985.85,0.05,891.76,Credit Card,2023-05-09,14:09,Tuesday,May,4,10.3,12,17
+INV-753817,C,Bangalore,Normal,Male,Electronics,3031.17,6,909.35,19096.37,18187.02,0.05,954.82,Cash,2023-02-22,09:57,Wednesday,February,2,25.03,11,36
+INV-636512,A,Delhi,Member,Female,Cosmetics,3750.23,7,1312.58,27564.19,26251.61,0.05,1378.21,UPI,2023-01-24,11:00,Tuesday,January,1,12.96,4,59
+INV-957303,A,Bangalore,Member,Male,Clothing,2919.97,3,438.0,9197.91,8759.91,0.05,459.9,Credit Card,2023-02-15,14:10,Wednesday,February,6,18.64,12,40
+INV-593027,A,Delhi,Member,Female,Home Appliances,2443.69,8,977.48,20527.0,19549.52,0.05,1026.35,Cash,2023-02-04,15:27,Saturday,February,8,4.4,0,29
+INV-685842,A,Bangalore,Normal,Male,Clothing,825.96,9,371.68,7805.32,7433.64,0.05,390.27,UPI,2023-09-24,08:14,Sunday,September,4,13.44,2,27
+INV-208721,B,Bangalore,Normal,Female,Home Appliances,4921.24,2,492.12,10334.6,9842.48,0.05,516.73,Credit Card,2023-04-13,16:41,Thursday,April,7,24.99,6,17
+INV-247631,A,Mumbai,Member,Male,Groceries,1331.86,1,66.59,1398.45,1331.86,0.05,69.92,UPI,2023-01-26,08:36,Thursday,January,2,27.21,6,46
+INV-367291,B,Delhi,Member,Female,Sports,4843.22,2,484.32,10170.76,9686.44,0.05,508.54,Cash,2023-04-27,11:31,Thursday,April,1,14.07,2,62
+INV-822496,B,Delhi,Normal,Female,Electronics,4100.62,4,820.12,17222.6,16402.48,0.05,861.13,Cash,2023-08-05,17:18,Saturday,August,5,4.24,5,38
+INV-531779,B,Bangalore,Member,Male,Sports,3234.97,4,646.99,13586.87,12939.88,0.05,679.34,UPI,2023-12-23,12:35,Saturday,December,4,27.71,4,32
+INV-277763,B,Bangalore,Member,Male,Cosmetics,1802.62,9,811.18,17034.76,16223.579999999998,0.05,851.74,Cash,2023-01-22,09:20,Sunday,January,7,0.53,12,40
+INV-280324,C,Mumbai,Normal,Male,Cosmetics,2305.06,3,345.76,7260.94,6915.18,0.05,363.05,Cash,2023-03-14,21:48,Tuesday,March,2,20.75,13,28
+INV-442962,B,Delhi,Member,Female,Cosmetics,4900.78,3,735.12,15437.46,14702.34,0.05,771.87,Credit Card,2023-12-25,17:46,Monday,December,4,8.25,8,33
+INV-189846,A,Mumbai,Member,Female,Home Appliances,4292.63,2,429.26,9014.52,8585.26,0.05,450.73,Credit Card,2023-05-24,11:11,Wednesday,May,3,17.2,9,56
+INV-644392,C,Bangalore,Normal,Female,Cosmetics,2273.91,1,113.7,2387.61,2273.91,0.05,119.38,Cash,2023-03-10,20:41,Friday,March,1,7.59,3,32
+INV-561261,A,Bangalore,Member,Male,Clothing,1376.59,9,619.47,13008.78,12389.31,0.05,650.44,UPI,2023-01-29,20:49,Sunday,January,9,7.71,7,56
+INV-530000,B,Delhi,Member,Male,Sports,189.2,4,37.84,794.64,756.8,0.05,39.73,Cash,2023-03-23,09:56,Thursday,March,7,7.05,13,17
+INV-524190,A,Delhi,Member,Male,Electronics,2055.73,6,616.72,12951.1,12334.380000000001,0.05,647.56,Credit Card,2023-12-28,09:57,Thursday,December,4,24.59,8,52
+INV-284100,C,Bangalore,Member,Female,Home Appliances,430.14,7,150.55,3161.53,3010.98,0.05,158.08,UPI,2023-12-19,19:51,Tuesday,December,8,15.09,11,19
+INV-346301,B,Bangalore,Member,Female,Home Appliances,721.94,9,324.87,6822.33,6497.460000000001,0.05,341.12,UPI,2023-08-22,08:02,Tuesday,August,2,8.15,2,40
+INV-776419,A,Bangalore,Member,Male,Clothing,1922.66,9,865.2,18169.14,17303.940000000002,0.05,908.46,Cash,2023-03-03,10:45,Friday,March,9,21.27,6,58
+INV-172255,B,Delhi,Normal,Female,Groceries,731.78,7,256.12,5378.58,5122.46,0.05,268.93,Credit Card,2023-05-10,20:53,Wednesday,May,2,7.31,12,60
+INV-508548,A,Mumbai,Member,Male,Electronics,2441.52,8,976.61,20508.77,19532.16,0.05,1025.44,Cash,2023-06-20,16:33,Tuesday,June,7,3.83,5,17
+INV-285541,C,Delhi,Normal,Female,Clothing,4981.31,9,2241.59,47073.38,44831.79,0.05,2353.67,UPI,2023-05-06,15:52,Saturday,May,1,26.6,0,50
+INV-207092,A,Bangalore,Member,Male,Cosmetics,3041.31,7,1064.46,22353.63,21289.17,0.05,1117.68,UPI,2023-12-20,17:17,Wednesday,December,4,2.81,13,58
+INV-764093,A,Bangalore,Normal,Male,Electronics,4373.99,2,437.4,9185.38,8747.98,0.05,459.27,UPI,2023-09-12,20:59,Tuesday,September,8,26.46,14,23
+INV-598506,C,Delhi,Member,Female,Cosmetics,1002.11,8,400.84,8417.72,8016.88,0.05,420.89,Credit Card,2023-10-08,10:04,Sunday,October,8,20.69,10,54
+INV-451931,A,Delhi,Member,Male,Sports,3178.99,3,476.85,10013.82,9536.97,0.05,500.69,UPI,2023-06-19,20:38,Monday,June,9,4.37,4,33
+INV-399531,A,Mumbai,Normal,Female,Home Appliances,1382.49,7,483.87,10161.3,9677.43,0.05,508.06,Cash,2023-05-15,17:31,Monday,May,8,7.1,11,19
+INV-438592,B,Delhi,Normal,Female,Groceries,2912.18,5,728.05,15288.95,14560.9,0.05,764.45,Credit Card,2023-01-22,20:27,Sunday,January,7,1.59,1,64
+INV-864325,B,Bangalore,Member,Male,Home Appliances,325.85,7,114.05,2395.0,2280.9500000000003,0.05,119.75,Cash,2023-06-03,08:48,Saturday,June,2,27.5,13,64
+INV-871143,B,Delhi,Normal,Male,Groceries,2283.09,8,913.24,19177.96,18264.72,0.05,958.9,Credit Card,2023-05-26,18:40,Friday,May,1,13.92,12,20
+INV-437547,B,Bangalore,Normal,Female,Home Appliances,4167.04,6,1250.11,26252.35,25002.239999999998,0.05,1312.62,Credit Card,2023-09-19,17:38,Tuesday,September,3,19.11,2,37
+INV-515976,A,Delhi,Normal,Female,Groceries,2309.72,8,923.89,19401.65,18477.76,0.05,970.08,Credit Card,2023-03-30,20:20,Thursday,March,5,9.07,8,29
+INV-883077,C,Mumbai,Normal,Male,Sports,2368.09,9,1065.64,22378.45,21312.81,0.05,1118.92,Cash,2023-09-26,09:50,Tuesday,September,3,2.53,7,20
+INV-296936,A,Mumbai,Normal,Male,Home Appliances,1825.84,1,91.29,1917.13,1825.84,0.05,95.86,Cash,2023-11-19,09:38,Sunday,November,4,28.87,2,25
+INV-446140,C,Delhi,Normal,Female,Sports,1482.71,4,296.54,6227.38,5930.84,0.05,311.37,Cash,2023-05-09,18:27,Tuesday,May,2,3.01,8,16
+INV-718634,C,Bangalore,Member,Female,Electronics,172.12,8,68.85,1445.81,1376.96,0.05,72.29,UPI,2023-04-09,13:35,Sunday,April,7,24.02,12,49
+INV-244575,A,Mumbai,Normal,Female,Cosmetics,3194.56,9,1437.55,30188.59,28751.04,0.05,1509.43,UPI,2023-10-26,17:48,Thursday,October,3,10.16,6,16
+INV-289773,B,Bangalore,Normal,Male,Clothing,3417.24,3,512.59,10764.31,10251.72,0.05,538.22,Credit Card,2023-08-20,17:28,Sunday,August,9,0.95,4,17
+INV-719256,A,Bangalore,Member,Male,Home Appliances,3183.77,2,318.38,6685.92,6367.54,0.05,334.3,UPI,2023-10-21,14:20,Saturday,October,1,12.01,9,20
+INV-299294,B,Delhi,Normal,Male,Sports,2625.15,4,525.03,11025.63,10500.6,0.05,551.28,Credit Card,2023-01-28,20:16,Saturday,January,8,10.24,2,26
+INV-921462,A,Mumbai,Normal,Male,Groceries,4077.87,2,407.79,8563.53,8155.74,0.05,428.18,Credit Card,2023-09-05,21:21,Tuesday,September,5,8.67,10,19
+INV-660733,C,Delhi,Normal,Male,Home Appliances,296.81,1,14.84,311.65,296.81,0.05,15.58,Cash,2023-08-04,08:38,Friday,August,5,29.49,11,45
+INV-692610,C,Mumbai,Member,Male,Cosmetics,2538.02,9,1142.11,23984.29,22842.18,0.05,1199.21,Cash,2023-05-10,15:40,Wednesday,May,2,19.98,4,19
+INV-510259,A,Bangalore,Member,Female,Groceries,4768.92,5,1192.23,25036.83,23844.6,0.05,1251.84,UPI,2023-12-15,11:37,Friday,December,2,3.77,8,46
+INV-199122,B,Bangalore,Member,Male,Home Appliances,1090.45,9,490.7,10304.75,9814.050000000001,0.05,515.24,UPI,2023-11-19,08:00,Sunday,November,5,26.17,11,62
+INV-720804,C,Delhi,Member,Female,Electronics,828.16,3,124.22,2608.7,2484.48,0.05,130.44,Cash,2023-10-18,19:29,Wednesday,October,2,18.8,12,61
+INV-347541,C,Bangalore,Normal,Male,Cosmetics,641.27,5,160.32,3366.67,3206.35,0.05,168.33,Cash,2023-03-10,15:39,Friday,March,1,3.97,1,34
+INV-697993,A,Mumbai,Member,Female,Groceries,2753.93,2,275.39,5783.25,5507.86,0.05,289.16,UPI,2023-11-28,20:44,Tuesday,November,7,28.89,13,38
+INV-573594,A,Delhi,Normal,Male,Groceries,441.43,9,198.64,4171.51,3972.87,0.05,208.58,UPI,2023-06-27,20:59,Tuesday,June,2,20.9,0,19
+INV-498640,B,Bangalore,Member,Male,Sports,1216.63,9,547.48,11497.15,10949.670000000002,0.05,574.86,Cash,2023-11-26,15:17,Sunday,November,2,26.0,9,19
+INV-459181,B,Delhi,Member,Male,Cosmetics,679.2,3,101.88,2139.48,2037.6000000000001,0.05,106.97,UPI,2023-01-29,14:52,Sunday,January,1,2.37,4,31
+INV-733619,A,Delhi,Normal,Female,Home Appliances,2398.99,1,119.95,2518.94,2398.99,0.05,125.95,Cash,2023-07-05,21:28,Wednesday,July,3,23.91,7,27
+INV-150248,A,Delhi,Member,Female,Groceries,4037.06,1,201.85,4238.91,4037.06,0.05,211.95,UPI,2023-08-19,15:17,Saturday,August,1,28.04,5,31
+INV-362739,B,Bangalore,Member,Male,Groceries,4592.97,6,1377.89,28935.71,27557.82,0.05,1446.79,UPI,2023-04-30,12:33,Sunday,April,9,3.2,9,38
+INV-583042,C,Delhi,Normal,Female,Cosmetics,4748.94,1,237.45,4986.39,4748.94,0.05,249.32,Cash,2023-03-21,14:15,Tuesday,March,8,2.46,2,63
+INV-104055,B,Delhi,Member,Female,Cosmetics,3378.19,4,675.64,14188.4,13512.76,0.05,709.42,Credit Card,2023-09-30,16:05,Saturday,September,4,21.93,8,42
+INV-964358,B,Bangalore,Normal,Male,Electronics,3336.96,6,1001.09,21022.85,20021.760000000002,0.05,1051.14,UPI,2023-09-16,11:05,Saturday,September,1,21.68,4,20
+INV-608670,B,Mumbai,Normal,Female,Groceries,4589.53,9,2065.29,43371.06,41305.77,0.05,2168.55,Cash,2023-07-01,14:45,Saturday,July,8,5.67,12,56
+INV-768695,C,Bangalore,Normal,Male,Sports,1374.26,8,549.7,11543.78,10994.08,0.05,577.19,Cash,2023-09-13,17:47,Wednesday,September,6,22.04,10,46
+INV-974722,A,Delhi,Normal,Male,Groceries,221.52,2,22.15,465.19,443.04,0.05,23.26,Cash,2023-02-06,17:08,Monday,February,8,7.95,9,36
+INV-929374,C,Mumbai,Member,Male,Groceries,307.52,5,76.88,1614.48,1537.6,0.05,80.72,Credit Card,2023-12-14,10:42,Thursday,December,1,23.6,3,44
+INV-840970,C,Delhi,Normal,Female,Home Appliances,1535.33,5,383.83,8060.48,7676.65,0.05,403.02,Cash,2023-06-14,20:49,Wednesday,June,2,18.62,3,18
+INV-668178,A,Delhi,Member,Female,Cosmetics,3511.95,6,1053.58,22125.28,21071.699999999997,0.05,1106.26,Cash,2023-10-06,18:25,Friday,October,8,29.43,7,43
+INV-363881,C,Mumbai,Normal,Male,Sports,634.13,2,63.41,1331.67,1268.26,0.05,66.58,Cash,2023-02-19,21:53,Sunday,February,3,29.81,10,58
+INV-272106,C,Delhi,Normal,Female,Clothing,2724.08,5,681.02,14301.42,13620.4,0.05,715.07,Cash,2023-03-19,15:27,Sunday,March,7,6.09,9,57
+INV-745099,C,Delhi,Normal,Female,Clothing,4978.31,6,1493.49,31363.35,29869.86,0.05,1568.17,UPI,2023-05-29,19:51,Monday,May,2,21.9,4,18
+INV-580674,B,Bangalore,Member,Male,Electronics,355.29,8,142.12,2984.44,2842.32,0.05,149.22,UPI,2023-01-09,16:50,Monday,January,5,19.49,1,47
+INV-363685,A,Mumbai,Normal,Male,Groceries,2326.91,1,116.35,2443.26,2326.91,0.05,122.16,Credit Card,2023-12-03,18:30,Sunday,December,6,0.3,11,50
+INV-773616,C,Delhi,Member,Female,Home Appliances,2879.81,2,287.98,6047.6,5759.62,0.05,302.38,Credit Card,2023-09-15,14:28,Friday,September,7,3.3,13,58
+INV-618993,A,Mumbai,Member,Female,Sports,1243.27,6,372.98,7832.6,7459.62,0.05,391.63,Cash,2023-12-10,13:26,Sunday,December,8,20.92,7,52
+INV-755915,A,Bangalore,Normal,Female,Home Appliances,3924.59,6,1177.38,24724.92,23547.54,0.05,1236.25,Credit Card,2023-09-03,15:00,Sunday,September,9,28.65,7,21
+INV-540924,A,Delhi,Member,Male,Clothing,2042.51,2,204.25,4289.27,4085.02,0.05,214.46,Credit Card,2023-08-22,10:51,Tuesday,August,2,9.47,11,38
+INV-615971,C,Bangalore,Member,Male,Clothing,3424.84,6,1027.45,21576.49,20549.04,0.05,1078.82,UPI,2023-08-25,12:07,Friday,August,4,23.19,0,48
+INV-336836,B,Mumbai,Member,Male,Cosmetics,809.39,7,283.29,5949.02,5665.73,0.05,297.45,Credit Card,2023-03-04,17:56,Saturday,March,2,10.85,7,42
+INV-505123,B,Bangalore,Member,Female,Electronics,4056.38,7,1419.73,29814.39,28394.66,0.05,1490.72,UPI,2023-02-22,09:37,Wednesday,February,2,10.65,8,21
+INV-277129,B,Delhi,Member,Male,Electronics,2491.74,5,622.93,13081.63,12458.699999999999,0.05,654.08,UPI,2023-11-19,19:30,Sunday,November,4,4.77,11,25
+INV-626701,C,Delhi,Normal,Female,Cosmetics,2126.43,7,744.25,15629.26,14885.009999999998,0.05,781.46,Credit Card,2023-09-20,14:06,Wednesday,September,2,16.32,9,23
+INV-330168,A,Delhi,Member,Female,Clothing,3796.79,2,379.68,7973.26,7593.58,0.05,398.66,UPI,2023-02-10,20:41,Friday,February,4,2.74,8,33
+INV-582450,A,Mumbai,Normal,Female,Home Appliances,4464.77,8,1785.91,37504.07,35718.16,0.05,1875.2,Cash,2023-03-15,11:50,Wednesday,March,5,20.19,13,47
+INV-728580,C,Bangalore,Normal,Female,Home Appliances,4419.97,3,663.0,13922.91,13259.91,0.05,696.15,UPI,2023-10-13,13:02,Friday,October,9,13.86,1,26
+INV-743784,A,Bangalore,Member,Female,Electronics,4908.04,8,1963.22,41227.54,39264.32,0.05,2061.38,UPI,2023-08-09,18:29,Wednesday,August,2,13.58,9,48
+INV-544256,C,Bangalore,Member,Female,Clothing,4809.98,8,1923.99,40403.83,38479.84,0.05,2020.19,UPI,2023-12-23,13:59,Saturday,December,6,5.85,7,59
+INV-551069,C,Bangalore,Member,Female,Cosmetics,2835.14,1,141.76,2976.9,2835.14,0.05,148.84,Credit Card,2023-08-23,11:32,Wednesday,August,8,4.25,0,22
+INV-230466,B,Delhi,Member,Male,Sports,4834.62,2,483.46,10152.7,9669.24,0.05,507.64,UPI,2023-05-17,15:22,Wednesday,May,2,28.55,4,34
+INV-135757,A,Bangalore,Normal,Female,Clothing,3506.77,3,526.02,11046.33,10520.31,0.05,552.32,UPI,2023-09-09,21:54,Saturday,September,8,11.15,5,25
+INV-281549,A,Mumbai,Normal,Male,Clothing,3530.84,7,1235.79,25951.67,24715.88,0.05,1297.58,Credit Card,2023-08-23,10:48,Wednesday,August,6,16.97,4,41
+INV-464206,C,Mumbai,Normal,Female,Groceries,116.89,2,11.69,245.47,233.78,0.05,12.27,Cash,2023-12-18,19:16,Monday,December,4,21.85,12,23
+INV-164340,C,Delhi,Member,Female,Clothing,1743.82,1,87.19,1831.01,1743.82,0.05,91.55,Credit Card,2023-07-24,12:57,Monday,July,5,0.88,7,27
+INV-362512,C,Delhi,Normal,Male,Sports,2751.46,9,1238.16,26001.3,24763.14,0.05,1300.07,UPI,2023-08-27,21:07,Sunday,August,9,12.26,11,24
+INV-825155,A,Mumbai,Normal,Female,Groceries,310.91,1,15.55,326.46,310.91,0.05,16.32,UPI,2023-08-05,18:53,Saturday,August,7,12.65,13,53
+INV-811932,C,Delhi,Normal,Male,Sports,672.24,1,33.61,705.85,672.24,0.05,35.29,UPI,2023-02-25,13:03,Saturday,February,8,3.16,3,45
+INV-267558,B,Delhi,Normal,Male,Electronics,3195.37,7,1118.38,23485.97,22367.59,0.05,1174.3,Cash,2023-07-15,11:15,Saturday,July,6,12.42,7,47
+INV-600585,A,Bangalore,Member,Male,Home Appliances,1377.84,7,482.24,10127.12,9644.88,0.05,506.36,Cash,2023-01-07,18:54,Saturday,January,8,28.65,1,59
+INV-156747,A,Mumbai,Normal,Male,Cosmetics,1590.41,7,556.64,11689.51,11132.87,0.05,584.48,UPI,2023-10-19,16:23,Thursday,October,1,16.25,14,43
+INV-932651,A,Delhi,Member,Female,Cosmetics,1321.73,8,528.69,11102.53,10573.84,0.05,555.13,Credit Card,2023-02-02,11:41,Thursday,February,5,10.15,7,46
+INV-766220,A,Mumbai,Member,Female,Sports,4565.43,9,2054.44,43143.31,41088.87,0.05,2157.17,UPI,2023-11-29,14:20,Wednesday,November,5,29.04,10,19
+INV-469061,A,Delhi,Member,Female,Sports,909.67,9,409.35,8596.38,8187.03,0.05,429.82,Credit Card,2023-04-09,14:06,Sunday,April,3,29.75,6,51
+INV-278157,A,Bangalore,Normal,Male,Cosmetics,4174.3,6,1252.29,26298.09,25045.800000000003,0.05,1314.9,Credit Card,2023-02-21,18:32,Tuesday,February,1,29.72,13,41
+INV-941279,A,Delhi,Normal,Female,Electronics,1681.18,7,588.41,12356.67,11768.26,0.05,617.83,Cash,2023-12-28,20:48,Thursday,December,2,26.2,0,30
+INV-856572,C,Bangalore,Normal,Male,Home Appliances,4448.57,8,1779.43,37367.99,35588.56,0.05,1868.4,Credit Card,2023-06-15,13:52,Thursday,June,9,22.44,14,58
+INV-872783,C,Delhi,Normal,Male,Home Appliances,1065.84,7,373.04,7833.92,7460.879999999999,0.05,391.7,UPI,2023-03-20,16:38,Monday,March,9,22.06,14,46
+INV-435863,C,Delhi,Normal,Female,Clothing,1383.62,4,276.72,5811.2,5534.48,0.05,290.56,Credit Card,2023-06-12,09:37,Monday,June,6,3.09,4,32
+INV-158453,B,Bangalore,Normal,Female,Home Appliances,1966.87,9,885.09,18586.92,17701.829999999998,0.05,929.35,UPI,2023-04-06,21:25,Thursday,April,8,14.72,4,42
+INV-431065,C,Bangalore,Member,Female,Clothing,3108.44,4,621.69,13055.45,12433.76,0.05,652.77,Credit Card,2023-05-13,14:08,Saturday,May,6,8.07,7,34
+INV-377834,A,Bangalore,Member,Female,Sports,210.81,7,73.78,1549.45,1475.67,0.05,77.47,Credit Card,2023-10-20,09:33,Friday,October,6,14.53,14,58
+INV-783565,C,Delhi,Normal,Female,Cosmetics,4213.43,7,1474.7,30968.71,29494.010000000002,0.05,1548.44,UPI,2023-04-23,13:22,Sunday,April,8,5.74,8,17
+INV-685885,B,Bangalore,Member,Female,Home Appliances,1190.46,4,238.09,4999.93,4761.84,0.05,250.0,Credit Card,2023-04-23,19:43,Sunday,April,1,28.45,2,34
+INV-812585,C,Mumbai,Normal,Female,Groceries,3526.51,1,176.33,3702.84,3526.51,0.05,185.14,Credit Card,2023-08-16,14:31,Wednesday,August,6,23.89,8,61
+INV-536149,A,Delhi,Member,Female,Cosmetics,4627.06,5,1156.77,24292.07,23135.300000000003,0.05,1214.6,UPI,2023-05-25,15:39,Thursday,May,5,21.83,2,32
+INV-613223,B,Delhi,Member,Female,Cosmetics,1830.96,3,274.64,5767.52,5492.88,0.05,288.38,Credit Card,2023-10-30,13:15,Monday,October,2,14.77,10,53
+INV-838157,C,Bangalore,Normal,Male,Sports,860.19,1,43.01,903.2,860.19,0.05,45.16,UPI,2023-08-25,17:06,Friday,August,7,6.53,3,35
+INV-528670,A,Bangalore,Normal,Female,Electronics,696.64,8,278.66,5851.78,5573.12,0.05,292.59,UPI,2023-11-07,16:06,Tuesday,November,1,28.89,6,47
+INV-943810,B,Mumbai,Member,Female,Electronics,4917.77,8,1967.11,41309.27,39342.16,0.05,2065.46,Cash,2023-01-11,16:11,Wednesday,January,4,23.14,8,27
+INV-891841,C,Bangalore,Member,Female,Home Appliances,4279.85,5,1069.96,22469.21,21399.25,0.05,1123.46,UPI,2023-12-10,08:11,Sunday,December,7,2.73,12,27
+INV-781505,A,Delhi,Member,Male,Electronics,3748.82,7,1312.09,27553.83,26241.74,0.05,1377.69,Cash,2023-01-15,16:10,Sunday,January,7,18.82,12,16
+INV-246836,B,Delhi,Member,Male,Clothing,4800.93,7,1680.33,35286.84,33606.51,0.05,1764.34,UPI,2023-03-18,12:16,Saturday,March,3,2.4,7,27
+INV-379100,B,Bangalore,Member,Male,Home Appliances,4298.93,9,1934.52,40624.89,38690.37,0.05,2031.24,UPI,2023-07-22,15:05,Saturday,July,7,27.76,2,20
+INV-200025,B,Bangalore,Member,Male,Groceries,2523.43,7,883.2,18547.21,17664.01,0.05,927.36,UPI,2023-07-13,10:03,Thursday,July,6,24.15,4,42
+INV-520466,A,Bangalore,Normal,Male,Cosmetics,2619.16,9,1178.62,24751.06,23572.44,0.05,1237.55,Cash,2023-06-02,08:00,Friday,June,6,4.33,11,25
+INV-787810,B,Bangalore,Member,Female,Home Appliances,1703.82,5,425.96,8945.06,8519.1,0.05,447.25,UPI,2023-12-06,08:51,Wednesday,December,2,0.78,14,41
+INV-945308,B,Delhi,Member,Male,Clothing,2792.15,4,558.43,11727.03,11168.6,0.05,586.35,UPI,2023-11-05,08:21,Sunday,November,9,12.1,5,19
+INV-464534,C,Delhi,Member,Male,Cosmetics,990.17,6,297.05,6238.07,5941.0199999999995,0.05,311.9,Cash,2023-05-29,20:53,Monday,May,9,22.43,6,34
+INV-789197,B,Mumbai,Normal,Male,Groceries,2289.15,8,915.66,19228.86,18313.2,0.05,961.44,UPI,2023-08-16,08:20,Wednesday,August,8,8.12,11,22
+INV-363246,A,Bangalore,Normal,Male,Sports,2866.16,9,1289.77,27085.21,25795.44,0.05,1354.26,UPI,2023-10-02,08:01,Monday,October,6,2.6,1,36
+INV-309272,C,Bangalore,Normal,Male,Groceries,2081.0,1,104.05,2185.05,2081.0,0.05,109.25,UPI,2023-08-06,20:26,Sunday,August,8,20.85,2,63
+INV-968408,A,Bangalore,Normal,Male,Cosmetics,3757.55,1,187.88,3945.43,3757.55,0.05,197.27,Cash,2023-10-23,08:20,Monday,October,7,10.98,10,48
+INV-110794,A,Mumbai,Normal,Male,Electronics,627.9,6,188.37,3955.77,3767.3999999999996,0.05,197.79,UPI,2023-12-22,15:11,Friday,December,7,26.09,9,59
+INV-455992,C,Bangalore,Normal,Female,Electronics,332.62,1,16.63,349.25,332.62,0.05,17.46,Credit Card,2023-01-22,16:23,Sunday,January,8,21.76,5,20
+INV-945753,A,Delhi,Member,Male,Groceries,2451.11,1,122.56,2573.67,2451.11,0.05,128.68,UPI,2023-11-12,21:35,Sunday,November,6,20.79,9,64
+INV-160561,B,Bangalore,Normal,Male,Groceries,3512.66,4,702.53,14753.17,14050.64,0.05,737.66,Cash,2023-02-21,08:12,Tuesday,February,9,19.18,7,23
+INV-516443,C,Mumbai,Normal,Female,Electronics,4538.99,7,1588.65,33361.58,31772.93,0.05,1668.08,Credit Card,2023-09-10,16:09,Sunday,September,2,22.69,2,57
+INV-703756,B,Bangalore,Normal,Male,Electronics,2498.26,3,374.74,7869.52,7494.780000000001,0.05,393.48,Credit Card,2023-02-25,18:14,Saturday,February,4,21.73,5,61
+INV-371731,C,Mumbai,Member,Male,Clothing,4466.58,2,446.66,9379.82,8933.16,0.05,468.99,UPI,2023-03-12,09:17,Sunday,March,9,5.35,7,34
+INV-246826,C,Delhi,Normal,Male,Clothing,2118.94,7,741.63,15574.21,14832.58,0.05,778.71,Cash,2023-04-04,17:04,Tuesday,April,1,17.17,0,33
+INV-947959,A,Delhi,Member,Female,Clothing,1766.26,4,353.25,7418.29,7065.04,0.05,370.91,UPI,2023-03-02,14:20,Thursday,March,4,9.96,5,34
+INV-144484,A,Delhi,Normal,Male,Groceries,802.3,1,40.12,842.42,802.3,0.05,42.12,UPI,2023-10-07,21:35,Saturday,October,8,24.92,6,27
+INV-280645,C,Bangalore,Normal,Female,Electronics,3056.99,8,1222.8,25678.72,24455.92,0.05,1283.94,Credit Card,2023-01-26,09:15,Thursday,January,1,7.0,2,49
+INV-523206,C,Delhi,Member,Female,Home Appliances,1581.37,5,395.34,8302.19,7906.849999999999,0.05,415.11,UPI,2023-12-03,17:53,Sunday,December,3,2.18,10,56
+INV-788233,A,Bangalore,Member,Female,Clothing,1128.01,3,169.2,3553.23,3384.0299999999997,0.05,177.66,Cash,2023-02-25,20:57,Saturday,February,2,9.14,7,53
+INV-496848,C,Bangalore,Member,Male,Cosmetics,69.37,9,31.22,655.55,624.33,0.05,32.78,Cash,2023-01-22,09:45,Sunday,January,1,27.9,4,33
+INV-722696,B,Mumbai,Member,Female,Electronics,3324.26,8,1329.7,27923.78,26594.08,0.05,1396.19,Cash,2023-02-14,11:08,Tuesday,February,6,6.55,9,57
+INV-193190,C,Delhi,Normal,Female,Groceries,112.26,6,33.68,707.24,673.5600000000001,0.05,35.36,Credit Card,2023-07-30,21:46,Sunday,July,5,17.74,2,51
+INV-612191,B,Bangalore,Normal,Female,Electronics,4449.83,6,1334.95,28033.93,26698.98,0.05,1401.7,UPI,2023-06-14,20:16,Wednesday,June,6,10.12,12,47
+INV-553112,A,Mumbai,Normal,Female,Groceries,4295.93,4,859.19,18042.91,17183.72,0.05,902.15,Credit Card,2023-07-07,09:42,Friday,July,8,4.65,4,18
+INV-201551,A,Bangalore,Member,Male,Cosmetics,3558.56,2,355.86,7472.98,7117.12,0.05,373.65,UPI,2023-09-10,18:23,Sunday,September,1,22.93,8,42
+INV-639689,B,Bangalore,Normal,Female,Clothing,3214.51,7,1125.08,23626.65,22501.57,0.05,1181.33,Cash,2023-05-05,17:00,Friday,May,5,13.02,14,29
+INV-135135,B,Bangalore,Member,Male,Sports,4998.77,5,1249.69,26243.54,24993.850000000002,0.05,1312.18,Cash,2023-04-15,17:21,Saturday,April,9,17.62,7,37
+INV-959004,C,Mumbai,Member,Male,Electronics,4816.31,9,2167.34,45514.13,43346.79,0.05,2275.71,Credit Card,2023-06-11,16:59,Sunday,June,1,17.95,11,20
+INV-511811,B,Delhi,Normal,Female,Groceries,369.28,2,36.93,775.49,738.56,0.05,38.77,UPI,2023-06-18,21:28,Sunday,June,4,18.32,7,40
+INV-873589,A,Delhi,Member,Female,Cosmetics,1471.84,5,367.96,7727.16,7359.2,0.05,386.36,UPI,2023-01-28,11:15,Saturday,January,3,8.62,9,51
+INV-249457,B,Mumbai,Member,Female,Groceries,2294.41,2,229.44,4818.26,4588.82,0.05,240.91,Credit Card,2023-01-10,17:38,Tuesday,January,1,14.46,0,29
+INV-325825,C,Mumbai,Normal,Female,Cosmetics,1613.88,4,322.78,6778.3,6455.52,0.05,338.92,Credit Card,2023-05-18,14:40,Thursday,May,1,16.52,12,24
+INV-538863,A,Bangalore,Normal,Male,Home Appliances,1552.34,1,77.62,1629.96,1552.34,0.05,81.5,Credit Card,2023-11-29,08:04,Wednesday,November,1,7.64,6,62
+INV-922922,C,Bangalore,Normal,Male,Sports,980.23,1,49.01,1029.24,980.23,0.05,51.46,UPI,2023-12-20,20:13,Wednesday,December,3,16.06,14,31
+INV-397668,C,Delhi,Member,Male,Cosmetics,3710.4,8,1484.16,31167.36,29683.2,0.05,1558.37,Credit Card,2023-07-24,18:49,Monday,July,6,1.56,0,25
+INV-401411,B,Delhi,Member,Female,Clothing,3987.94,9,1794.57,37686.03,35891.46,0.05,1884.3,Credit Card,2023-05-10,12:00,Wednesday,May,6,28.07,2,23
+INV-709557,B,Bangalore,Normal,Male,Groceries,4056.67,2,405.67,8519.01,8113.34,0.05,425.95,UPI,2023-02-12,17:29,Sunday,February,6,7.02,13,16
+INV-791505,C,Mumbai,Member,Male,Cosmetics,2612.12,1,130.61,2742.73,2612.12,0.05,137.14,UPI,2023-09-02,15:47,Saturday,September,5,9.7,9,60
+INV-190410,C,Delhi,Normal,Female,Electronics,1848.45,3,277.27,5822.62,5545.35,0.05,291.13,UPI,2023-06-15,18:10,Thursday,June,4,17.57,1,64
+INV-619235,A,Bangalore,Member,Female,Electronics,649.72,9,292.37,6139.85,5847.4800000000005,0.05,306.99,UPI,2023-04-25,17:54,Tuesday,April,6,2.15,9,61
+INV-590224,B,Bangalore,Member,Female,Groceries,4660.88,1,233.04,4893.92,4660.88,0.05,244.7,UPI,2023-10-02,20:50,Monday,October,6,9.81,10,30
+INV-432343,B,Delhi,Member,Male,Electronics,1412.19,8,564.88,11862.4,11297.52,0.05,593.12,Cash,2023-03-16,14:25,Thursday,March,6,26.18,14,40
+INV-992737,A,Mumbai,Normal,Female,Electronics,1207.92,4,241.58,5073.26,4831.68,0.05,253.66,Credit Card,2023-01-23,20:24,Monday,January,2,17.34,11,27
+INV-104922,B,Bangalore,Member,Male,Cosmetics,2540.21,5,635.05,13336.1,12701.05,0.05,666.81,Cash,2023-07-01,09:07,Saturday,July,9,14.35,5,46
+INV-837609,C,Mumbai,Normal,Male,Cosmetics,2453.87,5,613.47,12882.82,12269.349999999999,0.05,644.14,UPI,2023-04-15,08:40,Saturday,April,7,16.07,13,24
+INV-910658,A,Mumbai,Member,Male,Clothing,74.18,6,22.25,467.33,445.08000000000004,0.05,23.37,UPI,2023-02-14,08:15,Tuesday,February,2,19.78,8,17
+INV-116304,C,Bangalore,Member,Male,Clothing,2411.39,4,482.28,10127.84,9645.56,0.05,506.39,Credit Card,2023-08-27,21:33,Sunday,August,6,3.35,7,56
+INV-954727,B,Mumbai,Member,Female,Clothing,4017.62,2,401.76,8437.0,8035.24,0.05,421.85,UPI,2023-10-08,20:18,Sunday,October,8,19.3,2,58
+INV-833682,B,Mumbai,Member,Male,Groceries,309.12,1,15.46,324.58,309.12,0.05,16.23,Cash,2023-08-16,08:13,Wednesday,August,9,14.49,4,26
+INV-979725,A,Bangalore,Normal,Female,Cosmetics,4890.38,4,978.08,20539.6,19561.52,0.05,1026.98,Credit Card,2023-10-18,12:46,Wednesday,October,4,11.38,10,58
+INV-581930,A,Delhi,Member,Female,Clothing,3095.97,5,773.99,16253.84,15479.849999999999,0.05,812.69,Credit Card,2023-12-06,19:03,Wednesday,December,9,11.47,8,27
+INV-574587,B,Bangalore,Normal,Female,Groceries,3623.82,6,1087.15,22830.07,21742.920000000002,0.05,1141.5,Credit Card,2023-04-16,20:38,Sunday,April,3,1.6,0,27
+INV-959705,C,Mumbai,Normal,Male,Electronics,294.28,5,73.57,1544.97,1471.3999999999999,0.05,77.25,Cash,2023-03-07,17:21,Tuesday,March,9,26.01,12,62
+INV-963165,C,Delhi,Member,Female,Cosmetics,282.47,1,14.12,296.59,282.47,0.05,14.83,Cash,2023-06-01,21:12,Thursday,June,2,7.29,10,22
+INV-402138,B,Delhi,Member,Female,Clothing,510.88,4,102.18,2145.7,2043.52,0.05,107.28,UPI,2023-01-16,21:15,Monday,January,5,8.78,13,57
+INV-187566,B,Bangalore,Member,Female,Clothing,2569.26,6,770.78,16186.34,15415.560000000001,0.05,809.32,Cash,2023-10-16,21:58,Monday,October,2,8.94,13,37
+INV-586598,A,Mumbai,Member,Female,Groceries,4220.64,1,211.03,4431.67,4220.64,0.05,221.58,Credit Card,2023-10-28,21:14,Saturday,October,4,2.27,5,60
+INV-527709,C,Bangalore,Normal,Female,Clothing,2096.05,6,628.82,13205.12,12576.300000000001,0.05,660.26,Credit Card,2023-03-16,20:30,Thursday,March,9,10.61,7,33
+INV-179944,A,Bangalore,Member,Male,Groceries,1010.94,4,202.19,4245.95,4043.76,0.05,212.3,Cash,2023-02-02,15:24,Thursday,February,2,14.18,4,39
+INV-963548,A,Bangalore,Normal,Female,Groceries,4033.92,6,1210.18,25413.7,24203.52,0.05,1270.69,UPI,2023-06-25,20:51,Sunday,June,1,7.2,5,28
+INV-792272,A,Bangalore,Normal,Male,Home Appliances,4486.59,9,2018.97,42398.28,40379.31,0.05,2119.91,Cash,2023-12-04,10:09,Monday,December,7,18.65,10,41
+INV-536572,B,Bangalore,Normal,Female,Clothing,1990.39,5,497.6,10449.55,9951.95,0.05,522.48,UPI,2023-03-12,10:56,Sunday,March,3,25.08,6,26
+INV-169672,C,Mumbai,Normal,Female,Home Appliances,3395.67,5,848.92,17827.27,16978.35,0.05,891.36,UPI,2023-05-11,16:57,Thursday,May,7,18.2,6,37
+INV-974290,A,Mumbai,Normal,Female,Home Appliances,154.24,9,69.41,1457.57,1388.16,0.05,72.88,UPI,2023-01-13,19:26,Friday,January,4,6.84,3,15
+INV-862476,B,Delhi,Normal,Female,Home Appliances,1583.18,3,237.48,4987.02,4749.54,0.05,249.35,Cash,2023-05-21,15:54,Sunday,May,4,11.5,3,55
+INV-877867,A,Delhi,Normal,Male,Electronics,1457.23,4,291.45,6120.37,5828.92,0.05,306.02,Credit Card,2023-12-31,19:10,Sunday,December,2,29.9,4,34
+INV-761809,A,Mumbai,Normal,Female,Cosmetics,1366.81,5,341.7,7175.75,6834.049999999999,0.05,358.79,UPI,2023-10-08,18:08,Sunday,October,9,20.65,0,28
+INV-911624,B,Delhi,Member,Female,Cosmetics,1065.68,9,479.56,10070.68,9591.12,0.05,503.53,UPI,2023-11-24,12:04,Friday,November,3,14.03,8,44
+INV-820217,A,Bangalore,Member,Male,Clothing,642.75,1,32.14,674.89,642.75,0.05,33.74,Credit Card,2023-01-14,21:00,Saturday,January,9,28.3,9,61
+INV-607730,B,Delhi,Normal,Female,Electronics,3401.61,8,1360.64,28573.52,27212.88,0.05,1428.68,UPI,2023-04-21,14:14,Friday,April,8,14.93,10,24
+INV-639203,A,Bangalore,Normal,Male,Electronics,955.47,1,47.77,1003.24,955.47,0.05,50.16,Cash,2023-11-24,19:22,Friday,November,5,15.11,0,18
+INV-787318,B,Mumbai,Member,Male,Sports,2891.18,1,144.56,3035.74,2891.18,0.05,151.79,UPI,2023-12-12,08:38,Tuesday,December,4,12.98,11,16
+INV-859994,A,Mumbai,Member,Male,Groceries,3258.11,8,1303.24,27368.12,26064.88,0.05,1368.41,Cash,2023-08-25,15:10,Friday,August,6,9.3,8,41
+INV-742064,A,Delhi,Normal,Male,Electronics,500.13,4,100.03,2100.55,2000.52,0.05,105.03,Cash,2023-05-08,19:00,Monday,May,5,25.07,1,61
+INV-903789,C,Bangalore,Normal,Female,Clothing,1221.33,1,61.07,1282.4,1221.33,0.05,64.12,UPI,2023-03-11,15:11,Saturday,March,7,18.4,3,29
+INV-972700,B,Bangalore,Member,Male,Electronics,381.61,9,171.72,3606.21,3434.4900000000002,0.05,180.31,Credit Card,2023-09-23,17:47,Saturday,September,7,21.72,4,17
+INV-106475,C,Mumbai,Normal,Male,Cosmetics,2069.8,5,517.45,10866.45,10349.0,0.05,543.32,Cash,2023-11-04,12:55,Saturday,November,4,9.81,6,56
+INV-531915,C,Delhi,Member,Female,Home Appliances,3520.01,7,1232.0,25872.07,24640.07,0.05,1293.6,Cash,2023-04-19,20:39,Wednesday,April,6,26.38,9,40
+INV-332298,B,Bangalore,Member,Male,Groceries,2435.87,6,730.76,15345.98,14615.22,0.05,767.3,Credit Card,2023-02-26,21:49,Sunday,February,2,8.48,9,22
+INV-246154,A,Bangalore,Normal,Male,Home Appliances,3372.96,7,1180.54,24791.26,23610.72,0.05,1239.56,Credit Card,2023-10-15,13:41,Sunday,October,9,5.92,14,21
+INV-163295,B,Mumbai,Member,Male,Electronics,3694.46,3,554.17,11637.55,11083.380000000001,0.05,581.88,Credit Card,2023-10-18,08:20,Wednesday,October,4,1.39,8,49
+INV-287167,B,Bangalore,Normal,Female,Clothing,3149.19,6,944.76,19839.9,18895.14,0.05,992.0,UPI,2023-12-31,12:32,Sunday,December,4,19.67,11,45
+INV-157450,B,Delhi,Member,Male,Groceries,1438.61,2,143.86,3021.08,2877.22,0.05,151.05,Cash,2023-07-11,21:18,Tuesday,July,6,9.43,4,34
+INV-235090,C,Bangalore,Member,Female,Home Appliances,3662.95,2,366.3,7692.2,7325.9,0.05,384.61,Cash,2023-04-02,20:54,Sunday,April,9,18.33,4,20
+INV-584427,B,Bangalore,Member,Male,Clothing,3793.36,8,1517.34,31864.22,30346.88,0.05,1593.21,UPI,2023-09-10,20:42,Sunday,September,3,11.35,10,33
+INV-109795,B,Mumbai,Normal,Male,Cosmetics,549.69,8,219.88,4617.4,4397.52,0.05,230.87,Credit Card,2023-03-23,19:35,Thursday,March,4,6.84,14,17
+INV-489913,A,Bangalore,Normal,Male,Clothing,2983.21,9,1342.44,28191.33,26848.89,0.05,1409.57,Cash,2023-03-30,08:05,Thursday,March,8,16.8,8,32
+INV-288210,B,Delhi,Normal,Male,Home Appliances,2549.42,7,892.3,18738.24,17845.940000000002,0.05,936.91,Cash,2023-07-15,16:36,Saturday,July,8,7.95,2,61
+INV-682994,A,Mumbai,Normal,Female,Home Appliances,720.81,6,216.24,4541.1,4324.86,0.05,227.06,Credit Card,2023-11-30,08:40,Thursday,November,5,7.58,6,33
+INV-143013,B,Delhi,Normal,Male,Clothing,1946.66,7,681.33,14307.95,13626.62,0.05,715.4,UPI,2023-01-23,20:39,Monday,January,6,23.45,10,25
+INV-316110,C,Delhi,Member,Female,Cosmetics,581.7,1,29.09,610.79,581.7,0.05,30.54,Credit Card,2023-09-01,14:26,Friday,September,9,29.2,12,25
+INV-933608,B,Delhi,Member,Male,Sports,2726.75,6,818.03,17178.53,16360.5,0.05,858.93,Credit Card,2023-12-14,15:28,Thursday,December,4,17.08,7,32
+INV-185001,B,Bangalore,Normal,Female,Sports,2829.84,1,141.49,2971.33,2829.84,0.05,148.57,UPI,2023-12-15,14:59,Friday,December,9,26.63,11,17
+INV-377311,A,Bangalore,Member,Female,Sports,3494.61,9,1572.57,33024.06,31451.49,0.05,1651.2,Credit Card,2023-01-02,15:13,Monday,January,7,18.0,7,41
+INV-777751,B,Delhi,Member,Female,Clothing,4136.02,7,1447.61,30399.75,28952.140000000003,0.05,1519.99,UPI,2023-07-26,17:00,Wednesday,July,4,25.6,0,57
+INV-965847,B,Delhi,Member,Male,Cosmetics,1363.16,6,408.95,8587.91,8178.960000000001,0.05,429.4,Cash,2023-03-15,18:16,Wednesday,March,5,13.33,10,25
+INV-735861,B,Delhi,Normal,Male,Groceries,992.55,6,297.76,6253.06,5955.299999999999,0.05,312.65,Credit Card,2023-07-17,20:21,Monday,July,5,5.74,1,28
+INV-938569,C,Mumbai,Normal,Female,Sports,2255.91,5,563.98,11843.53,11279.55,0.05,592.18,Credit Card,2023-10-19,09:06,Thursday,October,2,19.8,4,27
+INV-403564,A,Bangalore,Normal,Female,Sports,3804.0,1,190.2,3994.2,3804.0,0.05,199.71,Credit Card,2023-02-07,16:25,Tuesday,February,1,15.82,8,44
+INV-982756,A,Delhi,Member,Female,Electronics,4290.23,8,1716.09,36037.93,34321.84,0.05,1801.9,UPI,2023-02-25,08:11,Saturday,February,8,2.34,8,15
+INV-853642,A,Mumbai,Normal,Female,Home Appliances,2489.27,3,373.39,7841.2,7467.8099999999995,0.05,392.06,UPI,2023-02-18,10:59,Saturday,February,2,19.18,7,31
+INV-350699,B,Bangalore,Member,Male,Sports,2180.07,4,436.01,9156.29,8720.28,0.05,457.81,Credit Card,2023-03-02,08:48,Thursday,March,4,7.7,10,64
+INV-890944,C,Delhi,Member,Male,Home Appliances,3956.99,2,395.7,8309.68,7913.98,0.05,415.48,UPI,2023-10-20,21:41,Friday,October,7,0.16,7,30
+INV-744821,B,Bangalore,Member,Male,Clothing,3291.79,1,164.59,3456.38,3291.79,0.05,172.82,Cash,2023-03-29,15:08,Wednesday,March,1,18.23,11,29
+INV-136382,A,Delhi,Normal,Male,Electronics,386.65,6,115.99,2435.89,2319.8999999999996,0.05,121.79,Credit Card,2023-03-15,20:57,Wednesday,March,9,5.65,2,60
+INV-886166,A,Delhi,Member,Female,Clothing,4964.22,7,1737.48,36487.02,34749.54,0.05,1824.35,Credit Card,2023-09-17,18:51,Sunday,September,9,16.01,3,50
+INV-942653,C,Mumbai,Normal,Female,Electronics,4156.99,7,1454.95,30553.88,29098.93,0.05,1527.69,UPI,2023-01-17,20:10,Tuesday,January,3,13.65,5,57
+INV-964899,B,Mumbai,Normal,Male,Cosmetics,3897.8,5,974.45,20463.45,19489.0,0.05,1023.17,Credit Card,2023-10-29,08:34,Sunday,October,5,5.05,3,33
+INV-459267,A,Mumbai,Member,Male,Groceries,4925.4,6,1477.62,31030.02,29552.399999999998,0.05,1551.5,UPI,2023-02-27,15:27,Monday,February,5,5.84,7,52
+INV-615689,A,Bangalore,Normal,Male,Cosmetics,813.03,9,365.86,7683.13,7317.2699999999995,0.05,384.16,Cash,2023-07-08,18:01,Saturday,July,8,2.98,9,27
+INV-145708,C,Delhi,Member,Male,Cosmetics,648.76,7,227.07,4768.39,4541.32,0.05,238.42,Credit Card,2023-07-14,21:51,Friday,July,3,20.5,2,59
